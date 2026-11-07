@@ -1,0 +1,405 @@
+{
+  "last_updated": "2026-11-07T09:03:10.209098+00:00",
+  "total_count": 21,
+  "items": [
+    {
+      "id": "6a0272081f51",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpx0on/good_luck_getting_a_cheap_gpu_amd_is_a_data/",
+      "published_at": "2026-11-07T04:05:32+00:00",
+      "title_en": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says",
+      "title_zh": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says",
+      "tldr": [
+        "信源首发自 Reddit r/LocalLLaMA，紧跟一手前沿技术脉络",
+        "they are all the same and we ... are too emotional! and yes we already knew that. &#32; su...",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#社区实测",
+      "importance": 3
+    },
+    {
+      "id": "67e46e939aab",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpqx1p/six_pallets_of_nvidia_hardware_worth_114_million/",
+      "published_at": "2026-11-06T23:03:21+00:00",
+      "title_en": "Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas",
+      "title_zh": "Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas",
+      "tldr": [
+        "信源首发自 Reddit r/LocalLLaMA，紧跟一手前沿技术脉络",
+        "&#32; submitted by &#32; /u/chemist_slime [link] &#32; [comments]...",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#社区实测",
+      "importance": 3
+    },
+    {
+      "id": "30a97d998b3b",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-06T21:21:50Z",
+      "title_en": "affaan-m/ECC (298770 Stars, JavaScript)",
+      "title_zh": "affaan-m/ECC (298770 Stars, JavaScript)",
+      "tldr": [
+        "信源首发自 GitHub Trending AI，紧跟一手前沿技术脉络",
+        "GitHub AI Repository. Stars: 298770. Language: JavaScript. Description: The agent harness ...",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#开源生态",
+      "importance": 4
+    },
+    {
+      "id": "6abd112578f2",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/",
+      "published_at": "2026-11-06T20:12:07+00:00",
+      "title_en": "We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13.0 and Open Terminal 0.17.2)",
+      "title_zh": "We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13.0 and Open Terminal 0.17.2)",
+      "tldr": [
+        "信源首发自 Reddit r/LocalLLaMA，紧跟一手前沿技术脉络",
+        "Forget stupid pelican on a bike SVG bullshit. Forget cheating by drawing using Python code...",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#社区实测",
+      "importance": 3
+    },
+    {
+      "id": "b0259d164771",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-06T17:11:19Z",
+      "title_en": "Graphify-Labs/graphify (143694 Stars, Python)",
+      "title_zh": "Graphify-Labs/graphify (143694 Stars, Python)",
+      "tldr": [
+        "信源首发自 GitHub Trending AI，紧跟一手前沿技术脉络",
+        "GitHub AI Repository. Stars: 143694. Language: Python. Description: Turn any codebase, wit...",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#开源生态",
+      "importance": 4
+    },
+    {
+      "id": "aa7f6b560108",
+      "source_id": "hf_blog",
+      "source_name": "Hugging Face Blog",
+      "source_badge": "开源生态",
+      "source_icon": "huggingface",
+      "source_color": "#ff9d00",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "published_at": "2026-11-06T14:00:48+00:00",
+      "title_en": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "title_zh": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "tldr": [
+        "信源首发自 Hugging Face Blog，紧跟一手前沿技术脉络",
+        "包含一手关键技术细节与更新说明",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#官方发布",
+      "importance": 3
+    },
+    {
+      "id": "365a36d2a888",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "title_zh": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "tldr": [
+        "信源首发自 OpenAI Official，紧跟一手前沿技术脉络",
+        "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-pa...",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#官方发布",
+      "importance": 4
+    },
+    {
+      "id": "4fcb8d2c277b",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "title_en": "Measuring how AI agents handle everyday wet-lab science",
+      "title_zh": "Measuring how AI agents handle everyday wet-lab science",
+      "tldr": [
+        "信源首发自 OpenAI Official，紧跟一手前沿技术脉络",
+        "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interp...",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#官方发布",
+      "importance": 4
+    },
+    {
+      "id": "4aa5906f65ab",
+      "source_id": "hf_blog",
+      "source_name": "Hugging Face Blog",
+      "source_badge": "开源生态",
+      "source_icon": "huggingface",
+      "source_color": "#ff9d00",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "title_en": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "title_zh": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "tldr": [
+        "信源首发自 Hugging Face Blog，紧跟一手前沿技术脉络",
+        "包含一手关键技术细节与更新说明",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#官方发布",
+      "importance": 3
+    },
+    {
+      "id": "05293324ed17",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "published_at": "2026-11-05T20:00:00+00:00",
+      "title_en": "Cult.fit builds operational muscle with Codex",
+      "title_zh": "Cult.fit builds operational muscle with Codex",
+      "tldr": [
+        "信源首发自 OpenAI Official，紧跟一手前沿技术脉络",
+        "Cult.fit is using Codex to help teams across functions build tools, move faster, and chang...",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#官方发布",
+      "importance": 4
+    },
+    {
+      "id": "943de1e4b19c",
+      "source_id": "hf_blog",
+      "source_name": "Hugging Face Blog",
+      "source_badge": "开源生态",
+      "source_icon": "huggingface",
+      "source_color": "#ff9d00",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "published_at": "2026-11-05T19:35:16+00:00",
+      "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "title_zh": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "tldr": [
+        "信源首发自 Hugging Face Blog，紧跟一手前沿技术脉络",
+        "包含一手关键技术细节与更新说明",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#官方发布",
+      "importance": 3
+    },
+    {
+      "id": "d656e0ee6d8b",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "published_at": "2026-11-05T17:00:00+00:00",
+      "title_en": "Australian universities are creating AI-native graduates",
+      "title_zh": "Australian universities are creating AI-native graduates",
+      "tldr": [
+        "信源首发自 OpenAI Official，紧跟一手前沿技术脉络",
+        "Australian universities are expanding access to ChatGPT and bringing AI into teaching and ...",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#官方发布",
+      "importance": 4
+    },
+    {
+      "id": "4d61cc3eb3ef",
+      "source_id": "google_ai",
+      "source_name": "Google AI & DeepMind",
+      "source_badge": "Google 官方",
+      "source_icon": "google",
+      "source_color": "#4285f4",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "published_at": "2026-11-05T17:00:00+00:00",
+      "title_en": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "title_zh": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "tldr": [
+        "信源首发自 Google AI & DeepMind，紧跟一手前沿技术脉络",
+        "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals...",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#官方发布",
+      "importance": 4
+    },
+    {
+      "id": "197a34b46937",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.08483",
+      "published_at": "2026-11-04T19:00:00.000Z",
+      "title_en": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "title_zh": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "tldr": [
+        "信源首发自 Hugging Face Daily Papers，紧跟一手前沿技术脉络",
+        "HF Community Upvotes: 3. Summary: LLM-guided evolutionary search uses AI agents to improve...",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "4d0e8d0f78c5",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.06498",
+      "published_at": "2026-11-04T08:32:04.000Z",
+      "title_en": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation",
+      "title_zh": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation",
+      "tldr": [
+        "信源首发自 Hugging Face Daily Papers，紧跟一手前沿技术脉络",
+        "HF Community Upvotes: 1. Summary: Offline retrieval-augmented generation (RAG) on edge dev...",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "b103a067cd0e",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.06500",
+      "published_at": "2026-11-03T19:00:00.000Z",
+      "title_en": "Tools Need Not Speak in Text: Latent Context Compression for Agents",
+      "title_zh": "Tools Need Not Speak in Text: Latent Context Compression for Agents",
+      "tldr": [
+        "信源首发自 Hugging Face Daily Papers，紧跟一手前沿技术脉络",
+        "HF Community Upvotes: 1. Summary: Large language model (LLM) agents typically append raw t...",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "95b644ba4bb0",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.04386",
+      "published_at": "2026-11-02T19:00:00.000Z",
+      "title_en": "StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models",
+      "title_zh": "StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models",
+      "tldr": [
+        "信源首发自 Hugging Face Daily Papers，紧跟一手前沿技术脉络",
+        "HF Community Upvotes: 3. Summary: A deployable text-to-image diffusion model must hold sev...",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "c7c43fab0a24",
+      "source_id": "google_ai",
+      "source_name": "Google AI & DeepMind",
+      "source_badge": "Google 官方",
+      "source_icon": "google",
+      "source_color": "#4285f4",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "published_at": "2026-11-02T17:45:00+00:00",
+      "title_en": "The latest AI news we announced in October 2026",
+      "title_zh": "The latest AI news we announced in October 2026",
+      "tldr": [
+        "信源首发自 Google AI & DeepMind，紧跟一手前沿技术脉络",
+        "Animated carousel of images from AI posts in October...",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#官方发布",
+      "importance": 4
+    },
+    {
+      "id": "fa73e47777bf",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "published_at": "2026-10-29T11:59:31Z",
+      "title_en": "DietrichGebert/ponytail (186028 Stars, JavaScript)",
+      "title_zh": "DietrichGebert/ponytail (186028 Stars, JavaScript)",
+      "tldr": [
+        "信源首发自 GitHub Trending AI，紧跟一手前沿技术脉络",
+        "GitHub AI Repository. Stars: 186028. Language: JavaScript. Description: Makes your AI agen...",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#开源生态",
+      "importance": 4
+    },
+    {
+      "id": "7ad0717eff4e",
+      "source_id": "google_ai",
+      "source_name": "Google AI & DeepMind",
+      "source_badge": "Google 官方",
+      "source_icon": "google",
+      "source_color": "#4285f4",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "published_at": "2026-10-26T16:00:00+00:00",
+      "title_en": "Our newest AI Quest: Mapping the human brain",
+      "title_zh": "Our newest AI Quest: Mapping the human brain",
+      "tldr": [
+        "信源首发自 Google AI & DeepMind，紧跟一手前沿技术脉络",
+        "An illustration of a planet rotating to show various cartoon figures waving. At the top is...",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#官方发布",
+      "importance": 4
+    },
+    {
+      "id": "99e83245ebd1",
+      "source_id": "google_ai",
+      "source_name": "Google AI & DeepMind",
+      "source_badge": "Google 官方",
+      "source_icon": "google",
+      "source_color": "#4285f4",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "published_at": "2026-10-21T04:00:00+00:00",
+      "title_en": "Southeast Asia’s digital economy to hit $368 billion",
+      "title_zh": "Southeast Asia’s digital economy to hit $368 billion",
+      "tldr": [
+        "信源首发自 Google AI & DeepMind，紧跟一手前沿技术脉络",
+        "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Go...",
+        "点击可直接跳转官方源地址获取完整发布内容"
+      ],
+      "tag": "#官方发布",
+      "importance": 4
+    }
+  ]
+}
