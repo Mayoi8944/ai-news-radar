@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T09:08:31.667015+00:00",
-  "total_count": 21,
+  "last_updated": "2026-11-07T09:56:00.790184+00:00",
+  "total_count": 24,
   "items": [
     {
       "id": "6a0272081f51",
@@ -41,6 +41,24 @@
       "importance": 3
     },
     {
+      "id": "efa2c3fa8dca",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-06T21:21:50Z",
+      "title_en": "affaan-m/ECC",
+      "title_zh": "ECC：Agent Harness 性能优化与安全控制系统",
+      "tldr": [
+        "专注于 Agent Harness 性能优化，集成技能、直觉、记忆、安全防护与研究优先开发机制。",
+        "全面适配 Claude Code、Codex、Opencode、Cursor 等主流 AI 编程环境及工具链。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
+    {
       "id": "546edd7ac76a",
       "source_id": "github_ai",
       "source_name": "GitHub Trending AI",
@@ -76,6 +94,24 @@
         "展示了多模态 Agent 在虚拟桌面环境中直接进行图形交互与精准控制的极高潜力"
       ],
       "tag": "#社区热议",
+      "importance": 4
+    },
+    {
+      "id": "798dad46a5e8",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-06T17:11:19Z",
+      "title_en": "Graphify-Labs/graphify",
+      "title_zh": "Graphify：基于本地 AST 解析的零向量库知识图谱生成工具",
+      "tldr": [
+        "支持将任意代码库、文档、SQL 架构及 PDF 转换为可查询的高精度知识图谱。",
+        "采用本地确定性 AST 解析架构，实现全链路图边解释，完全不依赖向量数据库。"
+      ],
+      "tag": "#开源神器",
       "importance": 4
     },
     {
@@ -337,6 +373,24 @@
       ],
       "tag": "#官方首发",
       "importance": 2
+    },
+    {
+      "id": "26906230ae45",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "published_at": "2026-10-29T11:59:31Z",
+      "title_en": "DietrichGebert/ponytail",
+      "title_zh": "Ponytail：模拟资深老兵偷懒思维的 AI Agent 优化工具",
+      "tldr": [
+        "通过模拟资深开发者的偷懒逻辑，优化 AI Agent 的代码决策与生成策略。",
+        "核心哲学为追求极致精简，贯彻不写代码才是最好代码的开发理念。"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
     },
     {
       "id": "1df3d90c1d9c",
