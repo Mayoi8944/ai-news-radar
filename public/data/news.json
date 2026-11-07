@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T09:03:10.209098+00:00",
+  "last_updated": "2026-11-07T09:08:31.667015+00:00",
   "total_count": 21,
   "items": [
     {
@@ -12,13 +12,13 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpx0on/good_luck_getting_a_cheap_gpu_amd_is_a_data/",
       "published_at": "2026-11-07T04:05:32+00:00",
       "title_en": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says",
-      "title_zh": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says",
+      "title_zh": "AMD CEO 表示其为“数据中心优先公司”，低价 GPU 恐难求",
       "tldr": [
-        "信源首发自 Reddit r/LocalLLaMA，紧跟一手前沿技术脉络",
-        "they are all the same and we ... are too emotional! and yes we already knew that. &#32; su...",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "AMD 首席执行官明确表示公司战略全面转向“数据中心优先”，重心聚焦企业级AI市场",
+        "这意味着消费级和高性价比 GPU 的供给短期内难以大幅增加，价格维持高位",
+        "引发本地大模型社区对硬件成本和算力获取门槛持续走高的强烈讨论"
       ],
-      "tag": "#社区实测",
+      "tag": "#社区热议",
       "importance": 3
     },
     {
@@ -31,17 +31,17 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpqx1p/six_pallets_of_nvidia_hardware_worth_114_million/",
       "published_at": "2026-11-06T23:03:21+00:00",
       "title_en": "Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas",
-      "title_zh": "Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas",
+      "title_zh": "价值 1140 万美元的六托盘英伟达硬件在运往得克萨斯州途中被盗",
       "tldr": [
-        "信源首发自 Reddit r/LocalLLaMA，紧跟一手前沿技术脉络",
-        "&#32; submitted by &#32; /u/chemist_slime [link] &#32; [comments]...",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "运输途中发生重大安全事件，共计六托盘、总价值达 1140 万美元的英伟达硬件被盗",
+        "这批高端 AI 算力硬件在运往得克萨斯州期间失窃，引发业内对供应链安全的担忧",
+        "侧面反映出当前顶级 AI 芯片在黑市上的极高经济价值与安防漏洞"
       ],
-      "tag": "#社区实测",
+      "tag": "#社区热议",
       "importance": 3
     },
     {
-      "id": "30a97d998b3b",
+      "id": "546edd7ac76a",
       "source_id": "github_ai",
       "source_name": "GitHub Trending AI",
       "source_badge": "GitHub 热门开源",
@@ -49,14 +49,14 @@
       "source_color": "#f0f6fc",
       "url": "https://github.com/affaan-m/ECC",
       "published_at": "2026-11-06T21:21:50Z",
-      "title_en": "affaan-m/ECC (298770 Stars, JavaScript)",
-      "title_zh": "affaan-m/ECC (298770 Stars, JavaScript)",
+      "title_en": "affaan-m/ECC (298771 Stars, JavaScript)",
+      "title_zh": "affaan-m/ECC：Agent  Harness 性能优化与安全控制系统",
       "tldr": [
-        "信源首发自 GitHub Trending AI，紧跟一手前沿技术脉络",
-        "GitHub AI Repository. Stars: 298770. Language: JavaScript. Description: The agent harness ...",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "专注于 Agent harness 性能优化，提供技能、本能、记忆、安全与研究驱动开发",
+        "全面深度适配 Claude Code、Codex、Opencode 以及 Cursor 等主流开发环境",
+        "采用 JavaScript 编写，开源且代码托管于 GitHub，赋能 AI 编程助手的架构增强"
       ],
-      "tag": "#开源生态",
+      "tag": "#开源神器",
       "importance": 4
     },
     {
@@ -69,17 +69,17 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/",
       "published_at": "2026-11-06T20:12:07+00:00",
       "title_en": "We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13.0 and Open Terminal 0.17.2)",
-      "title_zh": "We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13.0 and Open Terminal 0.17.2)",
+      "title_zh": "QFN 3.8 NVFP4 模型结合最新 Open WebUI 实现虚拟机内鼠标自由绘图",
       "tldr": [
-        "信源首发自 Reddit r/LocalLLaMA，紧跟一手前沿技术脉络",
-        "Forget stupid pelican on a bike SVG bullshit. Forget cheating by drawing using Python code...",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "借助 Open WebUI 0.13.0 与 Open Terminal 0.17.2 的虚拟机桌面控制功能实现突破",
+        "模型无需生成 SVG 或编写 Python 脚本，直接通过控制鼠标坐标在 MS Paint 中手绘小狗",
+        "展示了多模态 Agent 在虚拟桌面环境中直接进行图形交互与精准控制的极高潜力"
       ],
-      "tag": "#社区实测",
-      "importance": 3
+      "tag": "#社区热议",
+      "importance": 4
     },
     {
-      "id": "b0259d164771",
+      "id": "58d76dceed1b",
       "source_id": "github_ai",
       "source_name": "GitHub Trending AI",
       "source_badge": "GitHub 热门开源",
@@ -87,14 +87,14 @@
       "source_color": "#f0f6fc",
       "url": "https://github.com/Graphify-Labs/graphify",
       "published_at": "2026-11-06T17:11:19Z",
-      "title_en": "Graphify-Labs/graphify (143694 Stars, Python)",
-      "title_zh": "Graphify-Labs/graphify (143694 Stars, Python)",
+      "title_en": "Graphify-Labs/graphify (143695 Stars, Python)",
+      "title_zh": "Graphify-Labs/graphify：基于本地 AST 解析的无向量库代码知识图谱生成器",
       "tldr": [
-        "信源首发自 GitHub Trending AI，紧跟一手前沿技术脉络",
-        "GitHub AI Repository. Stars: 143694. Language: Python. Description: Turn any codebase, wit...",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "可将任意代码库、文档、SQL 架构、配置文件及 PDF 转换为可查询的知识图谱",
+        "采用本地确定性 AST 解析，无需依赖向量数据库，所有图边均可解释说明",
+        "完美适配 Claude Code、Cursor、Codex 及 Gemini CLI 等主流 AI 开发工具链"
       ],
-      "tag": "#开源生态",
+      "tag": "#开源神器",
       "importance": 4
     },
     {
@@ -107,13 +107,13 @@
       "url": "https://huggingface.co/blog/allenai/toyblocks",
       "published_at": "2026-11-06T14:00:48+00:00",
       "title_en": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "title_zh": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "title_zh": "ToyBlocks：用于机器人学习与评估的受控世界",
       "tldr": [
-        "信源首发自 Hugging Face Blog，紧跟一手前沿技术脉络",
-        "包含一手关键技术细节与更新说明",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "构建了一个专为机器人学习与算法评估设计的可控模拟世界环境",
+        "提供标准化的测试基准，用于验证机器人在复杂交互任务中的泛化能力",
+        "专注于底层控制策略的精度调优，加速具身智能算法从仿真到现实的迁移"
       ],
-      "tag": "#官方发布",
+      "tag": "#前沿论文",
       "importance": 3
     },
     {
@@ -126,14 +126,13 @@
       "url": "https://openai.com/index/partnering-with-hacktron",
       "published_at": "2026-11-06T08:00:00+00:00",
       "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "title_zh": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "title_zh": "OpenAI 携手 Hacktron 漏洞挖掘平台，全面加固前沿 AI 系统安全防御",
       "tldr": [
-        "信源首发自 OpenAI Official，紧跟一手前沿技术脉络",
-        "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-pa...",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "OpenAI 宣布与 Hacktron 达成合作，引入外部专业力量对核心系统进行漏洞挖掘测试。",
+        "重点评估并加固前沿 AI 模型与第三方服务连接的安全性，全面升级防御基线。"
       ],
-      "tag": "#官方发布",
-      "importance": 4
+      "tag": "#官方首发",
+      "importance": 3
     },
     {
       "id": "4fcb8d2c277b",
@@ -145,14 +144,13 @@
       "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
       "published_at": "2026-11-06T00:00:00+00:00",
       "title_en": "Measuring how AI agents handle everyday wet-lab science",
-      "title_zh": "Measuring how AI agents handle everyday wet-lab science",
+      "title_zh": "OpenAI 发布 BioBasicsBench 基准，测试 Agent 处理湿实验室科学任务能力",
       "tldr": [
-        "信源首发自 OpenAI Official，紧跟一手前沿技术脉络",
-        "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interp...",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "推出包含 100 项任务的 BioBasicsBench 基准，专门用于评估 AI Agent 解释原始实验数据的能力。",
+        "重点考察 Agent 在日常湿实验室（wet-lab）科学研究中的实际操作与逻辑推理表现。"
       ],
-      "tag": "#官方发布",
-      "importance": 4
+      "tag": "#官方首发",
+      "importance": 3
     },
     {
       "id": "4aa5906f65ab",
@@ -164,13 +162,13 @@
       "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
       "published_at": "2026-11-06T00:00:00+00:00",
       "title_en": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "title_zh": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "title_zh": "埃及英语与尼日利亚英语正式加入 Open ASR 评测榜单",
       "tldr": [
-        "信源首发自 Hugging Face Blog，紧跟一手前沿技术脉络",
-        "包含一手关键技术细节与更新说明",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "Open ASR 语音识别开源排行榜新增埃及英语与尼日利亚英语数据集评估",
+        "显著提升多国口音与方言在语音转文本任务中的识别准确率与基准对齐",
+        "推动开源语音识别模型在非洲及中东地区的本地化应用与零样本泛化性能"
       ],
-      "tag": "#官方发布",
+      "tag": "#官方首发",
       "importance": 3
     },
     {
@@ -183,14 +181,13 @@
       "url": "https://openai.com/index/cultfit-builds-with-codex",
       "published_at": "2026-11-05T20:00:00+00:00",
       "title_en": "Cult.fit builds operational muscle with Codex",
-      "title_zh": "Cult.fit builds operational muscle with Codex",
+      "title_zh": "健康科技公司 Cult.fit 深度应用 Codex 编码工具加速业务运营",
       "tldr": [
-        "信源首发自 OpenAI Official，紧跟一手前沿技术脉络",
-        "Cult.fit is using Codex to help teams across functions build tools, move faster, and chang...",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "Cult.fit 正在跨部门团队中全面部署 Codex，用于加速内部业务工具开发与交付。",
+        "通过代码生成技术有效缩短开发周期，从根本上改变传统团队的工作流程和执行效率。"
       ],
-      "tag": "#官方发布",
-      "importance": 4
+      "tag": "#社区热议",
+      "importance": 2
     },
     {
       "id": "943de1e4b19c",
@@ -202,14 +199,14 @@
       "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
       "published_at": "2026-11-05T19:35:16+00:00",
       "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "title_zh": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "title_zh": "英伟达发布用于交互式世界模拟的全新 Cosmos 3 开源模型",
       "tldr": [
-        "信源首发自 Hugging Face Blog，紧跟一手前沿技术脉络",
-        "包含一手关键技术细节与更新说明",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "推出面向交互式世界模拟的 Cosmos 3 系列新开源模型，赋能物理世界建模",
+        "支持高效的动态场景生成与高逼真度物理交互，显著降低视频生成延迟",
+        "延续英伟达开源路线，提供预训练权重以加速具身智能与自动驾驶仿真研发"
       ],
-      "tag": "#官方发布",
-      "importance": 3
+      "tag": "#开源神器",
+      "importance": 5
     },
     {
       "id": "d656e0ee6d8b",
@@ -221,14 +218,13 @@
       "url": "https://openai.com/index/australian-universities-ai-native-graduates",
       "published_at": "2026-11-05T17:00:00+00:00",
       "title_en": "Australian universities are creating AI-native graduates",
-      "title_zh": "Australian universities are creating AI-native graduates",
+      "title_zh": "澳大利亚高校全面普及 ChatGPT，培养具备 AI 原生能力的毕业生",
       "tldr": [
-        "信源首发自 OpenAI Official，紧跟一手前沿技术脉络",
-        "Australian universities are expanding access to ChatGPT and bringing AI into teaching and ...",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "澳大利亚多所大学正扩大 ChatGPT 访问权限，将人工智能深度融入日常教学与课程中。",
+        "旨在通过全方位的 AI 教学赋能，为未来的劳动力市场储备具备 AI 原生技能的人才。"
       ],
-      "tag": "#官方发布",
-      "importance": 4
+      "tag": "#社区热议",
+      "importance": 1
     },
     {
       "id": "4d61cc3eb3ef",
@@ -240,13 +236,12 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "published_at": "2026-11-05T17:00:00+00:00",
       "title_en": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "title_zh": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "title_zh": "Google 发布 Gemini Omni 1.2 Flash：兼顾高速、低成本与长视频处理",
       "tldr": [
-        "信源首发自 Google AI & DeepMind，紧跟一手前沿技术脉络",
-        "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals...",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "推出 Gemini Omni 1.2 Flash 模型，专为高性能、低延迟的实时多模态交互场景设计。",
+        "支持更长的视频片段输入处理，同时在计算成本上实现了显著优化。"
       ],
-      "tag": "#官方发布",
+      "tag": "#官方首发",
       "importance": 4
     },
     {
@@ -259,14 +254,14 @@
       "url": "https://huggingface.co/papers/2611.08483",
       "published_at": "2026-11-04T19:00:00.000Z",
       "title_en": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
-      "title_zh": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "title_zh": "SwarmEvolve：基于隐空间 Agent 群体的进化式科学发现与优化框架",
       "tldr": [
-        "信源首发自 Hugging Face Daily Papers，紧跟一手前沿技术脉络",
-        "HF Community Upvotes: 3. Summary: LLM-guided evolutionary search uses AI agents to improve...",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "针对 LLM 进化搜索中每轮生成冗长文本思维链导致计算缓慢、群体多样性受限的痛点，提出 SwarmEvolve 框架。",
+        "数百个低成本 Agent 在隐空间中直接推理而不解码为文本，通过传递 KV 缓存实现高效的信息共享与群体协同。",
+        "代码框架尚在学术研究阶段，权重与许可证发布情况未作详细说明。"
       ],
       "tag": "#前沿论文",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "4d0e8d0f78c5",
@@ -278,14 +273,14 @@
       "url": "https://huggingface.co/papers/2611.06498",
       "published_at": "2026-11-04T08:32:04.000Z",
       "title_en": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation",
-      "title_zh": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation",
+      "title_zh": "签名但可操纵：度量并弥合离线 RAG 中的文本-向量完整性鸿沟",
       "tldr": [
-        "信源首发自 Hugging Face Daily Papers，紧跟一手前沿技术脉络",
-        "HF Community Upvotes: 1. Summary: Offline retrieval-augmented generation (RAG) on edge dev...",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "研究了边缘设备离线 RAG 签名知识包中存在的文本与预计算嵌入向量不一致的隐患（文本-向量完整性鸿沟）。",
+        "揭示了攻击者在余弦容忍度内劫持查询的边际定律（margin law），证明当前验证机制存在安全漏洞。",
+        "论文未明确提及开源仓库及权重发布状态，重在理论安全分析。"
       ],
       "tag": "#前沿论文",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "b103a067cd0e",
@@ -297,14 +292,14 @@
       "url": "https://huggingface.co/papers/2611.06500",
       "published_at": "2026-11-03T19:00:00.000Z",
       "title_en": "Tools Need Not Speak in Text: Latent Context Compression for Agents",
-      "title_zh": "Tools Need Not Speak in Text: Latent Context Compression for Agents",
+      "title_zh": "摆脱文本束缚：提出面向 AI Agent 的连续隐空间上下文压缩方案",
       "tldr": [
-        "信源首发自 Hugging Face Daily Papers，紧跟一手前沿技术脉络",
-        "HF Community Upvotes: 1. Summary: Large language model (LLM) agents typically append raw t...",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "针对传统 LLM Agent 拼接原始文本工具输出导致 Context 冗余与注意力稀释的问题，提出连续隐空间压缩方法。",
+        "打破工具反馈必须转化为显式文本 Token 的传统假设，大幅提升长步骤交互中的信息吞吐率与推理效率。",
+        "代码及相关实现细节已开源，许可证类型有待进一步公开确认。"
       ],
       "tag": "#前沿论文",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "95b644ba4bb0",
@@ -316,14 +311,14 @@
       "url": "https://huggingface.co/papers/2611.04386",
       "published_at": "2026-11-02T19:00:00.000Z",
       "title_en": "StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models",
-      "title_zh": "StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models",
+      "title_zh": "StepX-OPD：重构扩散模型中的多教师在线策略蒸馏",
       "tldr": [
-        "信源首发自 Hugging Face Daily Papers，紧跟一手前沿技术脉络",
-        "HF Community Upvotes: 3. Summary: A deployable text-to-image diffusion model must hold sev...",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "针对扩散模型多阶段蒸馏（全步长能力巩固与少步长蒸馏割裂）导致压缩后性能下降的问题，提出 StepX-OPD 框架。",
+        "将多教师在线策略蒸馏（On-Policy Distillation）与少步长采样合并在统一流程中执行，避免了传统串行蒸馏的性能损耗。",
+        "官方尚未完全公开最终开源代码与模型权重许可证细节。"
       ],
       "tag": "#前沿论文",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "c7c43fab0a24",
@@ -335,17 +330,16 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
       "published_at": "2026-11-02T17:45:00+00:00",
       "title_en": "The latest AI news we announced in October 2026",
-      "title_zh": "The latest AI news we announced in October 2026",
+      "title_zh": "Google DeepMind 汇总发布 2026 年 10 月最新 AI 技术进展",
       "tldr": [
-        "信源首发自 Google AI & DeepMind，紧跟一手前沿技术脉络",
-        "Animated carousel of images from AI posts in October...",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "官方盘点并总结了 Google 在 2026 年 10 月份发布的各项核心人工智能创新成果。",
+        "涵盖底层模型架构升级、多模态应用扩展及前沿科学研究的阶段性突破。"
       ],
-      "tag": "#官方发布",
-      "importance": 4
+      "tag": "#官方首发",
+      "importance": 2
     },
     {
-      "id": "fa73e47777bf",
+      "id": "1df3d90c1d9c",
       "source_id": "github_ai",
       "source_name": "GitHub Trending AI",
       "source_badge": "GitHub 热门开源",
@@ -353,15 +347,15 @@
       "source_color": "#f0f6fc",
       "url": "https://github.com/DietrichGebert/ponytail",
       "published_at": "2026-10-29T11:59:31Z",
-      "title_en": "DietrichGebert/ponytail (186028 Stars, JavaScript)",
-      "title_zh": "DietrichGebert/ponytail (186028 Stars, JavaScript)",
+      "title_en": "DietrichGebert/ponytail (186029 Stars, JavaScript)",
+      "title_zh": "DietrichGebert/ponytail：让 AI 代理以极简高效逻辑思考的轻量工具",
       "tldr": [
-        "信源首发自 GitHub Trending AI，紧跟一手前沿技术脉络",
-        "GitHub AI Repository. Stars: 186028. Language: JavaScript. Description: Makes your AI agen...",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "旨在让 AI Agent 以最高效、精简的代码哲学运行，推崇免编写冗余代码的最佳实践",
+        "通过独特的提示词与逻辑调度策略，显著减少 AI 编程时的 Token 消耗与无效计算",
+        "采用 JavaScript 开发，作为 GitHub 热门开源项目，优化开发者的智能化工作流"
       ],
-      "tag": "#开源生态",
-      "importance": 4
+      "tag": "#开源神器",
+      "importance": 3
     },
     {
       "id": "7ad0717eff4e",
@@ -373,14 +367,13 @@
       "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
       "published_at": "2026-10-26T16:00:00+00:00",
       "title_en": "Our newest AI Quest: Mapping the human brain",
-      "title_zh": "Our newest AI Quest: Mapping the human brain",
+      "title_zh": "Google 启动全新 AI 探索项目：利用人工智能绘制人类大脑图谱",
       "tldr": [
-        "信源首发自 Google AI & DeepMind，紧跟一手前沿技术脉络",
-        "An illustration of a planet rotating to show various cartoon figures waving. At the top is...",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "Google 推出名为“AI Quests”的全新前沿科学探索计划，首期聚焦于人类大脑的高精度测绘。",
+        "旨在利用机器学习与大规模数据分析技术，攻克神经科学领域的复杂结构解析难题。"
       ],
-      "tag": "#官方发布",
-      "importance": 4
+      "tag": "#官方首发",
+      "importance": 3
     },
     {
       "id": "99e83245ebd1",
@@ -392,14 +385,13 @@
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
       "published_at": "2026-10-21T04:00:00+00:00",
       "title_en": "Southeast Asia’s digital economy to hit $368 billion",
-      "title_zh": "Southeast Asia’s digital economy to hit $368 billion",
+      "title_zh": "Google 联合发布报告：东南亚数字经济规模预计将达到 3680 亿美元",
       "tldr": [
-        "信源首发自 Google AI & DeepMind，紧跟一手前沿技术脉络",
-        "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Go...",
-        "点击可直接跳转官方源地址获取完整发布内容"
+        "Google、淡马锡与贝恩公司联合发布《2026年东南亚数字经济报告》。报告指出区域规模将攀升至 3680 亿美元。",
+        "重点分析了数据中心建设与人工智能如何共同构建该地区的智能经济生态。"
       ],
-      "tag": "#官方发布",
-      "importance": 4
+      "tag": "#社区热议",
+      "importance": 2
     }
   ]
 }
