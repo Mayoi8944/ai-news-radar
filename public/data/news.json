@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-07T09:56:00.790184+00:00",
-  "total_count": 24,
+  "last_updated": "2026-11-07T17:05:20.313629+00:00",
+  "total_count": 29,
   "items": [
+    {
+      "id": "4990c8e6002b",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/",
+      "published_at": "2026-11-07T16:25:06+00:00",
+      "title_en": "llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp",
+      "title_zh": "llama.cpp 提交 MoE 缓存优化 PR：支持在 CPU 上运行未命中的专家网络",
+      "tldr": [
+        "针对显存受限（Low VRAM）用户设计，通过将未命中的 MoE 专家网络卸载到 CPU 运行，大幅加速推理速度。",
+        "引入专门的调优脚本，有效优化混合专家模型在边缘设备或消费级显卡上的卸载性能。",
+        "作为官方 llama.cpp 仓库的重要 Pull Request，采用开源协议，极大地改善了 MoE 模型的本地运行体验。"
+      ],
+      "tag": "#开发生态",
+      "importance": 4
+    },
+    {
+      "id": "f516c5a2942e",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq4yju/obsessive17b_a_11_gb_websearch_subagent/",
+      "published_at": "2026-11-07T12:13:29+00:00",
+      "title_en": "Obsessive-1.7B: a 1.1 GB web-search subagent",
+      "title_zh": "Obsessive-1.7B：基于 LFM3 微调的 1.1GB 轻量化网页搜索子 Agent",
+      "tldr": [
+        "基于 LFM3-1.7B 微调打造，体积仅 1.1GB，专为单次网络搜索与精准事实提取任务设计。",
+        "定位于作为主模型的子 Agent 运行，通过单次 Tool Call 输出短答案、原文引用及 URL，拒绝冗余对话。",
+        "展示了小参数模型在工具调用与信息抽取上的极高潜力，具体开源权重与模型发布状态可在社区获取。"
+      ],
+      "tag": "#社区热议",
+      "importance": 4
+    },
     {
       "id": "6a0272081f51",
       "source_id": "localllama",
@@ -39,6 +77,25 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "bc0e90d82b65",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-06T21:21:50Z",
+      "title_en": "affaan-m/ECC",
+      "title_zh": "affaan-m/ECC：面向多端 Agent 的性能优化与控制系统",
+      "tldr": [
+        "专为 Claude Code、Cursor 等主流 Agent 设计，系统性优化技能、本能、记忆及安全机制。",
+        "采用 JavaScript 开发，提供底层研发支撑以提升大模型 Agent 的运行效率与稳定性。",
+        "作为开源项目托管于 GitHub，具体开源协议及权重发布状态需参考代码库主页说明。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "efa2c3fa8dca",
@@ -94,6 +151,25 @@
         "展示了多模态 Agent 在虚拟桌面环境中直接进行图形交互与精准控制的极高潜力"
       ],
       "tag": "#社区热议",
+      "importance": 4
+    },
+    {
+      "id": "1927846aa6be",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-06T17:11:19Z",
+      "title_en": "Graphify-Labs/graphify",
+      "title_zh": "Graphify-Labs/graphify：基于本地 AST 解析的零向量库知识图谱构建工具",
+      "tldr": [
+        "支持将代码库、文档、SQL 架构及 PDF 转化为可查询的知识图谱，无缝集成 Claude Code 等工具。",
+        "采用本地确定性 AST 解析技术，每条边均可解释，完全抛弃传统的 Vector Store 向量数据库方案。",
+        "使用 Python 编写并开源，提供高效的离线知识图谱构建能力，具体许可证类型以 GitHub 为准。"
+      ],
+      "tag": "#开源神器",
       "importance": 4
     },
     {
@@ -373,6 +449,25 @@
       ],
       "tag": "#官方首发",
       "importance": 2
+    },
+    {
+      "id": "f07273be5586",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "published_at": "2026-10-29T11:59:31Z",
+      "title_en": "DietrichGebert/ponytail",
+      "title_zh": "DietrichGebert/ponytail：模仿资深老兵极简开发哲学的 AI Agent 框架",
+      "tldr": [
+        "核心设计理念在于减少冗余代码，通过策略引导让 AI Agent 像资深开发人员一样进行高效代码生成。",
+        "基于 JavaScript 构建，专注于优化开发工作流，减少不必要的代码编写与重复劳动。",
+        "项目已在 GitHub 开源并获得极高 Star 数，详细的许可证类型与集成方式可查阅官方仓库。"
+      ],
+      "tag": "#开源神器",
+      "importance": 3
     },
     {
       "id": "26906230ae45",
