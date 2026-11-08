@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-11-08T09:52:10.105856+00:00",
-  "total_count": 42,
+  "last_updated": "2026-11-08T17:19:38.682277+00:00",
+  "total_count": 48,
   "items": [
+    {
+      "id": "113cab004a08",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2aaa/tencentqwen3827bdspineb16_hugging_face/",
+      "published_at": "2026-11-08T16:23:48+00:00",
+      "title_en": "tencent/Qwen3.8-27B-DSpine-b16 · Hugging Face",
+      "title_zh": "腾讯推出全新投机解码方法：Qwen3.8-27B-DSpine-b16 开源发布",
+      "tldr": [
+        "腾讯研发了创新的 Speculative Decoding 投机解码方法，针对 27B 参数量模型实现显著加速。",
+        "实测推理解码速度提升达 3 倍，大幅降低大模型在本地部署时的首字延迟与显存吞吐开销。"
+      ],
+      "tag": "#官方首发",
+      "importance": 5
+    },
+    {
+      "id": "cb2adba2fccf",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/",
+      "published_at": "2026-11-08T14:56:07+00:00",
+      "title_en": "\"Does censorship exist in [country]?\", according to various LLMs",
+      "title_zh": "基于 LLM 输出结果自动生成全球审查倾向 SVG 地图的开源项目",
+      "tldr": [
+        "通过批量向大语言模型询问各国的“是/否”审查问题，自动化生成可视化世界地图。",
+        "开源项目名为 llm-beliefs，直观展示了不同基座模型在敏感地缘政治问题上的输出偏见。"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "d16de762d6bf",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
+      "published_at": "2026-11-08T14:45:22+00:00",
+      "title_en": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI",
+      "title_zh": "消费级 AI 硬件热潮：RTX 5060 Ti 16GB 显卡遭本地大模型用户抢购",
+      "tldr": [
+        "大量本地 AI 开发者与用户开始大规模抢购具备 16GB 显存的 RTX 5060 Ti 显卡。",
+        "得益于 16GB 大显存对中小型开源模型（如 7B/14B）本地推理的极高性价比支持。"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "44fd796778bb",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-08T00:52:14Z",
+      "title_en": "Graphify-Labs/graphify",
+      "title_zh": "Graphify：基于本地 AST 解析的代码知识图谱生成工具",
+      "tldr": [
+        "支持将任意代码库、文档、SQL Schema、配置文件及 PDF 转化为可查询的知识图谱。",
+        "采用本地确定性 AST 解析架构，实现全路径图谱解释，且完全不依赖向量数据库。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
     {
       "id": "b4812b47f235",
       "source_id": "github_ai",
@@ -189,6 +261,24 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "217202e00c68",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-06T21:21:50Z",
+      "title_en": "affaan-m/ECC",
+      "title_zh": "ECC：Agent Harness 性能优化与安全控制系统",
+      "tldr": [
+        "专为 Claude Code、Cursor 及 Codex 等主流 Agent 设计的性能调优与安全 harness 系统。",
+        "深度集成技能树、本能反应、记忆检索及研究优先开发模块，显著提升 Agent 执行效能。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "bad0c6da8e83",
@@ -636,6 +726,24 @@
       ],
       "tag": "#官方首发",
       "importance": 2
+    },
+    {
+      "id": "4017119f10f1",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "published_at": "2026-10-29T11:59:31Z",
+      "title_en": "DietrichGebert/ponytail",
+      "title_zh": "Ponytail：模拟资深老兵思维的 AI Agent 懒人开发工具",
+      "tldr": [
+        "通过独特的设计哲学让 AI Agent 像团队中最懒的资深开发者一样思考和简化任务。",
+        "核心理念为“最好的代码就是你从未写过的代码”，大幅减少不必要的冗余逻辑与开发量。"
+      ],
+      "tag": "#开源神器",
+      "importance": 3
     },
     {
       "id": "f614fe7da37e",
