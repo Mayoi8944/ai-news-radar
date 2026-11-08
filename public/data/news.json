@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-11-07T21:10:16.753659+00:00",
-  "total_count": 34,
+  "last_updated": "2026-11-08T02:58:36.766952+00:00",
+  "total_count": 38,
   "items": [
+    {
+      "id": "154bce67aba8",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-08T00:52:14Z",
+      "title_en": "Graphify-Labs/graphify",
+      "title_zh": "Graphify：基于本地 AST 解析的零向量库知识图谱构建工具",
+      "tldr": [
+        "支持将任意代码库、文档、SQL Schema、配置文件及 PDF 直接转化为可查询的高精度知识图谱。",
+        "采用本地确定性 AST 解析架构，实现全图谱边关系精确解释，彻底摆脱对外部向量数据库的依赖。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
+    {
+      "id": "b3007c1958ce",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqinb7/the_stylome_bot_is_useless_spam_and_should_be/",
+      "published_at": "2026-11-07T22:24:14+00:00",
+      "title_en": "The Stylome bot is useless spam and should be removed",
+      "title_zh": "社区热议：本地大模型板块 Stylome Bot 实用性及数据隐私争议",
+      "tldr": [
+        "社区用户强烈质疑 Stylome Bot 的误判率与实际效用，指出其 AI 文本检测置信度普遍偏低且频繁产生垃圾评论。",
+        "引发对第三方私有公司接管社区评论数据、数据合规性以及为何不采用本地模型替代的广泛深入讨论。"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
     {
       "id": "214ec9e189ff",
       "source_id": "localllama",
@@ -115,6 +151,24 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "3dbb2839a647",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-06T21:21:50Z",
+      "title_en": "affaan-m/ECC",
+      "title_zh": "ECC：Agent Harness 性能优化系统",
+      "tldr": [
+        "专注于 Agent harness 的性能优化系统，全面增强 Claude Code、Codex、Cursor 等主流工具的执行效率。",
+        "集成 Skills、instincts、memory 及安全机制，采用研究优先的开发模式构建全方位代理支持架构。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "a6a888c40124",
@@ -525,6 +579,24 @@
       ],
       "tag": "#官方首发",
       "importance": 2
+    },
+    {
+      "id": "9520475e2be2",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "published_at": "2026-10-29T11:59:31Z",
+      "title_en": "DietrichGebert/ponytail",
+      "title_zh": "Ponytail：模拟资深老兵思维的 AI Agent 优化工具",
+      "tldr": [
+        "通过模拟团队中最慵懒的资深开发者的思维模式，优化 AI Agent 的代码生成策略与执行逻辑。",
+        "秉持“不写代码即是最好代码”的精简哲学，大幅减少不必要的冗余代码输出与计算开销。"
+      ],
+      "tag": "#开源神器",
+      "importance": 3
     },
     {
       "id": "04f2cb33d8c9",
