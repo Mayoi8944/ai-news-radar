@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-11-08T17:19:38.682277+00:00",
-  "total_count": 48,
+  "last_updated": "2026-11-08T21:25:41.643794+00:00",
+  "total_count": 52,
   "items": [
+    {
+      "id": "1763fbcc8406",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens/",
+      "published_at": "2026-11-08T17:32:48+00:00",
+      "title_en": "GPT-5.5 dataset across my used 25 billion tokens!",
+      "title_zh": "社区分享：基于 250 亿 Token 清洗的 GPT-5.5 数据集与万次工具调用",
+      "tldr": [
+        "Reddit 社区用户分享了横跨 250 亿 Token 的 GPT-5.5 训练/微调数据集清洗成果。",
+        "包含高达 12,121 次实际工具调用（Tool Calls）记录，为复杂 Agent 的数据清洗提供高质量参考。"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
     {
       "id": "113cab004a08",
       "source_id": "localllama",
@@ -55,6 +73,24 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "e64f899f9fca",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-08T00:52:14Z",
+      "title_en": "Graphify-Labs/graphify",
+      "title_zh": "Graphify：基于确定性 AST 解析的免向量库代码知识图谱工具",
+      "tldr": [
+        "支持将任意代码库、文档、SQL 架构、配置和 PDF 转换为可查询的高精度知识图谱。",
+        "提供针对 Claude Code、Cursor、Codex 和 Gemini CLI 的 /graphify 技能，采用本地确定性 AST 解析且无需向量数据库。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "44fd796778bb",
@@ -261,6 +297,24 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "c63b1332d2b7",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-06T21:21:50Z",
+      "title_en": "affaan-m/ECC",
+      "title_zh": "ECC：Agent Harness 性能优化与安全控制系统",
+      "tldr": [
+        "专注于 Claude Code、Codex、Opencode 和 Cursor 等主流开发工具的 Agent 性能优化方案。",
+        "集成 Skills、instincts、memory、security 及 research-first 开发原则，全面提升 Agent 执行效率。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "217202e00c68",
@@ -726,6 +780,24 @@
       ],
       "tag": "#官方首发",
       "importance": 2
+    },
+    {
+      "id": "4a840ebe8377",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "published_at": "2026-10-29T11:59:31Z",
+      "title_en": "DietrichGebert/ponytail",
+      "title_zh": "Ponytail：模拟资深老兵偷懒思维的 AI Agent 优化工具",
+      "tldr": [
+        "通过独特的思维对齐策略，让 AI Agent 在代码生成时像团队中最资深且注重效率的开发者一样精简代码。",
+        "核心理念为“最好的代码就是从未写过的代码”，有效减少冗余逻辑和代码量。"
+      ],
+      "tag": "#开源神器",
+      "importance": 3
     },
     {
       "id": "4017119f10f1",
