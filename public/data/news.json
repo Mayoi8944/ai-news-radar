@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-08T02:58:36.766952+00:00",
-  "total_count": 38,
+  "last_updated": "2026-11-08T09:52:10.105856+00:00",
+  "total_count": 42,
   "items": [
+    {
+      "id": "b4812b47f235",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-08T00:52:14Z",
+      "title_en": "Graphify-Labs/graphify (144162 Stars, Python)",
+      "title_zh": "Graphify-Labs/graphify (144162 Stars, Python)",
+      "tldr": [
+        "一手首发源自 GitHub Trending AI",
+        "GitHub AI Repository. Stars: 144162. Language: Python. Description: Turn any cod...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
     {
       "id": "154bce67aba8",
       "source_id": "github_ai",
@@ -19,6 +38,25 @@
       ],
       "tag": "#开源神器",
       "importance": 4
+    },
+    {
+      "id": "a0d0f3a45cd2",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqjenw/anyone_running_local_ai_on_16gb_vram/",
+      "published_at": "2026-11-07T23:00:19+00:00",
+      "title_en": "Anyone running local AI on 16GB vram?",
+      "title_zh": "Anyone running local AI on 16GB vram?",
+      "tldr": [
+        "一手首发源自 Reddit r/LocalLLaMA",
+        "Hey everyone, Is anyone here running any useful AI agents, harnesses or toolings...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
     },
     {
       "id": "b3007c1958ce",
@@ -151,6 +189,25 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "bad0c6da8e83",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-06T21:21:50Z",
+      "title_en": "affaan-m/ECC (299362 Stars, JavaScript)",
+      "title_zh": "affaan-m/ECC (299362 Stars, JavaScript)",
+      "tldr": [
+        "一手首发源自 GitHub Trending AI",
+        "GitHub AI Repository. Stars: 299362. Language: JavaScript. Description: The agen...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "3dbb2839a647",
@@ -579,6 +636,25 @@
       ],
       "tag": "#官方首发",
       "importance": 2
+    },
+    {
+      "id": "f614fe7da37e",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "published_at": "2026-10-29T11:59:31Z",
+      "title_en": "DietrichGebert/ponytail (186568 Stars, JavaScript)",
+      "title_zh": "DietrichGebert/ponytail (186568 Stars, JavaScript)",
+      "tldr": [
+        "一手首发源自 GitHub Trending AI",
+        "GitHub AI Repository. Stars: 186568. Language: JavaScript. Description: Makes yo...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "9520475e2be2",
