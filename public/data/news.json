@@ -1,7 +1,136 @@
 {
-  "last_updated": "2026-11-09T14:32:20.462025+00:00",
-  "total_count": 68,
+  "last_updated": "2026-11-09T23:38:40.991446+00:00",
+  "total_count": 80,
   "items": [
+    {
+      "id": "311db10a3434",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs5pkl/is_artificialanalysis_biased_against_open_weight/",
+      "published_at": "2026-11-09T22:22:35+00:00",
+      "title_en": "Is ArtificialAnalysis biased against open weight models?",
+      "title_zh": "Is ArtificialAnalysis biased against open weight models?",
+      "tldr": [
+        "一手首发源自 Reddit r/LocalLLaMA",
+        "It seems like whenever open weight models come close to proprietary US models, A...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "1676942527f6",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs3y17/got_another_good_reminder_why_local_matters_today/",
+      "published_at": "2026-11-09T21:13:10+00:00",
+      "title_en": "Got another good reminder why local matters today",
+      "title_zh": "Got another good reminder why local matters today",
+      "tldr": [
+        "一手首发源自 Reddit r/LocalLLaMA",
+        "Apparently, they're threatening to ban me for merely red-teaming my own plugin. ...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "736e5da3a176",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "published_at": "2026-11-09T19:00:00+00:00",
+      "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
+      "title_zh": "ChatGPT Enterprise 现已登录 AWS Marketplace 平台",
+      "tldr": [
+        "企业级 ChatGPT 现已正式上架 AWS Marketplace，支持通过现有的 AWS 采购与账单关系简化采购流程。",
+        "该分发渠道的打通极大便利了企业客户的财务结算与集成管理，免去了繁琐的独立合同签署。"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
+    },
+    {
+      "id": "2e6c763eea8d",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrydgx/more_interesting_and_unusual_qwen354b_neurons/",
+      "published_at": "2026-11-09T17:46:55+00:00",
+      "title_en": "More interesting and unusual Qwen3.5-4B neurons",
+      "title_zh": "More interesting and unusual Qwen3.5-4B neurons",
+      "tldr": [
+        "一手首发源自 Reddit r/LocalLLaMA",
+        "You guys seemed to like my last post about the 'redditor neuron' so I'm listing ...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "ead0be035a17",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-09T17:04:04Z",
+      "title_en": "Graphify-Labs/graphify (145017 Stars, Python)",
+      "title_zh": "Graphify-Labs/graphify：将任意代码库一键转为可查询知识图谱的开源工具",
+      "tldr": [
+        "GitHub 热门开源项目，支持将代码库、文档、SQL 架构及 PDF 转化为无向量数据库依赖的知识图谱。",
+        "提供针对 Claude Code、Cursor、Codex 等主流终端的 /graphify 技能，支持本地确定性 AST 解析。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
+    {
+      "id": "ac22af2aebee",
+      "source_id": "hf_blog",
+      "source_name": "Hugging Face Blog",
+      "source_badge": "开源生态",
+      "source_icon": "huggingface",
+      "source_color": "#ff9d00",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "published_at": "2026-11-09T15:05:57+00:00",
+      "title_en": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "title_zh": "Nemotron-Personas-Finance-Japan：捕获日本人口统计与金融上下文的合成数据集",
+      "tldr": [
+        "发布专为日本金融市场和宏观人口统计学特征定制的高质量合成数据集 Nemotron-Personas-Finance-Japan。",
+        "填补了特定区域金融场景下本地化、多角色合成训练数据的生态空白，加速垂直领域金融大模型训练。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
+    {
+      "id": "1955be590774",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/control-room",
+      "published_at": "2026-11-09T13:00:00+00:00",
+      "title_en": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "title_zh": "Control Room：跨研究基础设施追踪与紧急叫停模型工作负载的中央系统",
+      "tldr": [
+        "OpenAI 推出 Control Room 系统，用于实时监控整个研究基础设施中的大模型训练与推理工作负载。",
+        "当触发安全或安全红线问题时，该系统能够以极低延迟迅速切断并中止相关模型的运行任务。"
+      ],
+      "tag": "#官方首发",
+      "importance": 4
+    },
     {
       "id": "d65df01de298",
       "source_id": "hf_blog",
@@ -40,6 +169,42 @@
       "importance": 3
     },
     {
+      "id": "de90b61b1a12",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "published_at": "2026-11-09T08:00:00+00:00",
+      "title_en": "CodeRabbit scales agentic software development and ships 20x more",
+      "title_zh": "CodeRabbit 扩展 Agent 软件开发能力，实现 20 倍交付效率提升",
+      "tldr": [
+        "CodeRabbit 深度整合 OpenAI 模型以审查和管理 AI 生成的代码，并结合 Codex 实现代码规模化交付。",
+        "在保持原有工程团队规模不变的情况下，研发交付吞吐量实现了高达 20 倍的倍数级增长。"
+      ],
+      "tag": "#社区热议",
+      "importance": 4
+    },
+    {
+      "id": "95a50566e455",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/kuken",
+      "published_at": "2026-11-09T08:00:00+00:00",
+      "title_en": "Kuken Industries searches 70 years of drawings in minutes",
+      "title_zh": "Kuken Industries 利用 OpenAI API 在数分钟内检索 70 年的设计图纸",
+      "tldr": [
+        "Kuken Industries 借助 OpenAI API 对长达 70 年的冷却塔历史工程图纸进行多模态检索。",
+        "工程师查找维修图纸的耗时从将近 1 小时大幅缩短至 4.5 分钟，显著提升工程效率。"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
+    },
+    {
       "id": "7a3eb0cfe5c8",
       "source_id": "localllama",
       "source_name": "Reddit r/LocalLLaMA",
@@ -57,6 +222,24 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "36522c38cf3a",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-09T04:56:24Z",
+      "title_en": "affaan-m/ECC (300216 Stars, JavaScript)",
+      "title_zh": "affaan-m/ECC：面向主流编码助手的 Agent 性能优化与运行时系统",
+      "tldr": [
+        "GitHub 热门开源项目，为 Claude Code、Codex、Cursor 等提供技能、直觉、内存和安全管理机制。",
+        "旨在打通多模态 AI 编程工具链的性能瓶颈，实现更具研究优先级的开发辅助工作流。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "4fc05fe2d274",
@@ -784,6 +967,24 @@
       "importance": 5
     },
     {
+      "id": "5b02cc4b926a",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.09891",
+      "published_at": "2026-11-05T19:00:00.000Z",
+      "title_en": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+      "title_zh": "CPU-ARC：用于 CPU 端推理复用的 Agentic Reasoning Caching 架构",
+      "tldr": [
+        "提出 Agentic Reasoning Caching (ARC) 方法，将 LLM 推理轨迹转化为可在 CPU 高效执行的缓存。",
+        "避免了每次遇到新任务都从头推理的冗余开销，在各类基准测试中展现出媲美前沿大模型的性能。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 4
+    },
+    {
       "id": "d20384882cde",
       "source_id": "hf_papers",
       "source_name": "Hugging Face Daily Papers",
@@ -853,6 +1054,42 @@
         "针对多语言推理中在线自蒸馏（OPSD）面临的教师漂移现象，发现在低资源语言中学生中间步骤错误极易导致教师盲目跟随。",
         "通过引入可教前缀机制，精准控制教师模型在多语言环境下的反馈时机，防止错误累积并纠正中间推理步骤。",
         "有效提升了多语言推理蒸馏的鲁棒性，为跨语言大模型知识迁移与对齐提供了新的架构设计思路。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "746e74218a87",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.08175",
+      "published_at": "2026-11-05T10:31:15.000Z",
+      "title_en": "PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?",
+      "title_zh": "PCBRouteAgent：LLM Agent 距离成为印刷电路板布线工程师还有多远？",
+      "tldr": [
+        "提出 PCBRouteAgent 多模态代理，模仿人类工程师在严格设计规则下协调全局策略与局部几何布线。",
+        "通过全局布线规划器（Global Routing Planner）结合电路板图像与结构化电学几何信息指定拓扑。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "562f80617775",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.08647",
+      "published_at": "2026-11-04T19:00:00.000Z",
+      "title_en": "IWIBench: Evaluating Gradient-Free Model Driven Intra-weight Injection",
+      "title_zh": "IWIBench：无梯度模型驱动的权重内部注入评测基准",
+      "tldr": [
+        "推出 IWIBench 基准，用于系统评估大模型在无梯度情况下直接修改目标模型权重的能力。",
+        "测试 editor 模型对目标模型（通常为 Gemma 3 4B IT）进行词汇、格式或事实知识编辑的效果。"
       ],
       "tag": "#前沿论文",
       "importance": 3
@@ -1028,6 +1265,24 @@
       "importance": 2
     },
     {
+      "id": "3b87fb9a51a2",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.02775",
+      "published_at": "2026-11-02T03:51:01.000Z",
+      "title_en": "Human-Centred, Risk-Constrained Evaluation of Financial Document Recognition: Evidence, Critical Errors, and Selective Automation",
+      "title_zh": "以人为中心、受风险约束的金融文档识别评估：证据、关键错误与选择性自动化",
+      "tldr": [
+        "构建了金融文档识别的人本、风险约束评估框架，跳出传统的字符与词错误率（CER/WER）局限。",
+        "将底层事实链接至可视源区域，对文本转录、规范化及业务解释进行分层质量管理以支持决策。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
       "id": "0bb84dd2d62b",
       "source_id": "hf_papers",
       "source_name": "Hugging Face Daily Papers",
@@ -1044,6 +1299,24 @@
         "利用可学习的读写投影桥接两个空间，实现以极小的计算开销增量大幅提升模型表征能力与残差流动效率。"
       ],
       "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "484e485cab24",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "published_at": "2026-10-29T11:59:31Z",
+      "title_en": "DietrichGebert/ponytail (187668 Stars, JavaScript)",
+      "title_zh": "DietrichGebert/ponytail：让 AI 代理具备极简主义编程思维的高效工具",
+      "tldr": [
+        "GitHub 热门开源项目，通过独特的设计理念让 AI 代理模拟资深架构师的“懒惰”与高效哲学。",
+        "核心逻辑在于推崇最少的冗余代码，通过极简的生成策略实现自动化代码的精准交付。"
+      ],
+      "tag": "#开源神器",
       "importance": 3
     },
     {
@@ -1212,61 +1485,6 @@
       ],
       "tag": "#社区热议",
       "importance": 3
-    },
-    {
-      "id": "1df3d90c1d9c",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "published_at": "2026-10-29T11:59:31Z",
-      "title_en": "DietrichGebert/ponytail (186029 Stars, JavaScript)",
-      "title_zh": "DietrichGebert/ponytail：让 AI 代理以极简高效逻辑思考的轻量工具",
-      "tldr": [
-        "旨在让 AI Agent 以最高效、精简的代码哲学运行，推崇免编写冗余代码的最佳实践",
-        "通过独特的提示词与逻辑调度策略，显著减少 AI 编程时的 Token 消耗与无效计算",
-        "采用 JavaScript 开发，作为 GitHub 热门开源项目，优化开发者的智能化工作流"
-      ],
-      "tag": "#开源神器",
-      "importance": 3
-    },
-    {
-      "id": "7ad0717eff4e",
-      "source_id": "google_ai",
-      "source_name": "Google AI & DeepMind",
-      "source_badge": "Google 官方",
-      "source_icon": "google",
-      "source_color": "#4285f4",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "published_at": "2026-10-26T16:00:00+00:00",
-      "title_en": "Our newest AI Quest: Mapping the human brain",
-      "title_zh": "Google 启动全新 AI 探索项目：利用人工智能绘制人类大脑图谱",
-      "tldr": [
-        "Google 推出名为“AI Quests”的全新前沿科学探索计划，首期聚焦于人类大脑的高精度测绘。",
-        "旨在利用机器学习与大规模数据分析技术，攻克神经科学领域的复杂结构解析难题。"
-      ],
-      "tag": "#官方首发",
-      "importance": 3
-    },
-    {
-      "id": "99e83245ebd1",
-      "source_id": "google_ai",
-      "source_name": "Google AI & DeepMind",
-      "source_badge": "Google 官方",
-      "source_icon": "google",
-      "source_color": "#4285f4",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "published_at": "2026-10-21T04:00:00+00:00",
-      "title_en": "Southeast Asia’s digital economy to hit $368 billion",
-      "title_zh": "Google 联合发布报告：东南亚数字经济规模预计将达到 3680 亿美元",
-      "tldr": [
-        "Google、淡马锡与贝恩公司联合发布《2026年东南亚数字经济报告》。报告指出区域规模将攀升至 3680 亿美元。",
-        "重点分析了数据中心建设与人工智能如何共同构建该地区的智能经济生态。"
-      ],
-      "tag": "#社区热议",
-      "importance": 2
     }
   ]
 }
