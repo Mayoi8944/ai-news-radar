@@ -1,7 +1,82 @@
 {
-  "last_updated": "2026-11-09T03:20:51.746585+00:00",
-  "total_count": 58,
+  "last_updated": "2026-11-09T14:32:20.462025+00:00",
+  "total_count": 68,
   "items": [
+    {
+      "id": "d65df01de298",
+      "source_id": "hf_blog",
+      "source_name": "Hugging Face Blog",
+      "source_badge": "开源生态",
+      "source_icon": "huggingface",
+      "source_color": "#ff9d00",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "published_at": "2026-11-09T12:34:29+00:00",
+      "title_en": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "title_zh": "你的专家拥有伙伴：用 HOPE 算法维持混合专家协同",
+      "tldr": [
+        "由于官方源内容缺失，本条目无法提取具体的架构细节、开源状态或跑分指标对比数据。",
+        "推测涉及混合专家模型（MoE）路由机制或多智能体协同方面的技术优化与探索。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "36e07c31e9c8",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrpcke/new_gemma_models/",
+      "published_at": "2026-11-09T11:32:08+00:00",
+      "title_en": "New Gemma Models",
+      "title_zh": "Gemma 系列新模型动态与多语言推理性能讨论",
+      "tldr": [
+        "社区用户围绕 Gemma 后续版本（如潜在的 Gemma 5）的发布计划展开讨论，重点关注多语言理解及推理速度表现。",
+        "反馈指出当前 Gemma 4 31B (nvfp4 量化版本) 在德语和英语等人机语言理解与推理任务上表现优异，完美适配欧洲本土企业的业务场景。",
+        "作为社区对 Google 开源模型生态的展望，反映出开发者对更低推理延迟和更高 Token 吞吐量（TPS）的强烈需求。"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "7a3eb0cfe5c8",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get/",
+      "published_at": "2026-11-09T06:42:07+00:00",
+      "title_en": "L11 N8147 is a neuron that will make Qwen-3.5-4B get things confidently wrong while being weirdly snarky... But also makes it write interesting poetry",
+      "title_zh": "发现 Qwen-3.5-4B 操控语调与诗歌创作的特定神经元 L11 N8147",
+      "tldr": [
+        "通过对 Qwen-3.5-4B 模型进行内部神经元分析，发现特定神经元 L11 N8147 充当了“唱反调 vs 赞同”的行为开关。",
+        "激活该神经元会使模型在输出错误事实时表现出独特的讽刺语调，但在特定设定下能够激发模型创作出极具特色的诗歌。",
+        "属于社区热议的 LLM 可解释性与内部神经元脑外科实验，为理解中小参数量基座模型的表征机制提供了趣味案例。"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "4fc05fe2d274",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-09T04:56:24Z",
+      "title_en": "affaan-m/ECC",
+      "title_zh": "ECC：大模型智能体执行性能优化系统",
+      "tldr": [
+        "专注于 AI Agent 智能体 harness 性能优化，提供技能、直觉、记忆、安全机制及研究优先的开发框架支持。",
+        "深度适配 Claude Code、Codex、Opencode、Cursor 等主流 AI 编程助手及研发环境。",
+        "采用 JavaScript 开发，在 GitHub 社区获得极高热度，作为开源开发生态工具显著提升智能体工作流效率。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
     {
       "id": "1763fbcc8406",
       "source_id": "localllama",
@@ -73,6 +148,25 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "d93d5d14e5c7",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-08T00:52:14Z",
+      "title_en": "Graphify-Labs/graphify",
+      "title_zh": "Graphify：基于本地确定性 AST 解析的代码库知识图谱构建工具",
+      "tldr": [
+        "可将任意代码库及其文档、SQL 架构、配置文件和 PDF 转换为可查询的知识图谱，完全不依赖向量数据库。",
+        "提供专门的 /graphify 技能插件，深度集成至 Claude Code、Cursor、Codex 及 Gemini CLI 等开发环境。",
+        "采用 Python 编写，实现本地确定性抽象语法树（AST）解析并清晰解释每条边关系，属于高性能开源开发生态工具。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "f05a3f6db191",
@@ -690,6 +784,25 @@
       "importance": 5
     },
     {
+      "id": "d20384882cde",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.09634",
+      "published_at": "2026-11-05T19:00:00.000Z",
+      "title_en": "Steerable Multi-Objective Group-Relative Preference Optimization with Jointly Trained Low-Rank Adapters",
+      "title_zh": "基于联合训练低秩适配器的可控多目标组相对偏好优化",
+      "tldr": [
+        "提出 LambdaMix 参数高效方法，利用在线强化学习在冻结的基座模型上为每个优化目标联合训练一个低秩适配器（LoRA）。",
+        "通过单一偏好向量在推理时动态选择适配器混合比例并分配权重，实现对多个竞争目标的实时、可控权衡调整。",
+        "作为前沿对齐算法研究，重点解决后训练阶段单一策略无法适应动态多目标偏好的痛点，暂未公布具体开源许可证。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
       "id": "d656e0ee6d8b",
       "source_id": "openai",
       "source_name": "OpenAI Official",
@@ -724,6 +837,25 @@
       ],
       "tag": "#官方首发",
       "importance": 4
+    },
+    {
+      "id": "03acf358c818",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.08179",
+      "published_at": "2026-11-05T10:34:23.000Z",
+      "title_en": "Knowing When to Teach: Learning from Teachable Prefixes in Multilingual Reasoning Distillation",
+      "title_zh": "知晓何时施教：多语言推理蒸馏中从可教前缀中学习",
+      "tldr": [
+        "针对多语言推理中在线自蒸馏（OPSD）面临的教师漂移现象，发现在低资源语言中学生中间步骤错误极易导致教师盲目跟随。",
+        "通过引入可教前缀机制，精准控制教师模型在多语言环境下的反馈时机，防止错误累积并纠正中间推理步骤。",
+        "有效提升了多语言推理蒸馏的鲁棒性，为跨语言大模型知识迁移与对齐提供了新的架构设计思路。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
     },
     {
       "id": "25d3f5006e41",
@@ -762,6 +894,25 @@
       ],
       "tag": "#前沿论文",
       "importance": 4
+    },
+    {
+      "id": "ea5114ef1c60",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.07025",
+      "published_at": "2026-11-04T14:00:06.000Z",
+      "title_en": "LowRAM: Low-Rank Keys and Amortised Values for Composable KV Cache Compression at Test-Time",
+      "title_zh": "LowRAM：用于测试时可组合 KV 缓存压缩的低秩键与摊销值方法",
+      "tldr": [
+        "针对自回归解码中线性增长的 KV 缓存显存开销，提出利用注意力头内部键值（Key-Value）高度可预测性的压缩方案。",
+        "采用值缓存摊销技术，在测试时拟合轻量级每头预测器，仅对重构误差最大的残差 Token 进行存储，显著降低显存开销。",
+        "作为创新的推理加速技术，在不损失模型性能的前提下有效提升大上下文长度下的批处理大小与吞吐量。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
     },
     {
       "id": "4d0e8d0f78c5",
@@ -875,6 +1026,44 @@
       ],
       "tag": "#官方首发",
       "importance": 2
+    },
+    {
+      "id": "0bb84dd2d62b",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2610.41711",
+      "published_at": "2026-10-30T09:18:22.000Z",
+      "title_en": "Hierarchical Residuals: A Minimalist Decoupling of Residual Width from Compute Width",
+      "title_zh": "分层残差：残差宽度与计算宽度的极简解耦方案",
+      "tldr": [
+        "提出分层残差（HiRes）架构，打破了传统 Transformer 中残差宽度随网络深度绑定内部层计算宽度的限制。",
+        "通过块级设计，在块内部保持标准的 d 维 PreNorm 计算宽度不变，同时在外层通过更宽的 D 维残差连接扩大状态容量。",
+        "利用可学习的读写投影桥接两个空间，实现以极小的计算开销增量大幅提升模型表征能力与残差流动效率。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "4a5f44e5bcd5",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "published_at": "2026-10-29T11:59:31Z",
+      "title_en": "DietrichGebert/ponytail",
+      "title_zh": "Ponytail：模拟资深懒宅程序员思维的 AI 智能体调优工具",
+      "tldr": [
+        "通过独特的设计理念引导 AI 智能体以最省力的方案解决编码问题，核心理念倡导“最好的代码就是从未写过的代码”。",
+        "作为 JavaScript 开发的开源辅助工具，旨在减少冗余代码生成，优化 AI 编程助手的决策逻辑与输出质量。",
+        "在 GitHub 社区引发广泛关注，为开发者提供了一种全新的极简主义 AI 开发流控制方式。"
+      ],
+      "tag": "#开源神器",
+      "importance": 3
     },
     {
       "id": "95d9b23b5790",
