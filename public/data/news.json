@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T21:25:41.643794+00:00",
-  "total_count": 52,
+  "last_updated": "2026-11-09T03:20:51.746585+00:00",
+  "total_count": 58,
   "items": [
     {
       "id": "1763fbcc8406",
@@ -73,6 +73,25 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "f05a3f6db191",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-08T00:52:14Z",
+      "title_en": "Graphify-Labs/graphify",
+      "title_zh": "Graphify-Labs/graphify：将任意代码库转化为可查询知识图谱的工具",
+      "tldr": [
+        "能够将包含文档、SQL模式、配置文件和PDF在内的任意代码库一键转化为可进行结构化查询的知识图谱。",
+        "原生集成Claude Code、Cursor、Codex及Gemini CLI技能，采用本地确定性AST解析，每条边均可解释且无需向量数据库。",
+        "开源Python项目，在GitHub上获得超过144,500枚Star，极大地优化了大型代码库的上下文检索与理解体验。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "e64f899f9fca",
@@ -297,6 +316,25 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "ee434c8b1cb0",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-06T21:21:50Z",
+      "title_en": "affaan-m/ECC",
+      "title_zh": "affaan-m/ECC：面向主流AI编程工具的Agent性能优化系统",
+      "tldr": [
+        "专注于AI Agent的框架性能优化，集成了技能、本能、记忆、安全性以及研究优先的开发逻辑等多项核心能力。",
+        "全面深度适配Claude Code、Codex、Opencode以及Cursor等主流AI代码助手与开发环境。",
+        "开源项目，采用JavaScript开发，在GitHub上获得超过299,700枚Star，受到开发者社区的高度关注。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "c63b1332d2b7",
@@ -688,6 +726,25 @@
       "importance": 4
     },
     {
+      "id": "25d3f5006e41",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.07624",
+      "published_at": "2026-11-04T19:00:00.000Z",
+      "title_en": "Beneath the Surface: What We Overlook When We Talk About Agent Evolution",
+      "title_zh": "水面之下：当我们讨论Agent进化时容易忽视的关键问题",
+      "tldr": [
+        "研究了Agent框架演进中的递归自我改进机制，在不更新模型权重的情况下对通用任务和编码任务进行了系统性基准评测。",
+        "实验发现所有16个进化后的Agent均呈现出“获得新能力同时丧失旧能力”的权衡现象，并非单向的性能全面提升。",
+        "揭示了单纯依赖评测分数提高无法完全保证Agent行为的全局可靠性和可迁移性，为Agent架构演进提供了新的评判视角。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
       "id": "197a34b46937",
       "source_id": "hf_papers",
       "source_name": "Hugging Face Daily Papers",
@@ -726,6 +783,25 @@
       "importance": 4
     },
     {
+      "id": "8e8032092cbc",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.06043",
+      "published_at": "2026-11-04T01:46:50.000Z",
+      "title_en": "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription",
+      "title_zh": "Confucius4-R2T2：用于真正实时转录的稳定前缀流式ASR模型",
+      "tldr": [
+        "基于Qwen3-ASR-1.7B通过后训练构建，在保持高准确率与低延迟的同时，实现了解码后永不修改早期输出的稳定前缀特性。",
+        "使用1500小时中英文音频数据进行训练，训练过程中冻结了预训练的音频编码器和投影层参数以保持核心特征不变。",
+        "开源状态暂未在摘要中明确提及，但作为前沿语音模型研究，主要面向降低流式语音转录中的计算浪费与错误重做。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
       "id": "b103a067cd0e",
       "source_id": "hf_papers",
       "source_name": "Hugging Face Daily Papers",
@@ -743,6 +819,25 @@
       ],
       "tag": "#前沿论文",
       "importance": 4
+    },
+    {
+      "id": "ce5856510de5",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.04434",
+      "published_at": "2026-11-03T02:25:42.000Z",
+      "title_en": "Sketchpad: certified exact arithmetic with a small vision-language model",
+      "title_zh": "Sketchpad：利用小型视觉语言模型实现经认证的精确算术运算",
+      "tldr": [
+        "通过让小型VLM在外部工作记忆（渲染纸张）上进行步骤化读取，将长算术推理的精确性转化为网络可验证的有限属性。",
+        "基于Qwen3.5-0.8B模型加载低秩适配器（LoRA）执行算术过程，每步前向传递仅读取三单元视图并输出单个数字或步骤。",
+        "在不需要外部传统计算工具的情况下，探索了小型视觉语言模型在保证任意输入长度算术精确性方面的可行性方案。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
     },
     {
       "id": "95b644ba4bb0",
@@ -780,6 +875,25 @@
       ],
       "tag": "#官方首发",
       "importance": 2
+    },
+    {
+      "id": "95d9b23b5790",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "published_at": "2026-10-29T11:59:31Z",
+      "title_en": "DietrichGebert/ponytail",
+      "title_zh": "DietrichGebert/ponytail：让AI Agent模拟资深老程序员思维的工具",
+      "tldr": [
+        "旨在让AI Agent模拟团队中最懒惰但经验丰富的资深开发者的思维方式，贯彻“最好的代码就是你从未写过的代码”理念。",
+        "通过独特的代码生成策略优化开发冗余，减少不必要的代码编写，显著提升软件开发的工程效率与精简度。",
+        "开源JavaScript项目，在GitHub斩获约186,900颗Star，引发社区关于AI辅助开发极简主义的热烈讨论。"
+      ],
+      "tag": "#社区热议",
+      "importance": 4
     },
     {
       "id": "4a840ebe8377",
