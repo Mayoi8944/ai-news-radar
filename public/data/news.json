@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-11-09T23:38:40.991446+00:00",
+  "last_updated": "2026-11-10T04:57:34.699535+00:00",
   "total_count": 80,
   "items": [
+    {
+      "id": "55e63cfd1e77",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsdfep/the_chinese_threat/",
+      "published_at": "2026-11-10T04:18:24+00:00",
+      "title_en": "The Chinese threat",
+      "title_zh": "社区热议：开源大模型格局与竞争态势讨论",
+      "tldr": [
+        "Reddit 本地大模型社区围绕当前开源大模型生态及全球技术竞争格局展开的深度热议。",
+        "聚焦于亚洲及中国开源 AI 模型的性能崛起对全球开发生态和算力格局带来的深远影响。"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
     {
       "id": "311db10a3434",
       "source_id": "localllama",
@@ -76,6 +94,24 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "4f79bf6ea6dc",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-09T17:04:04Z",
+      "title_en": "Graphify-Labs/graphify",
+      "title_zh": "Graphify：将任意代码库转化为可查询知识图谱的开源工具",
+      "tldr": [
+        "支持将代码库、文档、SQL 架构及 PDF 一键转化为可查询的知识图谱，完全摒弃向量数据库。",
+        "采用本地确定性 AST 解析，提供细粒度边解释，并作为技能深度集成至 Claude Code 与 Cursor 等 CLI。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "ead0be035a17",
@@ -222,6 +258,24 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "2fc430fbd954",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-09T04:56:24Z",
+      "title_en": "affaan-m/ECC",
+      "title_zh": "affaan-m/ECC：Agent 性能优化与运行时增强系统",
+      "tldr": [
+        "专为 Claude Code、Cursor 等主流 AI 编码工具打造的 Agent 性能优化与技能扩展系统。",
+        "集成专门的 instincts、memory、安全性控制及研发优先机制，全面提升开发类 Agent 执行效率。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "36522c38cf3a",
@@ -555,6 +609,24 @@
       ],
       "tag": "#社区热议",
       "importance": 4
+    },
+    {
+      "id": "64c65dca20bb",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.10690",
+      "published_at": "2026-11-07T07:21:25.000Z",
+      "title_en": "JoVox: Joint Hierarchical Flow Matching for Lightweight Voxel Generation",
+      "title_zh": "JoVox：用于轻量级体素生成的联合分层流匹配算法",
+      "tldr": [
+        "针对传统体素生成在计算开销与保真度之间的矛盾，提出 JoVox 联合分层流匹配架构。",
+        "核心创新在于允许精细层细胞参与粗糙层的决策，修正传统粗糙层信息缺失导致的几何错误。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
     },
     {
       "id": "6a0272081f51",
@@ -1040,6 +1112,24 @@
       "importance": 4
     },
     {
+      "id": "fccebd54d589",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.08452",
+      "published_at": "2026-11-05T13:45:36.000Z",
+      "title_en": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+      "title_zh": "ReproBridge：将可复现性构建到机器学习研究产物中",
+      "tldr": [
+        "针对机器学习实验复现难的问题，定义包含优化代码库、环境配置与引导指南的标准化工件设计。",
+        "显著提升编码 Agent 自动复现实验的成功率，减少对离散论文信息和人工填补细节的依赖。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
       "id": "03acf358c818",
       "source_id": "hf_papers",
       "source_name": "Hugging Face Daily Papers",
@@ -1283,6 +1373,24 @@
       "importance": 3
     },
     {
+      "id": "4ed783739f83",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2610.42148",
+      "published_at": "2026-10-30T13:59:38.000Z",
+      "title_en": "Flide: Accelerating Decision Inference with Exact State Forking",
+      "title_zh": "Flide：利用精确状态分支加速决策推理",
+      "tldr": [
+        "针对 LLM Agent 系统中的决策模型开销，提出 Flide 高效且精确的推理引擎。",
+        "将决策请求的逻辑树结构与物理执行解耦，有效解决了传统生成式引擎的重计算开销与概率失真问题。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 4
+    },
+    {
       "id": "0bb84dd2d62b",
       "source_id": "hf_papers",
       "source_name": "Hugging Face Daily Papers",
@@ -1299,6 +1407,24 @@
         "利用可学习的读写投影桥接两个空间，实现以极小的计算开销增量大幅提升模型表征能力与残差流动效率。"
       ],
       "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "a4756fa8b280",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "published_at": "2026-10-29T11:59:31Z",
+      "title_en": "DietrichGebert/ponytail",
+      "title_zh": "DietrichGebert/ponytail：懒人资深开发者风格 AI Agent 助手",
+      "tldr": [
+        "采用极简哲学，使 AI Agent 能够像团队中最懒但最高效的资深开发者一样进行思考。",
+        "核心理念在于通过最少、最优的代码生成，实现拒绝过度工程化的自动化编程体验。"
+      ],
+      "tag": "#开源神器",
       "importance": 3
     },
     {
@@ -1356,135 +1482,6 @@
       ],
       "tag": "#社区热议",
       "importance": 4
-    },
-    {
-      "id": "4a840ebe8377",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "published_at": "2026-10-29T11:59:31Z",
-      "title_en": "DietrichGebert/ponytail",
-      "title_zh": "Ponytail：模拟资深老兵偷懒思维的 AI Agent 优化工具",
-      "tldr": [
-        "通过独特的思维对齐策略，让 AI Agent 在代码生成时像团队中最资深且注重效率的开发者一样精简代码。",
-        "核心理念为“最好的代码就是从未写过的代码”，有效减少冗余逻辑和代码量。"
-      ],
-      "tag": "#开源神器",
-      "importance": 3
-    },
-    {
-      "id": "4017119f10f1",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "published_at": "2026-10-29T11:59:31Z",
-      "title_en": "DietrichGebert/ponytail",
-      "title_zh": "Ponytail：模拟资深老兵思维的 AI Agent 懒人开发工具",
-      "tldr": [
-        "通过独特的设计哲学让 AI Agent 像团队中最懒的资深开发者一样思考和简化任务。",
-        "核心理念为“最好的代码就是你从未写过的代码”，大幅减少不必要的冗余逻辑与开发量。"
-      ],
-      "tag": "#开源神器",
-      "importance": 3
-    },
-    {
-      "id": "f614fe7da37e",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "published_at": "2026-10-29T11:59:31Z",
-      "title_en": "DietrichGebert/ponytail (186568 Stars, JavaScript)",
-      "title_zh": "DietrichGebert/ponytail (186568 Stars, JavaScript)",
-      "tldr": [
-        "一手首发源自 GitHub Trending AI",
-        "GitHub AI Repository. Stars: 186568. Language: JavaScript. Description: Makes yo...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "9520475e2be2",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "published_at": "2026-10-29T11:59:31Z",
-      "title_en": "DietrichGebert/ponytail",
-      "title_zh": "Ponytail：模拟资深老兵思维的 AI Agent 优化工具",
-      "tldr": [
-        "通过模拟团队中最慵懒的资深开发者的思维模式，优化 AI Agent 的代码生成策略与执行逻辑。",
-        "秉持“不写代码即是最好代码”的精简哲学，大幅减少不必要的冗余代码输出与计算开销。"
-      ],
-      "tag": "#开源神器",
-      "importance": 3
-    },
-    {
-      "id": "04f2cb33d8c9",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "published_at": "2026-10-29T11:59:31Z",
-      "title_en": "DietrichGebert/ponytail",
-      "title_zh": "ponytail：模拟资深老兵思维的 AI Agent 极简代码生成工具",
-      "tldr": [
-        "通过独特的设计哲学让 AI Agent 模拟团队中最慵懒的高级开发人员，贯彻最少代码原则。",
-        "专注于减少冗余代码编写与过度工程化，利用 JavaScript 编写并在 GitHub 社区开源。",
-        "具体架构创新与性能跑分指标暂未披露，旨在实现高效的代码库精简与自动化维护。"
-      ],
-      "tag": "#开源神器",
-      "importance": 3
-    },
-    {
-      "id": "f07273be5586",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "published_at": "2026-10-29T11:59:31Z",
-      "title_en": "DietrichGebert/ponytail",
-      "title_zh": "DietrichGebert/ponytail：模仿资深老兵极简开发哲学的 AI Agent 框架",
-      "tldr": [
-        "核心设计理念在于减少冗余代码，通过策略引导让 AI Agent 像资深开发人员一样进行高效代码生成。",
-        "基于 JavaScript 构建，专注于优化开发工作流，减少不必要的代码编写与重复劳动。",
-        "项目已在 GitHub 开源并获得极高 Star 数，详细的许可证类型与集成方式可查阅官方仓库。"
-      ],
-      "tag": "#开源神器",
-      "importance": 3
-    },
-    {
-      "id": "26906230ae45",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "published_at": "2026-10-29T11:59:31Z",
-      "title_en": "DietrichGebert/ponytail",
-      "title_zh": "Ponytail：模拟资深老兵偷懒思维的 AI Agent 优化工具",
-      "tldr": [
-        "通过模拟资深开发者的偷懒逻辑，优化 AI Agent 的代码决策与生成策略。",
-        "核心哲学为追求极致精简，贯彻不写代码才是最好代码的开发理念。"
-      ],
-      "tag": "#社区热议",
-      "importance": 3
     }
   ]
 }
