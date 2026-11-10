@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-11-10T13:53:34.044024+00:00",
+  "last_updated": "2026-11-10T21:05:45.263663+00:00",
   "total_count": 80,
   "items": [
+    {
+      "id": "e5cbd846f880",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/",
+      "published_at": "2026-11-10T19:44:57+00:00",
+      "title_en": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+      "title_zh": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+      "tldr": [
+        "一手首发源自 Reddit r/LocalLLaMA",
+        "How little of a pretrained large language model (LLM) has to change for it to ac...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "27ebe62df149",
+      "source_id": "google_ai",
+      "source_name": "Google AI & DeepMind",
+      "source_badge": "Google 官方",
+      "source_icon": "google",
+      "source_color": "#4285f4",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "published_at": "2026-11-10T19:00:00+00:00",
+      "title_en": "Gemini Intelligence: New features, on more devices",
+      "title_zh": "Gemini Intelligence: New features, on more devices",
+      "tldr": [
+        "一手首发源自 Google AI & DeepMind",
+        "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
+      "importance": 4
+    },
+    {
+      "id": "a79739748475",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/",
+      "published_at": "2026-11-10T14:18:08+00:00",
+      "title_en": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3",
+      "title_zh": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3",
+      "tldr": [
+        "一手首发源自 Reddit r/LocalLLaMA",
+        "&#32; submitted by &#32; /u/MagicZhang [link] &#32; [comments]...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "b568a6718666",
+      "source_id": "google_ai",
+      "source_name": "Google AI & DeepMind",
+      "source_badge": "Google 官方",
+      "source_icon": "google",
+      "source_color": "#4285f4",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "published_at": "2026-11-10T14:00:00+00:00",
+      "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "title_zh": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "tldr": [
+        "一手首发源自 Google AI & DeepMind",
+        "Google and Adobe are integrating creative and productivity tools. Edit PDFs in D...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
+      "importance": 4
+    },
     {
       "id": "e23b64a407ca",
       "source_id": "google_ai",
@@ -95,6 +171,25 @@
       "importance": 3
     },
     {
+      "id": "65c6405bac5c",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "published_at": "2026-11-10T10:00:00+00:00",
+      "title_en": "Introducing Businesses in ChatGPT",
+      "title_zh": "Introducing Businesses in ChatGPT",
+      "tldr": [
+        "一手首发源自 OpenAI Official",
+        "Manage your business information, get insights about how your business shows up,...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
+      "importance": 4
+    },
+    {
       "id": "4ed3470fd35c",
       "source_id": "openai",
       "source_name": "OpenAI Official",
@@ -113,6 +208,25 @@
       "importance": 3
     },
     {
+      "id": "3b85eb80627f",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "published_at": "2026-11-10T07:00:00+00:00",
+      "title_en": "Work at the Frontier: AI’s effect on freelance work",
+      "title_zh": "Work at the Frontier: AI’s effect on freelance work",
+      "tldr": [
+        "一手首发源自 OpenAI Official",
+        "New research from OpenAI and Upwork finds shifting demand for freelance work, ne...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
+      "importance": 4
+    },
+    {
       "id": "55e63cfd1e77",
       "source_id": "localllama",
       "source_name": "Reddit r/LocalLLaMA",
@@ -128,6 +242,44 @@
         "聚焦于亚洲及中国开源 AI 模型的性能崛起对全球开发生态和算力格局带来的深远影响。"
       ],
       "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "358843751492",
+      "source_id": "hf_blog",
+      "source_name": "Hugging Face Blog",
+      "source_badge": "开源生态",
+      "source_icon": "huggingface",
+      "source_color": "#ff9d00",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "title_en": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "title_zh": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "tldr": [
+        "一手首发源自 Hugging Face Blog",
+        "包含一手关键技术细节与更新说明",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
+    },
+    {
+      "id": "4ef9c0997a1d",
+      "source_id": "hf_blog",
+      "source_name": "Hugging Face Blog",
+      "source_badge": "开源生态",
+      "source_icon": "huggingface",
+      "source_color": "#ff9d00",
+      "url": "https://huggingface.co/blog/decision",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "title_en": "Decision Models in Hugging Face",
+      "title_zh": "Decision Models in Hugging Face",
+      "tldr": [
+        "一手首发源自 Hugging Face Blog",
+        "包含一手关键技术细节与更新说明",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
       "importance": 3
     },
     {
@@ -204,6 +356,25 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "e2cd0f8406ba",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-09T17:04:04Z",
+      "title_en": "Graphify-Labs/graphify (145585 Stars, Python)",
+      "title_zh": "Graphify-Labs/graphify (145585 Stars, Python)",
+      "tldr": [
+        "一手首发源自 GitHub Trending AI",
+        "GitHub AI Repository. Stars: 145585. Language: Python. Description: Turn any cod...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "a85f422c8aba",
@@ -388,6 +559,25 @@
       "importance": 3
     },
     {
+      "id": "823225cad363",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-09T04:56:24Z",
+      "title_en": "affaan-m/ECC (300726 Stars, JavaScript)",
+      "title_zh": "affaan-m/ECC (300726 Stars, JavaScript)",
+      "tldr": [
+        "一手首发源自 GitHub Trending AI",
+        "GitHub AI Repository. Stars: 300726. Language: JavaScript. Description: The agen...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
+    {
       "id": "08ed83acf7c6",
       "source_id": "github_ai",
       "source_name": "GitHub Trending AI",
@@ -459,6 +649,25 @@
       ],
       "tag": "#开源神器",
       "importance": 4
+    },
+    {
+      "id": "7cf356e3b1c5",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.12167",
+      "published_at": "2026-11-08T19:00:00.000Z",
+      "title_en": "FraudBench: A Legal Evaluation of AI Deception",
+      "title_zh": "FraudBench: A Legal Evaluation of AI Deception",
+      "tldr": [
+        "一手首发源自 Hugging Face Daily Papers",
+        "HF Community Upvotes: 1. Summary: We introduce FraudBench, an evaluation of larg...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
     },
     {
       "id": "c5cdecd700bd",
@@ -1017,6 +1226,44 @@
       "importance": 4
     },
     {
+      "id": "438567d5501e",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.10592",
+      "published_at": "2026-11-06T19:00:00.000Z",
+      "title_en": "MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification",
+      "title_zh": "MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification",
+      "tldr": [
+        "一手首发源自 Hugging Face Daily Papers",
+        "HF Community Upvotes: 3. Summary: Large language models can generate motion grap...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "88d7827f2df3",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.10556",
+      "published_at": "2026-11-06T19:00:00.000Z",
+      "title_en": "onóna: Twin Embeddings with Tied Unembeddings",
+      "title_zh": "onóna: Twin Embeddings with Tied Unembeddings",
+      "tldr": [
+        "一手首发源自 Hugging Face Daily Papers",
+        "HF Community Upvotes: 2. Summary: Weight tying reduces the parameter cost of lan...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
       "id": "79462b78e83e",
       "source_id": "hf_papers",
       "source_name": "Hugging Face Daily Papers",
@@ -1237,246 +1484,6 @@
       ],
       "tag": "#开源神器",
       "importance": 5
-    },
-    {
-      "id": "1ae6b8781d7b",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.08935",
-      "published_at": "2026-11-05T19:00:00.000Z",
-      "title_en": "SkinMind: Equipping Agentic RAG with Human-Inspired Graph Probing for Reliable Dermatology AI",
-      "title_zh": "SkinMind：赋予 Agentic RAG 仿真人类图谱探测能力以实现高可靠皮肤病学 AI",
-      "tldr": [
-        "针对传统 RAG 无法自适应检索粒度与多跳推理的问题，提出多模态 Agentic RAG 框架 SkinMind。",
-        "引入人类启发的图结构探测机制，实现异构文本与视觉临床证据的自主迭代检索与高可靠推理。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 4
-    },
-    {
-      "id": "5b02cc4b926a",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.09891",
-      "published_at": "2026-11-05T19:00:00.000Z",
-      "title_en": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
-      "title_zh": "CPU-ARC：用于 CPU 端推理复用的 Agentic Reasoning Caching 架构",
-      "tldr": [
-        "提出 Agentic Reasoning Caching (ARC) 方法，将 LLM 推理轨迹转化为可在 CPU 高效执行的缓存。",
-        "避免了每次遇到新任务都从头推理的冗余开销，在各类基准测试中展现出媲美前沿大模型的性能。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 4
-    },
-    {
-      "id": "d20384882cde",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.09634",
-      "published_at": "2026-11-05T19:00:00.000Z",
-      "title_en": "Steerable Multi-Objective Group-Relative Preference Optimization with Jointly Trained Low-Rank Adapters",
-      "title_zh": "基于联合训练低秩适配器的可控多目标组相对偏好优化",
-      "tldr": [
-        "提出 LambdaMix 参数高效方法，利用在线强化学习在冻结的基座模型上为每个优化目标联合训练一个低秩适配器（LoRA）。",
-        "通过单一偏好向量在推理时动态选择适配器混合比例并分配权重，实现对多个竞争目标的实时、可控权衡调整。",
-        "作为前沿对齐算法研究，重点解决后训练阶段单一策略无法适应动态多目标偏好的痛点，暂未公布具体开源许可证。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "d656e0ee6d8b",
-      "source_id": "openai",
-      "source_name": "OpenAI Official",
-      "source_badge": "OpenAI 官方",
-      "source_icon": "openai",
-      "source_color": "#10a37f",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "published_at": "2026-11-05T17:00:00+00:00",
-      "title_en": "Australian universities are creating AI-native graduates",
-      "title_zh": "澳大利亚高校全面普及 ChatGPT，培养具备 AI 原生能力的毕业生",
-      "tldr": [
-        "澳大利亚多所大学正扩大 ChatGPT 访问权限，将人工智能深度融入日常教学与课程中。",
-        "旨在通过全方位的 AI 教学赋能，为未来的劳动力市场储备具备 AI 原生技能的人才。"
-      ],
-      "tag": "#社区热议",
-      "importance": 1
-    },
-    {
-      "id": "4d61cc3eb3ef",
-      "source_id": "google_ai",
-      "source_name": "Google AI & DeepMind",
-      "source_badge": "Google 官方",
-      "source_icon": "google",
-      "source_color": "#4285f4",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "published_at": "2026-11-05T17:00:00+00:00",
-      "title_en": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "title_zh": "Google 发布 Gemini Omni 1.2 Flash：兼顾高速、低成本与长视频处理",
-      "tldr": [
-        "推出 Gemini Omni 1.2 Flash 模型，专为高性能、低延迟的实时多模态交互场景设计。",
-        "支持更长的视频片段输入处理，同时在计算成本上实现了显著优化。"
-      ],
-      "tag": "#官方首发",
-      "importance": 4
-    },
-    {
-      "id": "fccebd54d589",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.08452",
-      "published_at": "2026-11-05T13:45:36.000Z",
-      "title_en": "ReproBridge: Building Reproducibility into ML Research Artifacts",
-      "title_zh": "ReproBridge：将可复现性构建到机器学习研究产物中",
-      "tldr": [
-        "针对机器学习实验复现难的问题，定义包含优化代码库、环境配置与引导指南的标准化工件设计。",
-        "显著提升编码 Agent 自动复现实验的成功率，减少对离散论文信息和人工填补细节的依赖。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "03acf358c818",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.08179",
-      "published_at": "2026-11-05T10:34:23.000Z",
-      "title_en": "Knowing When to Teach: Learning from Teachable Prefixes in Multilingual Reasoning Distillation",
-      "title_zh": "知晓何时施教：多语言推理蒸馏中从可教前缀中学习",
-      "tldr": [
-        "针对多语言推理中在线自蒸馏（OPSD）面临的教师漂移现象，发现在低资源语言中学生中间步骤错误极易导致教师盲目跟随。",
-        "通过引入可教前缀机制，精准控制教师模型在多语言环境下的反馈时机，防止错误累积并纠正中间推理步骤。",
-        "有效提升了多语言推理蒸馏的鲁棒性，为跨语言大模型知识迁移与对齐提供了新的架构设计思路。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "746e74218a87",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.08175",
-      "published_at": "2026-11-05T10:31:15.000Z",
-      "title_en": "PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?",
-      "title_zh": "PCBRouteAgent：LLM Agent 距离成为印刷电路板布线工程师还有多远？",
-      "tldr": [
-        "提出 PCBRouteAgent 多模态代理，模仿人类工程师在严格设计规则下协调全局策略与局部几何布线。",
-        "通过全局布线规划器（Global Routing Planner）结合电路板图像与结构化电学几何信息指定拓扑。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "562f80617775",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.08647",
-      "published_at": "2026-11-04T19:00:00.000Z",
-      "title_en": "IWIBench: Evaluating Gradient-Free Model Driven Intra-weight Injection",
-      "title_zh": "IWIBench：无梯度模型驱动的权重内部注入评测基准",
-      "tldr": [
-        "推出 IWIBench 基准，用于系统评估大模型在无梯度情况下直接修改目标模型权重的能力。",
-        "测试 editor 模型对目标模型（通常为 Gemma 3 4B IT）进行词汇、格式或事实知识编辑的效果。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "25d3f5006e41",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.07624",
-      "published_at": "2026-11-04T19:00:00.000Z",
-      "title_en": "Beneath the Surface: What We Overlook When We Talk About Agent Evolution",
-      "title_zh": "水面之下：当我们讨论Agent进化时容易忽视的关键问题",
-      "tldr": [
-        "研究了Agent框架演进中的递归自我改进机制，在不更新模型权重的情况下对通用任务和编码任务进行了系统性基准评测。",
-        "实验发现所有16个进化后的Agent均呈现出“获得新能力同时丧失旧能力”的权衡现象，并非单向的性能全面提升。",
-        "揭示了单纯依赖评测分数提高无法完全保证Agent行为的全局可靠性和可迁移性，为Agent架构演进提供了新的评判视角。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "197a34b46937",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.08483",
-      "published_at": "2026-11-04T19:00:00.000Z",
-      "title_en": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
-      "title_zh": "SwarmEvolve：基于隐空间 Agent 群体的进化式科学发现与优化框架",
-      "tldr": [
-        "针对 LLM 进化搜索中每轮生成冗长文本思维链导致计算缓慢、群体多样性受限的痛点，提出 SwarmEvolve 框架。",
-        "数百个低成本 Agent 在隐空间中直接推理而不解码为文本，通过传递 KV 缓存实现高效的信息共享与群体协同。",
-        "代码框架尚在学术研究阶段，权重与许可证发布情况未作详细说明。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 4
-    },
-    {
-      "id": "ea5114ef1c60",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.07025",
-      "published_at": "2026-11-04T14:00:06.000Z",
-      "title_en": "LowRAM: Low-Rank Keys and Amortised Values for Composable KV Cache Compression at Test-Time",
-      "title_zh": "LowRAM：用于测试时可组合 KV 缓存压缩的低秩键与摊销值方法",
-      "tldr": [
-        "针对自回归解码中线性增长的 KV 缓存显存开销，提出利用注意力头内部键值（Key-Value）高度可预测性的压缩方案。",
-        "采用值缓存摊销技术，在测试时拟合轻量级每头预测器，仅对重构误差最大的残差 Token 进行存储，显著降低显存开销。",
-        "作为创新的推理加速技术，在不损失模型性能的前提下有效提升大上下文长度下的批处理大小与吞吐量。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "4d0e8d0f78c5",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.06498",
-      "published_at": "2026-11-04T08:32:04.000Z",
-      "title_en": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation",
-      "title_zh": "签名但可操纵：度量并弥合离线 RAG 中的文本-向量完整性鸿沟",
-      "tldr": [
-        "研究了边缘设备离线 RAG 签名知识包中存在的文本与预计算嵌入向量不一致的隐患（文本-向量完整性鸿沟）。",
-        "揭示了攻击者在余弦容忍度内劫持查询的边际定律（margin law），证明当前验证机制存在安全漏洞。",
-        "论文未明确提及开源仓库及权重发布状态，重在理论安全分析。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 4
     }
   ]
 }
