@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-11-10T04:57:34.699535+00:00",
+  "last_updated": "2026-11-10T13:53:34.044024+00:00",
   "total_count": 80,
   "items": [
+    {
+      "id": "e23b64a407ca",
+      "source_id": "google_ai",
+      "source_name": "Google AI & DeepMind",
+      "source_badge": "Google 官方",
+      "source_icon": "google",
+      "source_color": "#4285f4",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "published_at": "2026-11-10T13:00:00+00:00",
+      "title_en": "Google Cloud launches Gemini for healthcare.",
+      "title_zh": "谷歌云正式发布面向医疗健康领域的 Gemini 行业解决方案",
+      "tldr": [
+        "谷歌云推出面向医疗的 Gemini，旨在统一临床数据并实现工作流程自动化，降低医务人员管理疲劳。",
+        "通过多模态 AI 能力无缝整合多源临床异构数据，大幅提升医疗机构的整体运营效率。"
+      ],
+      "tag": "#官方首发",
+      "importance": 4
+    },
+    {
+      "id": "65dbd9d4d245",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "published_at": "2026-11-10T12:00:00+00:00",
+      "title_en": "Helping caregivers use AI in everyday life",
+      "title_zh": "OpenAI Academy 推出面向全美五大城市照料者的免费 ChatGPT 实践工作坊",
+      "tldr": [
+        "OpenAI Academy 在美国五个城市为照料者开展免费的 ChatGPT 动手实践工作坊。",
+        "旨在帮助照料者构建实用的 AI 技能，以应对日常生活中的各种实际场景与挑战。"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
+    },
+    {
+      "id": "0c946490c7a9",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d/",
+      "published_at": "2026-11-10T11:41:51+00:00",
+      "title_en": "xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D",
+      "title_zh": "xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D",
+      "tldr": [
+        "一手首发源自 Reddit r/LocalLLaMA",
+        "Image-conditioned 64³ voxel structure generator of JoVox: Joint Hierarchical Flo...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "01ffefadad24",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no/",
+      "published_at": "2026-11-10T11:27:44+00:00",
+      "title_en": "Decision model to edit LLM weight directly - No training",
+      "title_zh": "Decision model to edit LLM weight directly - No training",
+      "tldr": [
+        "一手首发源自 Reddit r/LocalLLaMA",
+        "On September 18, I launched Laya at you guys request, the first system 1 open-so...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "095aaac8cc1f",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai/",
+      "published_at": "2026-11-10T10:23:52+00:00",
+      "title_en": "Fable 5.2 not only has guardrails against AI acceleration, its capabilities were capped in training too",
+      "title_zh": "社区热议：Fable 5.2 不仅内置防 AI 加速安全护栏，其模型能力在训练阶段已被刻意阉割",
+      "tldr": [
+        "社区讨论指出私有模型 Fable 5.2 在训练阶段和推理护栏中双重限制了模型潜力，引发对商业闭源模型透明度的担忧。",
+        "开发者与用户普遍认为此类过度安全的限制进一步凸显了拥抱开源权重大模型（Open Weight LLMs）的必要性。"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "4ed3470fd35c",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "published_at": "2026-11-10T09:00:00+00:00",
+      "title_en": "Closing the AI guidance gap in education",
+      "title_zh": "发布全新 ThinkYoung 研究报告及 OpenAI 欧洲中东及非洲教育合作项目成果",
+      "tldr": [
+        "结合 ThinkYoung 的最新研究与 OpenAI 的 EMEA 教育合作经验，支持教师进行 AI 素养教育。",
+        "重点关注如何弥合教育领域的 AI 指导差距，全面提升教师辅助教学与独立学习能力。"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
+    },
     {
       "id": "55e63cfd1e77",
       "source_id": "localllama",
@@ -94,6 +204,24 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "a85f422c8aba",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-09T17:04:04Z",
+      "title_en": "Graphify-Labs/graphify",
+      "title_zh": "Graphify：将任意代码库及文档零向量库转化为本地确定性知识图谱的开源利器",
+      "tldr": [
+        "采用 Python 开发的开源项目，支持将代码库、文档、SQL Schema、配置及 PDF 直接解析为可查询的知识图谱。",
+        "基于本地确定性 AST 解析架构，确保每条边均可解释，完全不依赖传统的向量数据库（Vector Store）。"
+      ],
+      "tag": "#开源神器",
+      "importance": 5
     },
     {
       "id": "4f79bf6ea6dc",
@@ -260,6 +388,24 @@
       "importance": 3
     },
     {
+      "id": "08ed83acf7c6",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-09T04:56:24Z",
+      "title_en": "affaan-m/ECC",
+      "title_zh": "ECC：面向主流编码助手的 Agent 性能优化与运行时管理系统",
+      "tldr": [
+        "在 GitHub 获得超 30 万 Star 的 JavaScript 开源项目，专为 Claude Code、Cursor 等编程助手设计。",
+        "提供技能、直觉、记忆管理、安全性及研究优先开发等综合 Agent 效能优化与护航机制。"
+      ],
+      "tag": "#开源神器",
+      "importance": 5
+    },
+    {
       "id": "2fc430fbd954",
       "source_id": "github_ai",
       "source_name": "GitHub Trending AI",
@@ -313,6 +459,24 @@
       ],
       "tag": "#开源神器",
       "importance": 4
+    },
+    {
+      "id": "c5cdecd700bd",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.11890",
+      "published_at": "2026-11-08T19:00:00.000Z",
+      "title_en": "Training Vision Transformers to Focus: Emergence of Spatial Attention Head Specialization",
+      "title_zh": "训练聚焦的视觉 Transformer：空间注意力头特异化的涌现机制",
+      "tldr": [
+        "针对自监督 ViT 模型在无标签训练中缺乏聚焦机制、感知表示易模糊的问题，引入两项全新的视觉聚焦损失函数。",
+        "利用多头注意力机制建立模型注意力与图像特定区域的精准对应，促使空间注意力头产生特异化涌现。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
     },
     {
       "id": "1763fbcc8406",
@@ -853,6 +1017,42 @@
       "importance": 4
     },
     {
+      "id": "79462b78e83e",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2512.23818",
+      "published_at": "2026-11-06T19:00:00.000Z",
+      "title_en": "Energy-Tweedie: Score meets Score, Energy meets Energy",
+      "title_zh": "Energy-Tweedie：将得分匹配与能量模型扩展至广义噪声分布",
+      "tldr": [
+        "论文将传统的 Tweedie 公式从高斯噪声推广至广泛的 Gibbs（基于能量的）噪声分布族。",
+        "推导出了 Energy-Tweedie 恒等式，通过核得分规则的路径导数在非高斯噪声下恢复 Stein 得分。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "a7f30bc71fae",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.10304",
+      "published_at": "2026-11-06T18:04:32.000Z",
+      "title_en": "Longtail-SWE: High-Quality SWE Tasks for Underrepresented Languages",
+      "title_zh": "Longtail-SWE：面向低资源编程语言的高质量代码库级基准测试",
+      "tldr": [
+        "推出了涵盖 Clojure、Elixir、Haskell、Kotlin 等 13 种低资源生态的 202 个代码修复任务基准测试。",
+        "采用求解器-评判者-修复者流水线自动构建高质量任务，解决了现有基准在小众语言覆盖不足的问题。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 4
+    },
+    {
       "id": "d3a794d41281",
       "source_id": "github_ai",
       "source_name": "GitHub Trending AI",
@@ -1037,6 +1237,24 @@
       ],
       "tag": "#开源神器",
       "importance": 5
+    },
+    {
+      "id": "1ae6b8781d7b",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.08935",
+      "published_at": "2026-11-05T19:00:00.000Z",
+      "title_en": "SkinMind: Equipping Agentic RAG with Human-Inspired Graph Probing for Reliable Dermatology AI",
+      "title_zh": "SkinMind：赋予 Agentic RAG 仿真人类图谱探测能力以实现高可靠皮肤病学 AI",
+      "tldr": [
+        "针对传统 RAG 无法自适应检索粒度与多跳推理的问题，提出多模态 Agentic RAG 框架 SkinMind。",
+        "引入人类启发的图结构探测机制，实现异构文本与视觉临床证据的自主迭代检索与高可靠推理。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 4
     },
     {
       "id": "5b02cc4b926a",
@@ -1258,229 +1476,6 @@
         "论文未明确提及开源仓库及权重发布状态，重在理论安全分析。"
       ],
       "tag": "#前沿论文",
-      "importance": 4
-    },
-    {
-      "id": "8e8032092cbc",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.06043",
-      "published_at": "2026-11-04T01:46:50.000Z",
-      "title_en": "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription",
-      "title_zh": "Confucius4-R2T2：用于真正实时转录的稳定前缀流式ASR模型",
-      "tldr": [
-        "基于Qwen3-ASR-1.7B通过后训练构建，在保持高准确率与低延迟的同时，实现了解码后永不修改早期输出的稳定前缀特性。",
-        "使用1500小时中英文音频数据进行训练，训练过程中冻结了预训练的音频编码器和投影层参数以保持核心特征不变。",
-        "开源状态暂未在摘要中明确提及，但作为前沿语音模型研究，主要面向降低流式语音转录中的计算浪费与错误重做。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "b103a067cd0e",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.06500",
-      "published_at": "2026-11-03T19:00:00.000Z",
-      "title_en": "Tools Need Not Speak in Text: Latent Context Compression for Agents",
-      "title_zh": "摆脱文本束缚：提出面向 AI Agent 的连续隐空间上下文压缩方案",
-      "tldr": [
-        "针对传统 LLM Agent 拼接原始文本工具输出导致 Context 冗余与注意力稀释的问题，提出连续隐空间压缩方法。",
-        "打破工具反馈必须转化为显式文本 Token 的传统假设，大幅提升长步骤交互中的信息吞吐率与推理效率。",
-        "代码及相关实现细节已开源，许可证类型有待进一步公开确认。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 4
-    },
-    {
-      "id": "ce5856510de5",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.04434",
-      "published_at": "2026-11-03T02:25:42.000Z",
-      "title_en": "Sketchpad: certified exact arithmetic with a small vision-language model",
-      "title_zh": "Sketchpad：利用小型视觉语言模型实现经认证的精确算术运算",
-      "tldr": [
-        "通过让小型VLM在外部工作记忆（渲染纸张）上进行步骤化读取，将长算术推理的精确性转化为网络可验证的有限属性。",
-        "基于Qwen3.5-0.8B模型加载低秩适配器（LoRA）执行算术过程，每步前向传递仅读取三单元视图并输出单个数字或步骤。",
-        "在不需要外部传统计算工具的情况下，探索了小型视觉语言模型在保证任意输入长度算术精确性方面的可行性方案。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "95b644ba4bb0",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.04386",
-      "published_at": "2026-11-02T19:00:00.000Z",
-      "title_en": "StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models",
-      "title_zh": "StepX-OPD：重构扩散模型中的多教师在线策略蒸馏",
-      "tldr": [
-        "针对扩散模型多阶段蒸馏（全步长能力巩固与少步长蒸馏割裂）导致压缩后性能下降的问题，提出 StepX-OPD 框架。",
-        "将多教师在线策略蒸馏（On-Policy Distillation）与少步长采样合并在统一流程中执行，避免了传统串行蒸馏的性能损耗。",
-        "官方尚未完全公开最终开源代码与模型权重许可证细节。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 4
-    },
-    {
-      "id": "c7c43fab0a24",
-      "source_id": "google_ai",
-      "source_name": "Google AI & DeepMind",
-      "source_badge": "Google 官方",
-      "source_icon": "google",
-      "source_color": "#4285f4",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "published_at": "2026-11-02T17:45:00+00:00",
-      "title_en": "The latest AI news we announced in October 2026",
-      "title_zh": "Google DeepMind 汇总发布 2026 年 10 月最新 AI 技术进展",
-      "tldr": [
-        "官方盘点并总结了 Google 在 2026 年 10 月份发布的各项核心人工智能创新成果。",
-        "涵盖底层模型架构升级、多模态应用扩展及前沿科学研究的阶段性突破。"
-      ],
-      "tag": "#官方首发",
-      "importance": 2
-    },
-    {
-      "id": "3b87fb9a51a2",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.02775",
-      "published_at": "2026-11-02T03:51:01.000Z",
-      "title_en": "Human-Centred, Risk-Constrained Evaluation of Financial Document Recognition: Evidence, Critical Errors, and Selective Automation",
-      "title_zh": "以人为中心、受风险约束的金融文档识别评估：证据、关键错误与选择性自动化",
-      "tldr": [
-        "构建了金融文档识别的人本、风险约束评估框架，跳出传统的字符与词错误率（CER/WER）局限。",
-        "将底层事实链接至可视源区域，对文本转录、规范化及业务解释进行分层质量管理以支持决策。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "4ed783739f83",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2610.42148",
-      "published_at": "2026-10-30T13:59:38.000Z",
-      "title_en": "Flide: Accelerating Decision Inference with Exact State Forking",
-      "title_zh": "Flide：利用精确状态分支加速决策推理",
-      "tldr": [
-        "针对 LLM Agent 系统中的决策模型开销，提出 Flide 高效且精确的推理引擎。",
-        "将决策请求的逻辑树结构与物理执行解耦，有效解决了传统生成式引擎的重计算开销与概率失真问题。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 4
-    },
-    {
-      "id": "0bb84dd2d62b",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2610.41711",
-      "published_at": "2026-10-30T09:18:22.000Z",
-      "title_en": "Hierarchical Residuals: A Minimalist Decoupling of Residual Width from Compute Width",
-      "title_zh": "分层残差：残差宽度与计算宽度的极简解耦方案",
-      "tldr": [
-        "提出分层残差（HiRes）架构，打破了传统 Transformer 中残差宽度随网络深度绑定内部层计算宽度的限制。",
-        "通过块级设计，在块内部保持标准的 d 维 PreNorm 计算宽度不变，同时在外层通过更宽的 D 维残差连接扩大状态容量。",
-        "利用可学习的读写投影桥接两个空间，实现以极小的计算开销增量大幅提升模型表征能力与残差流动效率。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "a4756fa8b280",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "published_at": "2026-10-29T11:59:31Z",
-      "title_en": "DietrichGebert/ponytail",
-      "title_zh": "DietrichGebert/ponytail：懒人资深开发者风格 AI Agent 助手",
-      "tldr": [
-        "采用极简哲学，使 AI Agent 能够像团队中最懒但最高效的资深开发者一样进行思考。",
-        "核心理念在于通过最少、最优的代码生成，实现拒绝过度工程化的自动化编程体验。"
-      ],
-      "tag": "#开源神器",
-      "importance": 3
-    },
-    {
-      "id": "484e485cab24",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "published_at": "2026-10-29T11:59:31Z",
-      "title_en": "DietrichGebert/ponytail (187668 Stars, JavaScript)",
-      "title_zh": "DietrichGebert/ponytail：让 AI 代理具备极简主义编程思维的高效工具",
-      "tldr": [
-        "GitHub 热门开源项目，通过独特的设计理念让 AI 代理模拟资深架构师的“懒惰”与高效哲学。",
-        "核心逻辑在于推崇最少的冗余代码，通过极简的生成策略实现自动化代码的精准交付。"
-      ],
-      "tag": "#开源神器",
-      "importance": 3
-    },
-    {
-      "id": "4a5f44e5bcd5",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "published_at": "2026-10-29T11:59:31Z",
-      "title_en": "DietrichGebert/ponytail",
-      "title_zh": "Ponytail：模拟资深懒宅程序员思维的 AI 智能体调优工具",
-      "tldr": [
-        "通过独特的设计理念引导 AI 智能体以最省力的方案解决编码问题，核心理念倡导“最好的代码就是从未写过的代码”。",
-        "作为 JavaScript 开发的开源辅助工具，旨在减少冗余代码生成，优化 AI 编程助手的决策逻辑与输出质量。",
-        "在 GitHub 社区引发广泛关注，为开发者提供了一种全新的极简主义 AI 开发流控制方式。"
-      ],
-      "tag": "#开源神器",
-      "importance": 3
-    },
-    {
-      "id": "95d9b23b5790",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "published_at": "2026-10-29T11:59:31Z",
-      "title_en": "DietrichGebert/ponytail",
-      "title_zh": "DietrichGebert/ponytail：让AI Agent模拟资深老程序员思维的工具",
-      "tldr": [
-        "旨在让AI Agent模拟团队中最懒惰但经验丰富的资深开发者的思维方式，贯彻“最好的代码就是你从未写过的代码”理念。",
-        "通过独特的代码生成策略优化开发冗余，减少不必要的代码编写，显著提升软件开发的工程效率与精简度。",
-        "开源JavaScript项目，在GitHub斩获约186,900颗Star，引发社区关于AI辅助开发极简主义的热烈讨论。"
-      ],
-      "tag": "#社区热议",
       "importance": 4
     }
   ]
