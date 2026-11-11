@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-10T21:05:45.263663+00:00",
+  "last_updated": "2026-11-11T03:29:26.682368+00:00",
   "total_count": 80,
   "items": [
+    {
+      "id": "20665e6478e1",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "title_en": "Gilbert + Tobin Rethinks the Business of Law with AI",
+      "title_zh": "澳大利亚顶尖律所 Gilbert + Tobin 借力 OpenAI 重塑法律业务流",
+      "tldr": [
+        "OpenAI 发布对律所 G+T 负责人的深度访谈，展示生成式模型在法律文书和分析中的商业化落地",
+        "以企业级 API 与 ChatGPT Enterprise 深度重构法律尽调与合同起草，大幅降低人工审查耗时",
+        "未公开新模型或技术权重，定位为法律垂直行业商业落地案例展示"
+      ],
+      "tag": "#官方首发",
+      "importance": 1
+    },
+    {
+      "id": "d8abf7ad0fe1",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt6du9/qwen4_is_coming/",
+      "published_at": "2026-11-11T02:44:38+00:00",
+      "title_en": "Qwen4 Release Timeline Delayed for Ambassador Program Adjustments",
+      "title_zh": "Qwen4 确认发布在即：因大使项目深度微调导致短期延期",
+      "tldr": [
+        "多方信源证实通义千问下一代旗舰模型 Qwen4 即将面世，目前正进行最后一轮模型收敛调优",
+        "推迟原因为消化社区大使内测反馈，针对编码、复杂推理和长上下文鲁棒性做最终对齐",
+        "Reddit r/LocalLLaMA 社区引发极高讨论度，开源基座权重与 MoE 架构版本备受期待"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "76b6c3d01d3a",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt5q27/qwen4_is_coming_preview_now_live_on_alibaba_token/",
+      "published_at": "2026-11-11T02:13:09+00:00",
+      "title_en": "Qwen4-Max Preview Launches on Alibaba Token Plan with Deep Agentic Upgrades",
+      "title_zh": "Qwen4-Max Preview 抢先上线阿里百炼平台与 Qwen 官方生态",
+      "tldr": [
+        "Qwen4-Max Preview 版本正式上线阿里 Token Plan，并向 Qoder 与 Qwen App 全面开放",
+        "重点突破复杂世界理解、深度代码生成与自主 Agent 工具链协同任务能力",
+        "平台限时提供低至 1 折的 API 调用折扣，面向开发者开启大规模高并发真实环境公测"
+      ],
+      "tag": "#官方首发",
+      "importance": 5
+    },
+    {
+      "id": "b1615420cc3b",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-10T21:53:12Z",
+      "title_en": "graphify: Zero-Vector Codebase Knowledge Graph Builder",
+      "title_zh": "graphify：无需向量库、基于确定性 AST 的代码库知识图谱构建工具",
+      "tldr": [
+        "放弃向量数据库方案，完全基于本地确定性 AST 解析代码、SQL 与文档并建立显式图谱",
+        "原生支持 Claude Code、Cursor、Gemini CLI 的 /graphify 技能调用，精准索引跨文件引用",
+        "开源 Python 库，显存开销极小且无语义检索漂移，提供 100% 具备可解释性的边关系"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
+    {
+      "id": "1c60a1db8c3c",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/",
+      "published_at": "2026-11-10T21:30:36+00:00",
+      "title_en": "Apple Developing Native Mac App for Local AI Model Execution",
+      "title_zh": "苹果被曝正开发全新 Mac 原生应用，大幅降低本地 LLM 运行门槛",
+      "tldr": [
+        "社区曝光苹果内部正在打造一款类似 Ollama / LM Studio 的 macOS 官方原生应用",
+        "预计将深度绑定 Apple Silicon 统一内存架构与 Metal / CoreML 底层推理加速管线",
+        "旨在向普通 Mac 用户提供开箱即用的离线大模型下载、加载与量化推理工作流"
+      ],
+      "tag": "#社区热议",
+      "importance": 4
+    },
     {
       "id": "e5cbd846f880",
       "source_id": "localllama",
@@ -321,6 +416,25 @@
       "importance": 3
     },
     {
+      "id": "1575a94363a2",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.14033",
+      "published_at": "2026-11-09T19:00:00.000Z",
+      "title_en": "Few-Step Streaming Video Generation via Condition Shifting",
+      "title_zh": "基于条件偏移的少步流式视频生成蒸馏技术",
+      "tldr": [
+        "将 APEX 框架扩展至流式视频生成，通过 Condition Shifting 估算生成分布速度场",
+        "复用主生成器参数直接计算假样本梯度，彻底剔除传统 DMD 独立的 fake-score 网络",
+        "大幅降低蒸馏训练时的显存占用与计算开销，支持极少步采样下的高质量实时推流"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
       "id": "736e5da3a176",
       "source_id": "openai",
       "source_name": "OpenAI Official",
@@ -559,6 +673,25 @@
       "importance": 3
     },
     {
+      "id": "c27b390c4c6e",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-09T04:56:24Z",
+      "title_en": "ECC: The Agent Harness Performance Optimization System",
+      "title_zh": "ECC：专为 Claude Code 与 Cursor 打造的 Agent 性能优化底座",
+      "tldr": [
+        "为 Claude Code、Codex 及 Cursor 等编程 Agent 提供系统级技能编排、记忆池与安全防护",
+        "采用模块化 Agent Harness 架构，大幅降低多轮上下文冗余与长任务工具调用失败率",
+        "在 GitHub 获得超高星标关注，开源 JavaScript 实现，面向开发者完全免费开放"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
+    {
       "id": "823225cad363",
       "source_id": "github_ai",
       "source_name": "GitHub Trending AI",
@@ -649,6 +782,63 @@
       ],
       "tag": "#开源神器",
       "importance": 4
+    },
+    {
+      "id": "2f59209dfa25",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.12426",
+      "published_at": "2026-11-08T19:00:00.000Z",
+      "title_en": "dNaViT: Discrete Codes are General-Purpose Visual Representations",
+      "title_zh": "dNaViT：原生分辨率离散自回归视觉 Transformer 架构",
+      "tldr": [
+        "提出离散原生分辨率视觉 Transformer，验证有限离散词表在通用视觉表征中的强大表达能力",
+        "打通自回归语言模型与视觉底座的对齐屏障，实现完全统一的 Next-token 预测训练框架",
+        "论文已上线 Hugging Face Daily Papers，代码与预训练权重将按开源社区规范发布"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "56ee09a7b2c6",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.12411",
+      "published_at": "2026-11-08T19:00:00.000Z",
+      "title_en": "PhysOPSD: Code as Privilege for Physically Plausible Video Generation",
+      "title_zh": "PhysOPSD：引入代码特权上下文的物理真实感视频生成蒸馏框架",
+      "tldr": [
+        "提出在线策略自蒸馏（OPSD）新机制，以代码形式引入特权上下文监督物理动力学演化",
+        "克服了 SFT 离线状态失配与强化学习中物理奖赏函数稀疏模糊的两大核心痛点",
+        "在复杂物体交互与物理运动场景中显著减少幻觉崩塌，大幅提升动力学合理性"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "a3d8f239f5d6",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.12885",
+      "published_at": "2026-11-08T19:00:00.000Z",
+      "title_en": "World In-Context Learning for Agentic Robot Manipulation",
+      "title_zh": "World In-Context Learning：具身智能体的跨场景上下文强化学习",
+      "tldr": [
+        "提出具身智能体 World ICL 范式，通过解耦环境外观与任务语义跨越泛化鸿沟",
+        "仅凭上下文演示即可实现新场景无参数更新 Zero-shot 机械臂操作策略迁移",
+        "打破传统模型策略与特定训练数据分布的强绑定，大幅提高小样本交互泛化表现"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
     },
     {
       "id": "7cf356e3b1c5",
@@ -1298,192 +1488,6 @@
       ],
       "tag": "#前沿论文",
       "importance": 4
-    },
-    {
-      "id": "d3a794d41281",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-06T17:11:19Z",
-      "title_en": "Graphify-Labs/graphify",
-      "title_zh": "Graphify：基于本地 AST 解析的零向量数据库知识图谱工具",
-      "tldr": [
-        "支持将代码库、文档、SQL 架构、配置文件及 PDF 一键转换为可查询的确定性知识图谱。",
-        "采用本地确定性 AST 解析技术，不依赖向量数据库，每一条图谱边均可追溯解释。",
-        "提供 Claude Code、Cursor、Codex 及 Gemini CLI 的 /graphify 技能插件，Python 编写并开源。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "1927846aa6be",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-06T17:11:19Z",
-      "title_en": "Graphify-Labs/graphify",
-      "title_zh": "Graphify-Labs/graphify：基于本地 AST 解析的零向量库知识图谱构建工具",
-      "tldr": [
-        "支持将代码库、文档、SQL 架构及 PDF 转化为可查询的知识图谱，无缝集成 Claude Code 等工具。",
-        "采用本地确定性 AST 解析技术，每条边均可解释，完全抛弃传统的 Vector Store 向量数据库方案。",
-        "使用 Python 编写并开源，提供高效的离线知识图谱构建能力，具体许可证类型以 GitHub 为准。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "798dad46a5e8",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-06T17:11:19Z",
-      "title_en": "Graphify-Labs/graphify",
-      "title_zh": "Graphify：基于本地 AST 解析的零向量库知识图谱生成工具",
-      "tldr": [
-        "支持将任意代码库、文档、SQL 架构及 PDF 转换为可查询的高精度知识图谱。",
-        "采用本地确定性 AST 解析架构，实现全链路图边解释，完全不依赖向量数据库。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "58d76dceed1b",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-06T17:11:19Z",
-      "title_en": "Graphify-Labs/graphify (143695 Stars, Python)",
-      "title_zh": "Graphify-Labs/graphify：基于本地 AST 解析的无向量库代码知识图谱生成器",
-      "tldr": [
-        "可将任意代码库、文档、SQL 架构、配置文件及 PDF 转换为可查询的知识图谱",
-        "采用本地确定性 AST 解析，无需依赖向量数据库，所有图边均可解释说明",
-        "完美适配 Claude Code、Cursor、Codex 及 Gemini CLI 等主流 AI 开发工具链"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "aa7f6b560108",
-      "source_id": "hf_blog",
-      "source_name": "Hugging Face Blog",
-      "source_badge": "开源生态",
-      "source_icon": "huggingface",
-      "source_color": "#ff9d00",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "published_at": "2026-11-06T14:00:48+00:00",
-      "title_en": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "title_zh": "ToyBlocks：用于机器人学习与评估的受控世界",
-      "tldr": [
-        "构建了一个专为机器人学习与算法评估设计的可控模拟世界环境",
-        "提供标准化的测试基准，用于验证机器人在复杂交互任务中的泛化能力",
-        "专注于底层控制策略的精度调优，加速具身智能算法从仿真到现实的迁移"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "365a36d2a888",
-      "source_id": "openai",
-      "source_name": "OpenAI Official",
-      "source_badge": "OpenAI 官方",
-      "source_icon": "openai",
-      "source_color": "#10a37f",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "published_at": "2026-11-06T08:00:00+00:00",
-      "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "title_zh": "OpenAI 携手 Hacktron 漏洞挖掘平台，全面加固前沿 AI 系统安全防御",
-      "tldr": [
-        "OpenAI 宣布与 Hacktron 达成合作，引入外部专业力量对核心系统进行漏洞挖掘测试。",
-        "重点评估并加固前沿 AI 模型与第三方服务连接的安全性，全面升级防御基线。"
-      ],
-      "tag": "#官方首发",
-      "importance": 3
-    },
-    {
-      "id": "4fcb8d2c277b",
-      "source_id": "openai",
-      "source_name": "OpenAI Official",
-      "source_badge": "OpenAI 官方",
-      "source_icon": "openai",
-      "source_color": "#10a37f",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "published_at": "2026-11-06T00:00:00+00:00",
-      "title_en": "Measuring how AI agents handle everyday wet-lab science",
-      "title_zh": "OpenAI 发布 BioBasicsBench 基准，测试 Agent 处理湿实验室科学任务能力",
-      "tldr": [
-        "推出包含 100 项任务的 BioBasicsBench 基准，专门用于评估 AI Agent 解释原始实验数据的能力。",
-        "重点考察 Agent 在日常湿实验室（wet-lab）科学研究中的实际操作与逻辑推理表现。"
-      ],
-      "tag": "#官方首发",
-      "importance": 3
-    },
-    {
-      "id": "4aa5906f65ab",
-      "source_id": "hf_blog",
-      "source_name": "Hugging Face Blog",
-      "source_badge": "开源生态",
-      "source_icon": "huggingface",
-      "source_color": "#ff9d00",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "published_at": "2026-11-06T00:00:00+00:00",
-      "title_en": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "title_zh": "埃及英语与尼日利亚英语正式加入 Open ASR 评测榜单",
-      "tldr": [
-        "Open ASR 语音识别开源排行榜新增埃及英语与尼日利亚英语数据集评估",
-        "显著提升多国口音与方言在语音转文本任务中的识别准确率与基准对齐",
-        "推动开源语音识别模型在非洲及中东地区的本地化应用与零样本泛化性能"
-      ],
-      "tag": "#官方首发",
-      "importance": 3
-    },
-    {
-      "id": "05293324ed17",
-      "source_id": "openai",
-      "source_name": "OpenAI Official",
-      "source_badge": "OpenAI 官方",
-      "source_icon": "openai",
-      "source_color": "#10a37f",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "published_at": "2026-11-05T20:00:00+00:00",
-      "title_en": "Cult.fit builds operational muscle with Codex",
-      "title_zh": "健康科技公司 Cult.fit 深度应用 Codex 编码工具加速业务运营",
-      "tldr": [
-        "Cult.fit 正在跨部门团队中全面部署 Codex，用于加速内部业务工具开发与交付。",
-        "通过代码生成技术有效缩短开发周期，从根本上改变传统团队的工作流程和执行效率。"
-      ],
-      "tag": "#社区热议",
-      "importance": 2
-    },
-    {
-      "id": "943de1e4b19c",
-      "source_id": "hf_blog",
-      "source_name": "Hugging Face Blog",
-      "source_badge": "开源生态",
-      "source_icon": "huggingface",
-      "source_color": "#ff9d00",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "published_at": "2026-11-05T19:35:16+00:00",
-      "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "title_zh": "英伟达发布用于交互式世界模拟的全新 Cosmos 3 开源模型",
-      "tldr": [
-        "推出面向交互式世界模拟的 Cosmos 3 系列新开源模型，赋能物理世界建模",
-        "支持高效的动态场景生成与高逼真度物理交互，显著降低视频生成延迟",
-        "延续英伟达开源路线，提供预训练权重以加速具身智能与自动驾驶仿真研发"
-      ],
-      "tag": "#开源神器",
-      "importance": 5
     }
   ]
 }
