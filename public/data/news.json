@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T03:29:26.682368+00:00",
+  "last_updated": "2026-11-11T13:04:54.932824+00:00",
   "total_count": 80,
   "items": [
     {
@@ -20,6 +20,96 @@
       ],
       "tag": "#官方首发",
       "importance": 1
+    },
+    {
+      "id": "25589d4b6231",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xted8w/ernie_55_flash_will_be_released_in_two_weeks/",
+      "published_at": "2026-11-11T10:26:23+00:00",
+      "title_en": "Ernie 5.5 Flash will be released in two weeks",
+      "title_zh": "百度文心大模型 Ernie 5.5 Flash 预计两周内发布",
+      "tldr": [
+        "百度官方透露文心大模型新版本 Ernie 5.5 Flash 将在两周内正式向市场推出。",
+        "预计将在推理速度、端侧响应延迟或轻量化部署成本方面带来显著的性能升级。"
+      ],
+      "tag": "#官方首发",
+      "importance": 4
+    },
+    {
+      "id": "5a2bfbb535ae",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb/",
+      "published_at": "2026-11-11T09:58:50+00:00",
+      "title_en": "NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs",
+      "title_zh": "传闻英伟达因 GDDR7 成本考量取消 RTX 5080 24GB 计划并保留 16GB 版本",
+      "tldr": [
+        "据报道，由于 GDDR7 显存的高昂成本，英伟达可能取消了原定的 GeForce RTX 5080 24GB 显卡发布计划。",
+        "转而重新评估并带回传统的 16GB 显存配置型号，以控制硬件制造成本和终端售价。"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "35a0b2bc602c",
+      "source_id": "google_ai",
+      "source_name": "Google AI & DeepMind",
+      "source_badge": "Google 官方",
+      "source_icon": "google",
+      "source_color": "#4285f4",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "published_at": "2026-11-11T09:00:00+00:00",
+      "title_en": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "title_zh": "体验 Esther Mahlangu 博士的艺术风格与文化遗产",
+      "tldr": [
+        "通过数字化手段展示了南非艺术大师 Esther Mahlangu 博士的经典艺术与设计遗产。",
+        "结合了文化策展与视觉文化研究，探讨当代技术与传统艺术形式的深度融合。"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "2f031b59ed1a",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "published_at": "2026-11-11T08:00:00+00:00",
+      "title_en": "ChatGPT Plus for veterans and servicemembers",
+      "title_zh": "面向退伍军人和现役军人的 ChatGPT Plus 免费福利计划",
+      "tldr": [
+        "超过2万名退伍军人和现役军人成功领取了为期一年的免费 ChatGPT Plus 订阅服务。",
+        "旨在帮助军人群体利用大模型工具提升效率，顺利完成向平民职业生涯的过渡转型。"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
+    },
+    {
+      "id": "0c6ff581e84e",
+      "source_id": "hf_blog",
+      "source_name": "Hugging Face Blog",
+      "source_badge": "开源生态",
+      "source_icon": "huggingface",
+      "source_color": "#ff9d00",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "published_at": "2026-11-11T05:01:16+00:00",
+      "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "title_zh": "BotPsy：基于十亿参数以下端侧智能体语言模型的个人助手",
+      "tldr": [
+        "探索在边缘端设备上部署参数规模在十亿以下的轻量化 Agent 语言模型，实现本地化个人助理功能。",
+        "专注于在极低硬件资源开销下提供高效的意图理解与任务执行能力。"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
     },
     {
       "id": "d8abf7ad0fe1",
@@ -58,6 +148,24 @@
       ],
       "tag": "#官方首发",
       "importance": 5
+    },
+    {
+      "id": "0c5a95fd5b80",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-10T21:53:12Z",
+      "title_en": "Graphify-Labs/graphify",
+      "title_zh": "Graphify 代码库转可查询知识图谱工具",
+      "tldr": [
+        "能够将任意代码库及其文档、SQL 架构、配置文件和 PDF 一键转化为可查询的知识图谱。",
+        "针对主流 AI 编程助手提供本地确定性 AST 解析，所有图边均可解释，且完全不依赖向量数据库。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "b1615420cc3b",
@@ -416,6 +524,24 @@
       "importance": 3
     },
     {
+      "id": "096dd206dab0",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.14516",
+      "published_at": "2026-11-09T19:00:00.000Z",
+      "title_en": "TorchCurves: Differentiable Parametric Curves",
+      "title_zh": "TorchCurves：可微分参数化曲线 PyTorch 库",
+      "tldr": [
+        "推出 TorchCurves 库，将向量值参数化曲线作为可学习图元引入 PyTorch 框架中。",
+        "支持 B 样条或勒让德多项式基底，实现输入与系数的双向可微，适用于连续特征嵌入等场景。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
+    {
       "id": "1575a94363a2",
       "source_id": "hf_papers",
       "source_name": "Hugging Face Daily Papers",
@@ -671,6 +797,24 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "b3cece892a11",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-09T04:56:24Z",
+      "title_en": "affaan-m/ECC",
+      "title_zh": "affaan-m/ECC 智能体效能优化系统",
+      "tldr": [
+        "一个专注于智能体（Agent） harness 性能优化的 JavaScript 开源系统项目。",
+        "为 Claude Code、Codex、Cursor 等主流 AI 编程工具提供技能、直觉、记忆、安全及研发优先的支持。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "c27b390c4c6e",
@@ -1338,155 +1482,6 @@
         "采用 JavaScript 开发并在 GitHub 开源，具体许可证类型与权重发布状态暂未明确说明。"
       ],
       "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "bc0e90d82b65",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/affaan-m/ECC",
-      "published_at": "2026-11-06T21:21:50Z",
-      "title_en": "affaan-m/ECC",
-      "title_zh": "affaan-m/ECC：面向多端 Agent 的性能优化与控制系统",
-      "tldr": [
-        "专为 Claude Code、Cursor 等主流 Agent 设计，系统性优化技能、本能、记忆及安全机制。",
-        "采用 JavaScript 开发，提供底层研发支撑以提升大模型 Agent 的运行效率与稳定性。",
-        "作为开源项目托管于 GitHub，具体开源协议及权重发布状态需参考代码库主页说明。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "efa2c3fa8dca",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/affaan-m/ECC",
-      "published_at": "2026-11-06T21:21:50Z",
-      "title_en": "affaan-m/ECC",
-      "title_zh": "ECC：Agent Harness 性能优化与安全控制系统",
-      "tldr": [
-        "专注于 Agent Harness 性能优化，集成技能、直觉、记忆、安全防护与研究优先开发机制。",
-        "全面适配 Claude Code、Codex、Opencode、Cursor 等主流 AI 编程环境及工具链。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "546edd7ac76a",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/affaan-m/ECC",
-      "published_at": "2026-11-06T21:21:50Z",
-      "title_en": "affaan-m/ECC (298771 Stars, JavaScript)",
-      "title_zh": "affaan-m/ECC：Agent  Harness 性能优化与安全控制系统",
-      "tldr": [
-        "专注于 Agent harness 性能优化，提供技能、本能、记忆、安全与研究驱动开发",
-        "全面深度适配 Claude Code、Codex、Opencode 以及 Cursor 等主流开发环境",
-        "采用 JavaScript 编写，开源且代码托管于 GitHub，赋能 AI 编程助手的架构增强"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "6abd112578f2",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/",
-      "published_at": "2026-11-06T20:12:07+00:00",
-      "title_en": "We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13.0 and Open Terminal 0.17.2)",
-      "title_zh": "QFN 3.8 NVFP4 模型结合最新 Open WebUI 实现虚拟机内鼠标自由绘图",
-      "tldr": [
-        "借助 Open WebUI 0.13.0 与 Open Terminal 0.17.2 的虚拟机桌面控制功能实现突破",
-        "模型无需生成 SVG 或编写 Python 脚本，直接通过控制鼠标坐标在 MS Paint 中手绘小狗",
-        "展示了多模态 Agent 在虚拟桌面环境中直接进行图形交互与精准控制的极高潜力"
-      ],
-      "tag": "#社区热议",
-      "importance": 4
-    },
-    {
-      "id": "438567d5501e",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.10592",
-      "published_at": "2026-11-06T19:00:00.000Z",
-      "title_en": "MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification",
-      "title_zh": "MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification",
-      "tldr": [
-        "一手首发源自 Hugging Face Daily Papers",
-        "HF Community Upvotes: 3. Summary: Large language models can generate motion grap...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "88d7827f2df3",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.10556",
-      "published_at": "2026-11-06T19:00:00.000Z",
-      "title_en": "onóna: Twin Embeddings with Tied Unembeddings",
-      "title_zh": "onóna: Twin Embeddings with Tied Unembeddings",
-      "tldr": [
-        "一手首发源自 Hugging Face Daily Papers",
-        "HF Community Upvotes: 2. Summary: Weight tying reduces the parameter cost of lan...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "79462b78e83e",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2512.23818",
-      "published_at": "2026-11-06T19:00:00.000Z",
-      "title_en": "Energy-Tweedie: Score meets Score, Energy meets Energy",
-      "title_zh": "Energy-Tweedie：将得分匹配与能量模型扩展至广义噪声分布",
-      "tldr": [
-        "论文将传统的 Tweedie 公式从高斯噪声推广至广泛的 Gibbs（基于能量的）噪声分布族。",
-        "推导出了 Energy-Tweedie 恒等式，通过核得分规则的路径导数在非高斯噪声下恢复 Stein 得分。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "a7f30bc71fae",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.10304",
-      "published_at": "2026-11-06T18:04:32.000Z",
-      "title_en": "Longtail-SWE: High-Quality SWE Tasks for Underrepresented Languages",
-      "title_zh": "Longtail-SWE：面向低资源编程语言的高质量代码库级基准测试",
-      "tldr": [
-        "推出了涵盖 Clojure、Elixir、Haskell、Kotlin 等 13 种低资源生态的 202 个代码修复任务基准测试。",
-        "采用求解器-评判者-修复者流水线自动构建高质量任务，解决了现有基准在小众语言覆盖不足的问题。"
-      ],
-      "tag": "#前沿论文",
       "importance": 4
     }
   ]
