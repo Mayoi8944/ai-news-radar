@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-11-12T14:07:45.579748+00:00",
+  "last_updated": "2026-11-12T21:38:08.683767+00:00",
   "total_count": 80,
   "items": [
+    {
+      "id": "8fb8b27422e3",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/amplitude",
+      "published_at": "2026-11-12T20:00:00+00:00",
+      "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "title_zh": "Amplitude 如何借助 OpenAI 模型实现 1 至 2 天内快速迭代产品",
+      "tldr": [
+        "Amplitude 构建了基于 OpenAI 模型的主动式产品 Agent（Wave），用于自动化识别需求、辅助团队进行代码编写并衡量业务影响。",
+        "该方案通过集成 coding agent 显著缩短了开发周期，将产品改进和功能上线的耗时压缩至 1 到 2 天内完成。"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
+    },
+    {
+      "id": "6899dfc55bad",
+      "source_id": "hf_blog",
+      "source_name": "Hugging Face Blog",
+      "source_badge": "开源生态",
+      "source_icon": "huggingface",
+      "source_color": "#ff9d00",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "published_at": "2026-11-12T19:07:35+00:00",
+      "title_en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "title_zh": "LLMON：原生于 LLM 的标记语言现已登陆 Granite 4.1 3B 与 8B 模型",
+      "tldr": [
+        "推出了专为大语言模型原生设计的标记语言 LLMON，旨在优化模型对结构化数据的理解与生成效率。",
+        "该特性现已集成并支持 Granite 4.1 系列的 3B 和 8B 两种规模的开源模型权重。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
+    {
+      "id": "33af89b6f7b6",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/",
+      "published_at": "2026-11-12T18:38:17+00:00",
+      "title_en": "So this will be true in couple of years?",
+      "title_zh": "社区讨论：AI 硬件计算中心在未来数年内是否会成为绝对重心",
+      "tldr": [
+        "Reddit 社区用户探讨了未来几年内算力基础设施的发展趋势，聚焦于数据中心对 AI 计算资源的极高需求。",
+        "引发了开发者和硬件爱好者对于半导体产能分配以及下一代 AI 算力架构演进方向的热烈讨论。"
+      ],
+      "tag": "#社区热议",
+      "importance": 2
+    },
+    {
+      "id": "ada2db53bdf5",
+      "source_id": "google_ai",
+      "source_name": "Google AI & DeepMind",
+      "source_badge": "Google 官方",
+      "source_icon": "google",
+      "source_color": "#4285f4",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "published_at": "2026-11-12T18:00:00+00:00",
+      "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "title_zh": "谷歌搜索迎来重大升级：正式集成 Gemini 4 Hydrogen 模型",
+      "tldr": [
+        "谷歌搜索界面引入全新 Gemini 4 Hydrogen 模型，通过卡片式轮播交互提供更强大的生成式搜索与推理能力。",
+        "该功能已正式上线 Google Search，显著提升了复杂信息检索的智能化水平与用户端交互体验。"
+      ],
+      "tag": "#官方首发",
+      "importance": 4
+    },
+    {
+      "id": "df3649c3e84b",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/",
+      "published_at": "2026-11-12T13:56:51+00:00",
+      "title_en": "Nvidia's Jensen Huang Resigns as CEO, Colette Kress Named Interim",
+      "title_zh": "网传英伟达 CEO 黄仁勋卸任，CFO Colette Kress 被任命为临时 CEO",
+      "tldr": [
+        "Reddit 社区流传关于英伟达高层变动的不实或玩笑传闻，称黄仁勋辞去 CEO 职务并由财务长临时接任。",
+        "该内容属于社区非严肃讨论或恶搞贴，缺乏主流官方信源证实，不作为真实人事变动处理。"
+      ],
+      "tag": "#社区热议",
+      "importance": 1
+    },
     {
       "id": "e7f9e5a09d2f",
       "source_id": "localllama",
@@ -55,6 +145,24 @@
       ],
       "tag": "#官方首发",
       "importance": 2
+    },
+    {
+      "id": "d0deb3988181",
+      "source_id": "hf_blog",
+      "source_name": "Hugging Face Blog",
+      "source_badge": "开源生态",
+      "source_icon": "huggingface",
+      "source_color": "#ff9d00",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "title_en": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "title_zh": "3D 生成模型微调终极指南",
+      "tldr": [
+        "系统梳理并总结了当前主流 3D 生成模型的微调方法、超参数配置策略以及常见陷阱规避方案。",
+        "为开发者在三维资产重建、NeRF 以及 3D Gaussian Splatting 领域的模型定制提供全流程实战参考。"
+      ],
+      "tag": "#开发生态",
+      "importance": 3
     },
     {
       "id": "10e98016d2e7",
@@ -778,6 +886,24 @@
       "importance": 3
     },
     {
+      "id": "1f1ffe885f22",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.11306",
+      "published_at": "2026-11-09T19:00:00.000Z",
+      "title_en": "ScrapeBench: Evaluating Legal Compliance of AI Agents in Website Scraping",
+      "title_zh": "ScrapeBench：评估 AI Agent 在网页抓取中法律合规性的基准测试",
+      "tldr": [
+        "推出了首个针对网站抓取法律合规性的 agentic benchmark，用于实证评估 AI Agent 遵守 ToS 及 robots.txt 的能力。",
+        "在包含 1626 个热门网站的样本测试中发现，无论是闭源还是开源 AI Agent，其合规率普遍低于 5%。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
       "id": "febef303974a",
       "source_id": "hf_papers",
       "source_name": "Hugging Face Daily Papers",
@@ -1343,136 +1469,6 @@
         "通过单流公式设计，有效提升了自动驾驶感知系统对精细几何与密集体积语义的联合建模能力。"
       ],
       "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "fc841b13e4a1",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.12177",
-      "published_at": "2026-11-08T19:00:00.000Z",
-      "title_en": "Embodied First Exam",
-      "title_zh": "具身第一考：评估代码智能体在物理世界物理约束下控制机器人的泛化能力",
-      "tldr": [
-        "引入了一个统一且面向 Agent 的全新评测框架，旨在突破传统机器人基准仅限于视觉运动策略学习的局限性。",
-        "允许代码智能体自主选择直接控制、代码控制或训练策略等多种方式，全面检验其在物理世界严苛约束下的控制性能。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 4
-    },
-    {
-      "id": "2f59209dfa25",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.12426",
-      "published_at": "2026-11-08T19:00:00.000Z",
-      "title_en": "dNaViT: Discrete Codes are General-Purpose Visual Representations",
-      "title_zh": "dNaViT：原生分辨率离散自回归视觉 Transformer 架构",
-      "tldr": [
-        "提出离散原生分辨率视觉 Transformer，验证有限离散词表在通用视觉表征中的强大表达能力",
-        "打通自回归语言模型与视觉底座的对齐屏障，实现完全统一的 Next-token 预测训练框架",
-        "论文已上线 Hugging Face Daily Papers，代码与预训练权重将按开源社区规范发布"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "56ee09a7b2c6",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.12411",
-      "published_at": "2026-11-08T19:00:00.000Z",
-      "title_en": "PhysOPSD: Code as Privilege for Physically Plausible Video Generation",
-      "title_zh": "PhysOPSD：引入代码特权上下文的物理真实感视频生成蒸馏框架",
-      "tldr": [
-        "提出在线策略自蒸馏（OPSD）新机制，以代码形式引入特权上下文监督物理动力学演化",
-        "克服了 SFT 离线状态失配与强化学习中物理奖赏函数稀疏模糊的两大核心痛点",
-        "在复杂物体交互与物理运动场景中显著减少幻觉崩塌，大幅提升动力学合理性"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "a3d8f239f5d6",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.12885",
-      "published_at": "2026-11-08T19:00:00.000Z",
-      "title_en": "World In-Context Learning for Agentic Robot Manipulation",
-      "title_zh": "World In-Context Learning：具身智能体的跨场景上下文强化学习",
-      "tldr": [
-        "提出具身智能体 World ICL 范式，通过解耦环境外观与任务语义跨越泛化鸿沟",
-        "仅凭上下文演示即可实现新场景无参数更新 Zero-shot 机械臂操作策略迁移",
-        "打破传统模型策略与特定训练数据分布的强绑定，大幅提高小样本交互泛化表现"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "7cf356e3b1c5",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.12167",
-      "published_at": "2026-11-08T19:00:00.000Z",
-      "title_en": "FraudBench: A Legal Evaluation of AI Deception",
-      "title_zh": "FraudBench: A Legal Evaluation of AI Deception",
-      "tldr": [
-        "一手首发源自 Hugging Face Daily Papers",
-        "HF Community Upvotes: 1. Summary: We introduce FraudBench, an evaluation of larg...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "c5cdecd700bd",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.11890",
-      "published_at": "2026-11-08T19:00:00.000Z",
-      "title_en": "Training Vision Transformers to Focus: Emergence of Spatial Attention Head Specialization",
-      "title_zh": "训练聚焦的视觉 Transformer：空间注意力头特异化的涌现机制",
-      "tldr": [
-        "针对自监督 ViT 模型在无标签训练中缺乏聚焦机制、感知表示易模糊的问题，引入两项全新的视觉聚焦损失函数。",
-        "利用多头注意力机制建立模型注意力与图像特定区域的精准对应，促使空间注意力头产生特异化涌现。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "1763fbcc8406",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens/",
-      "published_at": "2026-11-08T17:32:48+00:00",
-      "title_en": "GPT-5.5 dataset across my used 25 billion tokens!",
-      "title_zh": "社区分享：基于 250 亿 Token 清洗的 GPT-5.5 数据集与万次工具调用",
-      "tldr": [
-        "Reddit 社区用户分享了横跨 250 亿 Token 的 GPT-5.5 训练/微调数据集清洗成果。",
-        "包含高达 12,121 次实际工具调用（Tool Calls）记录，为复杂 Agent 的数据清洗提供高质量参考。"
-      ],
-      "tag": "#社区热议",
       "importance": 3
     }
   ]
