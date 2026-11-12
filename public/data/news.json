@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-11-12T04:38:51.965496+00:00",
+  "last_updated": "2026-11-12T14:07:45.579748+00:00",
   "total_count": 80,
   "items": [
+    {
+      "id": "e7f9e5a09d2f",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuad5c/meet_the_people_behind_mossimage_plus_a_few/",
+      "published_at": "2026-11-12T11:27:07+00:00",
+      "title_en": "Meet the people behind MOSS-Image, plus a few answers from their AMA here",
+      "title_zh": "MOSS-Image 团队透露动漫模型及开源许可证等最新开发规划",
+      "tldr": [
+        "MOSS-Image 团队透露正在开发支持 Alpha 通道与多角色参考的动漫生成模型及图像编辑模型。",
+        "开发团队计划在后续模型发布中继续采用 Apache 2.0 开源许可证，保持技术的开放共享。"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "0be27e2a660b",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu9onk/kquant_new_quantization_technique_37_better/",
+      "published_at": "2026-11-12T10:47:24+00:00",
+      "title_en": "KQuant - new quantization technique, 3.7× better quants for Qwen Flash Next 180B, Qwen 27B, 35B, 9B (measured in KL-divergence reduction) (MLX)",
+      "title_zh": "KQuant：全新模型量化技术，实现 Qwen 系列模型 3.7 倍 KL 散度降低",
+      "tldr": [
+        "推出全新量化技术 KQuant，以 KL 散度减小衡量，在 Qwen 系列大模型上实现 3.7 倍的量化效果提升。",
+        "已率先开源 MLX 格式的优化版本（GGUF 格式次日推出），提供在 Mac 设备上运行大模型的高效推理方案。"
+      ],
+      "tag": "#社区热议",
+      "importance": 4
+    },
+    {
+      "id": "cb2cf69f50c0",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "published_at": "2026-11-12T09:30:00+00:00",
+      "title_en": "Holiday Extras is rethinking what it can build with Codex",
+      "title_zh": "Holiday Extras 探讨利用 Codex 重塑应用开发与提升预定转化率",
+      "tldr": [
+        "Holiday Extras 深度集成 Codex，将客户业务经验转化为更高效的应用程序开发能力。",
+        "通过 Codex 辅助开发实现更高的业务预定转化率，并为平台创造全新的规模化增长空间。"
+      ],
+      "tag": "#官方首发",
+      "importance": 2
+    },
+    {
+      "id": "10e98016d2e7",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/children-first-declaration",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "title_en": "Supporting research on AI and children’s safety",
+      "title_zh": "OpenAI 投入 200 万美元资助儿童人工智能安全性研究",
+      "tldr": [
+        "OpenAI 官方宣布投入 200 万美元专项资金，用于支持人工智能与儿童安全相关的学术研究。",
+        "研究重点是构建共享评估工具，用以准确衡量年轻群体在使用 AI 时的潜在风险与机遇。"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
+    },
     {
       "id": "20665e6478e1",
       "source_id": "openai",
@@ -20,6 +92,24 @@
       ],
       "tag": "#官方首发",
       "importance": 1
+    },
+    {
+      "id": "fb86e55ebeac",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-11T23:25:36Z",
+      "title_en": "Graphify-Labs/graphify (146513 Stars, Python)",
+      "title_zh": "Graphify：支持多格式源码及文档的本地化知识图谱构建工具",
+      "tldr": [
+        "开源代码库转知识图谱工具，支持将代码、文档、SQL 架构和 PDF 转换为可查询的知识图谱。",
+        "基于本地确定性 AST 解析，对每条关联边进行精准解析，运行过程无需依赖外部向量数据库。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "847906ff98aa",
@@ -688,6 +778,24 @@
       "importance": 3
     },
     {
+      "id": "febef303974a",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.13766",
+      "published_at": "2026-11-09T19:00:00.000Z",
+      "title_en": "FAME-QP: A GPU-Accelerated Quadratic-Programming Solver for Real-Time Model Predictive Control",
+      "title_zh": "FAME-QP：用于实时模型预测控制的 GPU 加速二次规划求解器",
+      "tldr": [
+        "提出 FAME-QP 求解器，结合约束相关算子表示与融合 CUDA 图迭代，实现 GPU 加速的密集二次规划求解。",
+        "通过设备校准与问题特定计时自动选择执行配置，支持惰性算子更新以适配问题矩阵变化。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
       "id": "f31f3b993d9c",
       "source_id": "hf_papers",
       "source_name": "Hugging Face Daily Papers",
@@ -889,6 +997,24 @@
       "importance": 4
     },
     {
+      "id": "e207d50fb859",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.12869",
+      "published_at": "2026-11-09T13:53:57.000Z",
+      "title_en": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
+      "title_zh": "探讨表征对齐的涌现机制：柏拉图式表征假说的深度解析",
+      "tldr": [
+        "研究神经网络表征空间的收敛趋势，评估大语言模型与视觉模型表征之间的对齐特征及其涌现规律。",
+        "指出模型深度与宽度会混淆表征相似度指标，强调在分析对齐效应时需要采用适当的基准进行解释。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
       "id": "1955be590774",
       "source_id": "openai",
       "source_name": "OpenAI Official",
@@ -997,6 +1123,24 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "3e18fce668a8",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-09T04:56:24Z",
+      "title_en": "affaan-m/ECC (301735 Stars, JavaScript)",
+      "title_zh": "ECC：专为主流编程助手打造的 Agent 性能优化与安全控制系统",
+      "tldr": [
+        "开源面向 Claude Code、Codex、Cursor 等工具的 Agent 性能优化系统，涵盖技能、直觉与记忆管理。",
+        "引入研究优先的开发模式，全面提升 AI 编码助手的安全性、上下文效能与复杂任务执行表现。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "93c7f50c6f4c",
@@ -1143,6 +1287,24 @@
         "采用 JavaScript 开发，在 GitHub 社区获得极高热度，作为开源开发生态工具显著提升智能体工作流效率。"
       ],
       "tag": "#开源神器",
+      "importance": 4
+    },
+    {
+      "id": "50cc09746264",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.12304",
+      "published_at": "2026-11-08T19:00:00.000Z",
+      "title_en": "Evolving Infra: Agent-Adaptive LLM Serving at Scale",
+      "title_zh": "Evolving Infra：面向大规模 Agent 的自适应 LLM 推理服务架构",
+      "tldr": [
+        "针对 Agentic 工作负载设计了 Evolving Infra 推理框架，解决传统 Prefill-Decode 解耦架构的负载不均衡问题。",
+        "实现动态计算分配与 KV Cache 管理，有效避免频繁驱逐 Agent 需要重复使用的 KV Cache 缓存。"
+      ],
+      "tag": "#前沿论文",
       "importance": 4
     },
     {
@@ -1312,171 +1474,6 @@
       ],
       "tag": "#社区热议",
       "importance": 3
-    },
-    {
-      "id": "113cab004a08",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2aaa/tencentqwen3827bdspineb16_hugging_face/",
-      "published_at": "2026-11-08T16:23:48+00:00",
-      "title_en": "tencent/Qwen3.8-27B-DSpine-b16 · Hugging Face",
-      "title_zh": "腾讯推出全新投机解码方法：Qwen3.8-27B-DSpine-b16 开源发布",
-      "tldr": [
-        "腾讯研发了创新的 Speculative Decoding 投机解码方法，针对 27B 参数量模型实现显著加速。",
-        "实测推理解码速度提升达 3 倍，大幅降低大模型在本地部署时的首字延迟与显存吞吐开销。"
-      ],
-      "tag": "#官方首发",
-      "importance": 5
-    },
-    {
-      "id": "cb2adba2fccf",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/",
-      "published_at": "2026-11-08T14:56:07+00:00",
-      "title_en": "\"Does censorship exist in [country]?\", according to various LLMs",
-      "title_zh": "基于 LLM 输出结果自动生成全球审查倾向 SVG 地图的开源项目",
-      "tldr": [
-        "通过批量向大语言模型询问各国的“是/否”审查问题，自动化生成可视化世界地图。",
-        "开源项目名为 llm-beliefs，直观展示了不同基座模型在敏感地缘政治问题上的输出偏见。"
-      ],
-      "tag": "#社区热议",
-      "importance": 3
-    },
-    {
-      "id": "d16de762d6bf",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
-      "published_at": "2026-11-08T14:45:22+00:00",
-      "title_en": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI",
-      "title_zh": "消费级 AI 硬件热潮：RTX 5060 Ti 16GB 显卡遭本地大模型用户抢购",
-      "tldr": [
-        "大量本地 AI 开发者与用户开始大规模抢购具备 16GB 显存的 RTX 5060 Ti 显卡。",
-        "得益于 16GB 大显存对中小型开源模型（如 7B/14B）本地推理的极高性价比支持。"
-      ],
-      "tag": "#社区热议",
-      "importance": 3
-    },
-    {
-      "id": "d93d5d14e5c7",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-08T00:52:14Z",
-      "title_en": "Graphify-Labs/graphify",
-      "title_zh": "Graphify：基于本地确定性 AST 解析的代码库知识图谱构建工具",
-      "tldr": [
-        "可将任意代码库及其文档、SQL 架构、配置文件和 PDF 转换为可查询的知识图谱，完全不依赖向量数据库。",
-        "提供专门的 /graphify 技能插件，深度集成至 Claude Code、Cursor、Codex 及 Gemini CLI 等开发环境。",
-        "采用 Python 编写，实现本地确定性抽象语法树（AST）解析并清晰解释每条边关系，属于高性能开源开发生态工具。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "f05a3f6db191",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-08T00:52:14Z",
-      "title_en": "Graphify-Labs/graphify",
-      "title_zh": "Graphify-Labs/graphify：将任意代码库转化为可查询知识图谱的工具",
-      "tldr": [
-        "能够将包含文档、SQL模式、配置文件和PDF在内的任意代码库一键转化为可进行结构化查询的知识图谱。",
-        "原生集成Claude Code、Cursor、Codex及Gemini CLI技能，采用本地确定性AST解析，每条边均可解释且无需向量数据库。",
-        "开源Python项目，在GitHub上获得超过144,500枚Star，极大地优化了大型代码库的上下文检索与理解体验。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "e64f899f9fca",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-08T00:52:14Z",
-      "title_en": "Graphify-Labs/graphify",
-      "title_zh": "Graphify：基于确定性 AST 解析的免向量库代码知识图谱工具",
-      "tldr": [
-        "支持将任意代码库、文档、SQL 架构、配置和 PDF 转换为可查询的高精度知识图谱。",
-        "提供针对 Claude Code、Cursor、Codex 和 Gemini CLI 的 /graphify 技能，采用本地确定性 AST 解析且无需向量数据库。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "44fd796778bb",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-08T00:52:14Z",
-      "title_en": "Graphify-Labs/graphify",
-      "title_zh": "Graphify：基于本地 AST 解析的代码知识图谱生成工具",
-      "tldr": [
-        "支持将任意代码库、文档、SQL Schema、配置文件及 PDF 转化为可查询的知识图谱。",
-        "采用本地确定性 AST 解析架构，实现全路径图谱解释，且完全不依赖向量数据库。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "b4812b47f235",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-08T00:52:14Z",
-      "title_en": "Graphify-Labs/graphify (144162 Stars, Python)",
-      "title_zh": "Graphify-Labs/graphify (144162 Stars, Python)",
-      "tldr": [
-        "一手首发源自 GitHub Trending AI",
-        "GitHub AI Repository. Stars: 144162. Language: Python. Description: Turn any cod...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "154bce67aba8",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-08T00:52:14Z",
-      "title_en": "Graphify-Labs/graphify",
-      "title_zh": "Graphify：基于本地 AST 解析的零向量库知识图谱构建工具",
-      "tldr": [
-        "支持将任意代码库、文档、SQL Schema、配置文件及 PDF 直接转化为可查询的高精度知识图谱。",
-        "采用本地确定性 AST 解析架构，实现全图谱边关系精确解释，彻底摆脱对外部向量数据库的依赖。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
     }
   ]
 }
