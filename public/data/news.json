@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-13T03:52:06.890532+00:00",
+  "last_updated": "2026-11-13T13:32:24.986412+00:00",
   "total_count": 80,
   "items": [
+    {
+      "id": "17b5d8a4bf3d",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for/",
+      "published_at": "2026-11-13T04:03:28+00:00",
+      "title_en": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
+      "title_zh": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
+      "tldr": [
+        "一手首发源自 Reddit r/LocalLLaMA",
+        "A second Sam Altman moment? &#32; submitted by &#32; /u/f1yingbanana [link] &#32...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
     {
       "id": "8fbc4315516c",
       "source_id": "localllama",
@@ -37,6 +56,25 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "60bac84bd44d",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-12T21:47:45Z",
+      "title_en": "Graphify-Labs/graphify (147039 Stars, Python)",
+      "title_zh": "Graphify-Labs/graphify (147039 Stars, Python)",
+      "tldr": [
+        "一手首发源自 GitHub Trending AI",
+        "GitHub AI Repository. Stars: 147039. Language: Python. Description: Turn any cod...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "f9be8c5d3f6a",
@@ -677,6 +715,44 @@
       "importance": 3
     },
     {
+      "id": "e49cfeef0029",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.16009",
+      "published_at": "2026-11-10T19:00:00.000Z",
+      "title_en": "JustRUA: A Controlled Study of GPT-6 Robot-Use Agents",
+      "title_zh": "JustRUA: A Controlled Study of GPT-6 Robot-Use Agents",
+      "tldr": [
+        "一手首发源自 Hugging Face Daily Papers",
+        "HF Community Upvotes: 1. Summary: GPT-6 Astra can drive a robot arm directly thr...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "957ac931fca0",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.15844",
+      "published_at": "2026-11-10T19:00:00.000Z",
+      "title_en": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
+      "title_zh": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
+      "tldr": [
+        "一手首发源自 Hugging Face Daily Papers",
+        "HF Community Upvotes: 17. Summary: Recent work suggests that pretrained image ge...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
       "id": "fd4db6f4f49f",
       "source_id": "hf_papers",
       "source_name": "Hugging Face Daily Papers",
@@ -991,6 +1067,25 @@
         "点击可直接跳转源地址查看完整发布"
       ],
       "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "3d5b85adc3be",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.14256",
+      "published_at": "2026-11-09T19:00:00.000Z",
+      "title_en": "A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents",
+      "title_zh": "A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents",
+      "tldr": [
+        "一手首发源自 Hugging Face Daily Papers",
+        "HF Community Upvotes: 1. Summary: Recent work shows that multimodal agents incre...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#前沿论文",
       "importance": 3
     },
     {
@@ -1375,97 +1470,6 @@
       ],
       "tag": "#社区热议",
       "importance": 3
-    },
-    {
-      "id": "3021b082f8e5",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/affaan-m/ECC",
-      "published_at": "2026-11-09T04:56:24Z",
-      "title_en": "affaan-m/ECC (302077 Stars, JavaScript)",
-      "title_zh": "affaan-m/ECC：面向主流编码 Agent 的性能优化与记忆管理系统",
-      "tldr": [
-        "这是一个专为 Claude Code、Codex、Opencode 和 Cursor 等主流 AI 编码工具设计的 Agent 性能优化系统。",
-        "集成专业技能、直觉记忆、安全控制及研究优先开发机制，全方位提升大模型编程助手的工作流表现。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "3e18fce668a8",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/affaan-m/ECC",
-      "published_at": "2026-11-09T04:56:24Z",
-      "title_en": "affaan-m/ECC (301735 Stars, JavaScript)",
-      "title_zh": "ECC：专为主流编程助手打造的 Agent 性能优化与安全控制系统",
-      "tldr": [
-        "开源面向 Claude Code、Codex、Cursor 等工具的 Agent 性能优化系统，涵盖技能、直觉与记忆管理。",
-        "引入研究优先的开发模式，全面提升 AI 编码助手的安全性、上下文效能与复杂任务执行表现。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "93c7f50c6f4c",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/affaan-m/ECC",
-      "published_at": "2026-11-09T04:56:24Z",
-      "title_en": "affaan-m/ECC (301312 Stars, JavaScript)",
-      "title_zh": "affaan-m/ECC：专为 Claude Code、Cursor 等打造的 Agent 性能优化与 Harness 系统",
-      "tldr": [
-        "这是一个面向前沿 AI 编码工具链的 Agent 性能优化系统，集成了技能、直觉、记忆、安全机制及研究优先开发模块。",
-        "全面适配 Claude Code、Codex、Cursor 等主流 AI 开发环境，用 JavaScript 实现，极大地增强了复杂开发任务下的智能体表现。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "b3cece892a11",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/affaan-m/ECC",
-      "published_at": "2026-11-09T04:56:24Z",
-      "title_en": "affaan-m/ECC",
-      "title_zh": "affaan-m/ECC 智能体效能优化系统",
-      "tldr": [
-        "一个专注于智能体（Agent） harness 性能优化的 JavaScript 开源系统项目。",
-        "为 Claude Code、Codex、Cursor 等主流 AI 编程工具提供技能、直觉、记忆、安全及研发优先的支持。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "c27b390c4c6e",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/affaan-m/ECC",
-      "published_at": "2026-11-09T04:56:24Z",
-      "title_en": "ECC: The Agent Harness Performance Optimization System",
-      "title_zh": "ECC：专为 Claude Code 与 Cursor 打造的 Agent 性能优化底座",
-      "tldr": [
-        "为 Claude Code、Codex 及 Cursor 等编程 Agent 提供系统级技能编排、记忆池与安全防护",
-        "采用模块化 Agent Harness 架构，大幅降低多轮上下文冗余与长任务工具调用失败率",
-        "在 GitHub 获得超高星标关注，开源 JavaScript 实现，面向开发者完全免费开放"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
     }
   ]
 }
