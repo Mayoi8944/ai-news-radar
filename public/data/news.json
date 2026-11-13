@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-11-12T21:38:08.683767+00:00",
+  "last_updated": "2026-11-13T03:52:06.890532+00:00",
   "total_count": 80,
   "items": [
+    {
+      "id": "8fbc4315516c",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/",
+      "published_at": "2026-11-13T01:58:53+00:00",
+      "title_en": "Stories coming out about Jensen",
+      "title_zh": "关于黄仁勋的相关行业动态与传闻引发社区热议",
+      "tldr": [
+        "Reddit 本地大模型社区开始流传并讨论关于黄仁勋及相关科技巨头战略动向的最新行业内幕故事。",
+        "反映了开发者群体对当前算力巨头、开源生态格局演变以及顶级高管动态的高度敏感与密切关注。"
+      ],
+      "tag": "#社区热议",
+      "importance": 2
+    },
+    {
+      "id": "dfe971fd6ed3",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open/",
+      "published_at": "2026-11-13T00:11:18+00:00",
+      "title_en": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
+      "title_zh": "Hugging Face CEO 在黄仁勋卸任后发声誓将继续捍卫开源 AI",
+      "tldr": [
+        "围绕 NVIDIA 收购传闻及 Hugging Face 在新领导层下的未来不确定性，社区引发对开源生态走向的担忧与讨论。",
+        "社区呼吁开发者对喜爱的开源数据集与模型进行本地备份，以防未来开源权限及许可政策发生潜在变动。"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "f9be8c5d3f6a",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-12T21:47:45Z",
+      "title_en": "Graphify-Labs/graphify (146825 Stars, Python)",
+      "title_zh": "Graphify：将任意代码库零向量数据库转换为可查询知识图谱的开源工具",
+      "tldr": [
+        "支持将代码库、文档、SQL Schema、配置及 PDF 一键转换为可查询知识图谱，完全采用本地确定性 AST 解析。",
+        "完美适配 Claude Code、Cursor、Codex 及 Gemini CLI 等主流 Agent 界面，实现每条边均可解释且无需依赖向量数据库。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
+    {
+      "id": "f8c0c0d3aa2f",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "published_at": "2026-11-12T20:00:00+00:00",
+      "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "title_zh": "Amplitude 如何借助 OpenAI 在 1-2 天内实现产品功能迭代",
+      "tldr": [
+        "Amplitude 构建了名为 Wave 的主动式产品 Agent，能够自主识别需求并辅助团队在 1-2 天内完成代码交付与影响评估。",
+        "底层全面基于 OpenAI 模型驱动，通过集成编码 Agent 显著缩短了从需求发现到落地交付的研发周期。"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
+    },
     {
       "id": "8fb8b27422e3",
       "source_id": "openai",
@@ -91,6 +163,24 @@
       ],
       "tag": "#社区热议",
       "importance": 1
+    },
+    {
+      "id": "f663f7501fea",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "published_at": "2026-11-12T12:00:00+00:00",
+      "title_en": "Gondola doubles revenue as its team builds more with Codex",
+      "title_zh": "Gondola 借助 Codex 提升研发效能并实现营收翻倍",
+      "tldr": [
+        "创意服务平台 Gondola 通过引入 Codex，使其首席工程师的代码产出效率大幅提升了 50%。",
+        "团队结合 Codex 与 ChatGPT 简化日常开发流，有效加速了产品迭代并最终推动业务营收实现翻倍增长。"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
     },
     {
       "id": "e7f9e5a09d2f",
@@ -587,6 +677,24 @@
       "importance": 3
     },
     {
+      "id": "fd4db6f4f49f",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.15131",
+      "published_at": "2026-11-10T19:00:00.000Z",
+      "title_en": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+      "title_zh": "Duo：面向全双工交互的互惠世界模型",
+      "tldr": [
+        "提出互惠世界模型（RWM）并推出 Duo v1，支持持续感知多模态视听输入并与用户进行实时全双工交互。",
+        "将意图认知与物理现实作为世界的同等基础，把推理和决策内化为世界模型本身，而非作为外部控制手段。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 4
+    },
+    {
       "id": "27ebe62df149",
       "source_id": "google_ai",
       "source_name": "Google AI & DeepMind",
@@ -884,6 +992,24 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "3c39960c7285",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.14815",
+      "published_at": "2026-11-09T19:00:00.000Z",
+      "title_en": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+      "title_zh": "BirdDreams：联合透视与 BEV 视频生成的逼真响应式驾驶世界模型",
+      "tldr": [
+        "提出 BirdDreams 自回归驾驶世界模型，解决了传统透视视频中车辆运动与外观耦合以及遮挡导致的控制难题。",
+        "实现透视视角与鸟瞰视角（BEV）的联合视频生成，在无需显式未来轨迹输入的情况下提供精准的自车控制与反应能力。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 4
     },
     {
       "id": "1f1ffe885f22",
@@ -1251,6 +1377,24 @@
       "importance": 3
     },
     {
+      "id": "3021b082f8e5",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-09T04:56:24Z",
+      "title_en": "affaan-m/ECC (302077 Stars, JavaScript)",
+      "title_zh": "affaan-m/ECC：面向主流编码 Agent 的性能优化与记忆管理系统",
+      "tldr": [
+        "这是一个专为 Claude Code、Codex、Opencode 和 Cursor 等主流 AI 编码工具设计的 Agent 性能优化系统。",
+        "集成专业技能、直觉记忆、安全控制及研究优先开发机制，全方位提升大模型编程助手的工作流表现。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
+    {
       "id": "3e18fce668a8",
       "source_id": "github_ai",
       "source_name": "GitHub Trending AI",
@@ -1322,154 +1466,6 @@
       ],
       "tag": "#开源神器",
       "importance": 4
-    },
-    {
-      "id": "823225cad363",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/affaan-m/ECC",
-      "published_at": "2026-11-09T04:56:24Z",
-      "title_en": "affaan-m/ECC (300726 Stars, JavaScript)",
-      "title_zh": "affaan-m/ECC (300726 Stars, JavaScript)",
-      "tldr": [
-        "一手首发源自 GitHub Trending AI",
-        "GitHub AI Repository. Stars: 300726. Language: JavaScript. Description: The agen...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "08ed83acf7c6",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/affaan-m/ECC",
-      "published_at": "2026-11-09T04:56:24Z",
-      "title_en": "affaan-m/ECC",
-      "title_zh": "ECC：面向主流编码助手的 Agent 性能优化与运行时管理系统",
-      "tldr": [
-        "在 GitHub 获得超 30 万 Star 的 JavaScript 开源项目，专为 Claude Code、Cursor 等编程助手设计。",
-        "提供技能、直觉、记忆管理、安全性及研究优先开发等综合 Agent 效能优化与护航机制。"
-      ],
-      "tag": "#开源神器",
-      "importance": 5
-    },
-    {
-      "id": "2fc430fbd954",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/affaan-m/ECC",
-      "published_at": "2026-11-09T04:56:24Z",
-      "title_en": "affaan-m/ECC",
-      "title_zh": "affaan-m/ECC：Agent 性能优化与运行时增强系统",
-      "tldr": [
-        "专为 Claude Code、Cursor 等主流 AI 编码工具打造的 Agent 性能优化与技能扩展系统。",
-        "集成专门的 instincts、memory、安全性控制及研发优先机制，全面提升开发类 Agent 执行效率。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "36522c38cf3a",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/affaan-m/ECC",
-      "published_at": "2026-11-09T04:56:24Z",
-      "title_en": "affaan-m/ECC (300216 Stars, JavaScript)",
-      "title_zh": "affaan-m/ECC：面向主流编码助手的 Agent 性能优化与运行时系统",
-      "tldr": [
-        "GitHub 热门开源项目，为 Claude Code、Codex、Cursor 等提供技能、直觉、内存和安全管理机制。",
-        "旨在打通多模态 AI 编程工具链的性能瓶颈，实现更具研究优先级的开发辅助工作流。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "4fc05fe2d274",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/affaan-m/ECC",
-      "published_at": "2026-11-09T04:56:24Z",
-      "title_en": "affaan-m/ECC",
-      "title_zh": "ECC：大模型智能体执行性能优化系统",
-      "tldr": [
-        "专注于 AI Agent 智能体 harness 性能优化，提供技能、直觉、记忆、安全机制及研究优先的开发框架支持。",
-        "深度适配 Claude Code、Codex、Opencode、Cursor 等主流 AI 编程助手及研发环境。",
-        "采用 JavaScript 开发，在 GitHub 社区获得极高热度，作为开源开发生态工具显著提升智能体工作流效率。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "50cc09746264",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.12304",
-      "published_at": "2026-11-08T19:00:00.000Z",
-      "title_en": "Evolving Infra: Agent-Adaptive LLM Serving at Scale",
-      "title_zh": "Evolving Infra：面向大规模 Agent 的自适应 LLM 推理服务架构",
-      "tldr": [
-        "针对 Agentic 工作负载设计了 Evolving Infra 推理框架，解决传统 Prefill-Decode 解耦架构的负载不均衡问题。",
-        "实现动态计算分配与 KV Cache 管理，有效避免频繁驱逐 Agent 需要重复使用的 KV Cache 缓存。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 4
-    },
-    {
-      "id": "8f13fa169643",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.13028",
-      "published_at": "2026-11-08T19:00:00.000Z",
-      "title_en": "GTAGym: Real AAA Game Tasks Environment for Evaluation and Reinforcement Learning",
-      "title_zh": "GTAGym：用于评估与强化学习的真实3A游戏任务环境",
-      "tldr": [
-        "推出面向GTA V的强化学习与智能体评估环境GTAGym，填补3A游戏复杂任务自动化验证的空白。",
-        "基准测试GTAVBench包含来自主线剧情的103个在线任务，涵盖9大任务族及47项图像指标。",
-        "为AI智能体在开放世界中的感知、推理与控制能力提供了一个高强度的通用测试平台。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "4414b1dd42ae",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.11912",
-      "published_at": "2026-11-08T19:00:00.000Z",
-      "title_en": "LO-World: Unified BEV Latent Modeling for Joint 4D Occupancy and LiDAR Forecasting",
-      "title_zh": "LO-World：用于联合4D占用与激光雷达预测的统一BEV潜在建模",
-      "tldr": [
-        "提出统一的4D世界模型LO-World，在共享的BEV潜在空间中联合预测激光雷达点云与3D语义占用。",
-        "克服了传统世界模型独立或级联处理模态的缺陷，实现了跨模态的互补正则化效果。",
-        "通过单流公式设计，有效提升了自动驾驶感知系统对精细几何与密集体积语义的联合建模能力。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
     }
   ]
 }
