@@ -1,7 +1,116 @@
 {
-  "last_updated": "2026-11-13T13:32:24.986412+00:00",
+  "last_updated": "2026-11-13T21:03:58.435120+00:00",
   "total_count": 80,
   "items": [
+    {
+      "id": "a5375b389dd5",
+      "source_id": "hf_blog",
+      "source_name": "Hugging Face Blog",
+      "source_badge": "开源生态",
+      "source_icon": "huggingface",
+      "source_color": "#ff9d00",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "published_at": "2026-11-13T18:00:39+00:00",
+      "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "title_zh": "利用 SimReady 资产构建机器人抓取与放置仿真",
+      "tldr": [
+        "介绍如何使用 SimReady 资产快速搭建机器人抓取与放置任务的物理仿真环境。",
+        "旨在降低具身智能与机械臂抓取算法在虚拟仿真中的数据准备与场景构建门槛。"
+      ],
+      "tag": "#开发生态",
+      "importance": 3
+    },
+    {
+      "id": "56a3fde373cf",
+      "source_id": "hf_blog",
+      "source_name": "Hugging Face Blog",
+      "source_badge": "开源生态",
+      "source_icon": "huggingface",
+      "source_color": "#ff9d00",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "published_at": "2026-11-13T17:02:35+00:00",
+      "title_en": "XYBench: Helping with the problem behind the question",
+      "title_zh": "XYBench：剖析问题背后的深层挑战",
+      "tldr": [
+        "推出 XYBench 基准测试，专注于解决大语言模型在理解和回答复杂问题时遭遇的潜在深层逻辑。",
+        "旨在通过更严苛的评测维度来诊断模型在真实应用场景中的问题拆解与推理漏洞。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "6cf1b8081bca",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me/",
+      "published_at": "2026-11-13T15:49:27+00:00",
+      "title_en": "Look what my son gave me!",
+      "title_zh": "本地AI硬件玩家意外获得多张闲置RTX 3090显卡组装升级",
+      "tldr": [
+        "用户通过其儿子此前用于以太坊挖矿的仓库，意外获得多张闲置的NVIDIA RTX 3090大显存显卡。",
+        "通过清理维护、加装风扇、转接线、升级电源与系统内存，成功组建用于本地AI推理的高算力平台。",
+        "该硬件配置可显著提升本地运行大语言模型时的并发处理能力与显存容量上限。"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "013c772246bc",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "published_at": "2026-11-13T15:00:00+00:00",
+      "title_en": "Introducing ChatGPT Wallet",
+      "title_zh": "OpenAI 推出 ChatGPT Wallet 支付功能",
+      "tldr": [
+        "支持 ChatGPT Work、Codex 和 dots 中的 Agent 在用户授权及现有信用卡保护下安全完成支付交易。",
+        "打通了 AI Agent 从信息处理到消费闭环的链路，强化了对话式商业的自动化支付落地能力。"
+      ],
+      "tag": "#官方首发",
+      "importance": 5
+    },
+    {
+      "id": "4d3fc8ce404a",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/",
+      "published_at": "2026-11-13T14:07:33+00:00",
+      "title_en": "llama.cpp v1.0 is here 🦙",
+      "title_zh": "llama.cpp v1.0 正式发布，加速本地 AI 桌面端落地",
+      "tldr": [
+        "Hugging Face 联合发布 llama.cpp v1.0，并推出基于其构建的 Llama 桌面应用程序，实现数击完成本地部署。",
+        "致力于持续覆盖全平台与主流模型架构，大幅降低普通用户在本地运行大模型的门槛。"
+      ],
+      "tag": "#社区热议",
+      "importance": 4
+    },
+    {
+      "id": "bd759cb3911c",
+      "source_id": "hf_blog",
+      "source_name": "Hugging Face Blog",
+      "source_badge": "开源生态",
+      "source_icon": "huggingface",
+      "source_color": "#ff9d00",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "published_at": "2026-11-13T14:05:22+00:00",
+      "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "title_zh": "llama.cpp v1.0.0 发布：为本地 AI 生态奠定更强基础",
+      "tldr": [
+        "llama.cpp 正式迈入 v1.0 时代，持续为全平台和各类模型提供轻量、健壮的推理基础。",
+        "开源项目许可证延续社区规范，大幅提升下游本地 AI 应用开发与桌面端部署的稳定性。"
+      ],
+      "tag": "#开源神器",
+      "importance": 5
+    },
     {
       "id": "17b5d8a4bf3d",
       "source_id": "localllama",
@@ -56,6 +165,24 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "4a72e662d4f0",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-12T21:47:45Z",
+      "title_en": "Graphify-Labs/graphify",
+      "title_zh": "Graphify-Labs/graphify：基于本地 AST 解析的代码知识图谱生成工具",
+      "tldr": [
+        "支持将任意代码库、文档、SQL Schema、配置及 PDF 转换为可查询知识图谱，无需向量数据库。",
+        "作为 Claude Code、Cursor 和 Gemini CLI 的 /graphify 技能插件，实现本地确定性 AST 解析。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "60bac84bd44d",
@@ -381,6 +508,42 @@
         "提供 /graphify 技能深度集成至 Claude Code、Cursor、Gemini CLI 等生态，实现全边长解释且完全不依赖向量数据库。"
       ],
       "tag": "#开源神器",
+      "importance": 4
+    },
+    {
+      "id": "4815716c1cae",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.17190",
+      "published_at": "2026-11-11T19:00:00.000Z",
+      "title_en": "Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes",
+      "title_zh": "基于参考帧的无人机视频稳像共识捕获：动态城市场景基准测试",
+      "tldr": [
+        "针对无人机悬停稳像中运动车辆导致的单应性估计偏移问题，提出了共识捕获现象及两部分测试基准。",
+        "引入了专门的对象掩码策略来防止动态城市场景中的特征匹配漂移，提升稳像算法鲁棒性。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "0f25cb7de253",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.16961",
+      "published_at": "2026-11-11T19:00:00.000Z",
+      "title_en": "The Value of Thinking: Learning When to Reason in Hybrid Decision Models",
+      "title_zh": "思考的价值：在混合决策模型中学习何时进行推理",
+      "tldr": [
+        "提出 zero-or-T 思维范式，使模型可在单次前向传递中隐式回答，或在必要时执行完整的自回归推理。",
+        "通过共享冻结骨干网的混合决策模型（HDM），兼顾了零显式 Token 开销与复杂长文本推理能力。"
+      ],
+      "tag": "#前沿论文",
       "importance": 4
     },
     {
@@ -1306,170 +1469,6 @@
       ],
       "tag": "#开源神器",
       "importance": 4
-    },
-    {
-      "id": "ead0be035a17",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-09T17:04:04Z",
-      "title_en": "Graphify-Labs/graphify (145017 Stars, Python)",
-      "title_zh": "Graphify-Labs/graphify：将任意代码库一键转为可查询知识图谱的开源工具",
-      "tldr": [
-        "GitHub 热门开源项目，支持将代码库、文档、SQL 架构及 PDF 转化为无向量数据库依赖的知识图谱。",
-        "提供针对 Claude Code、Cursor、Codex 等主流终端的 /graphify 技能，支持本地确定性 AST 解析。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "ac22af2aebee",
-      "source_id": "hf_blog",
-      "source_name": "Hugging Face Blog",
-      "source_badge": "开源生态",
-      "source_icon": "huggingface",
-      "source_color": "#ff9d00",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "published_at": "2026-11-09T15:05:57+00:00",
-      "title_en": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "title_zh": "Nemotron-Personas-Finance-Japan：捕获日本人口统计与金融上下文的合成数据集",
-      "tldr": [
-        "发布专为日本金融市场和宏观人口统计学特征定制的高质量合成数据集 Nemotron-Personas-Finance-Japan。",
-        "填补了特定区域金融场景下本地化、多角色合成训练数据的生态空白，加速垂直领域金融大模型训练。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "e207d50fb859",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.12869",
-      "published_at": "2026-11-09T13:53:57.000Z",
-      "title_en": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
-      "title_zh": "探讨表征对齐的涌现机制：柏拉图式表征假说的深度解析",
-      "tldr": [
-        "研究神经网络表征空间的收敛趋势，评估大语言模型与视觉模型表征之间的对齐特征及其涌现规律。",
-        "指出模型深度与宽度会混淆表征相似度指标，强调在分析对齐效应时需要采用适当的基准进行解释。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "1955be590774",
-      "source_id": "openai",
-      "source_name": "OpenAI Official",
-      "source_badge": "OpenAI 官方",
-      "source_icon": "openai",
-      "source_color": "#10a37f",
-      "url": "https://openai.com/index/control-room",
-      "published_at": "2026-11-09T13:00:00+00:00",
-      "title_en": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "title_zh": "Control Room：跨研究基础设施追踪与紧急叫停模型工作负载的中央系统",
-      "tldr": [
-        "OpenAI 推出 Control Room 系统，用于实时监控整个研究基础设施中的大模型训练与推理工作负载。",
-        "当触发安全或安全红线问题时，该系统能够以极低延迟迅速切断并中止相关模型的运行任务。"
-      ],
-      "tag": "#官方首发",
-      "importance": 4
-    },
-    {
-      "id": "d65df01de298",
-      "source_id": "hf_blog",
-      "source_name": "Hugging Face Blog",
-      "source_badge": "开源生态",
-      "source_icon": "huggingface",
-      "source_color": "#ff9d00",
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "published_at": "2026-11-09T12:34:29+00:00",
-      "title_en": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "title_zh": "你的专家拥有伙伴：用 HOPE 算法维持混合专家协同",
-      "tldr": [
-        "由于官方源内容缺失，本条目无法提取具体的架构细节、开源状态或跑分指标对比数据。",
-        "推测涉及混合专家模型（MoE）路由机制或多智能体协同方面的技术优化与探索。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "36e07c31e9c8",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrpcke/new_gemma_models/",
-      "published_at": "2026-11-09T11:32:08+00:00",
-      "title_en": "New Gemma Models",
-      "title_zh": "Gemma 系列新模型动态与多语言推理性能讨论",
-      "tldr": [
-        "社区用户围绕 Gemma 后续版本（如潜在的 Gemma 5）的发布计划展开讨论，重点关注多语言理解及推理速度表现。",
-        "反馈指出当前 Gemma 4 31B (nvfp4 量化版本) 在德语和英语等人机语言理解与推理任务上表现优异，完美适配欧洲本土企业的业务场景。",
-        "作为社区对 Google 开源模型生态的展望，反映出开发者对更低推理延迟和更高 Token 吞吐量（TPS）的强烈需求。"
-      ],
-      "tag": "#社区热议",
-      "importance": 3
-    },
-    {
-      "id": "de90b61b1a12",
-      "source_id": "openai",
-      "source_name": "OpenAI Official",
-      "source_badge": "OpenAI 官方",
-      "source_icon": "openai",
-      "source_color": "#10a37f",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "published_at": "2026-11-09T08:00:00+00:00",
-      "title_en": "CodeRabbit scales agentic software development and ships 20x more",
-      "title_zh": "CodeRabbit 扩展 Agent 软件开发能力，实现 20 倍交付效率提升",
-      "tldr": [
-        "CodeRabbit 深度整合 OpenAI 模型以审查和管理 AI 生成的代码，并结合 Codex 实现代码规模化交付。",
-        "在保持原有工程团队规模不变的情况下，研发交付吞吐量实现了高达 20 倍的倍数级增长。"
-      ],
-      "tag": "#社区热议",
-      "importance": 4
-    },
-    {
-      "id": "95a50566e455",
-      "source_id": "openai",
-      "source_name": "OpenAI Official",
-      "source_badge": "OpenAI 官方",
-      "source_icon": "openai",
-      "source_color": "#10a37f",
-      "url": "https://openai.com/index/kuken",
-      "published_at": "2026-11-09T08:00:00+00:00",
-      "title_en": "Kuken Industries searches 70 years of drawings in minutes",
-      "title_zh": "Kuken Industries 利用 OpenAI API 在数分钟内检索 70 年的设计图纸",
-      "tldr": [
-        "Kuken Industries 借助 OpenAI API 对长达 70 年的冷却塔历史工程图纸进行多模态检索。",
-        "工程师查找维修图纸的耗时从将近 1 小时大幅缩短至 4.5 分钟，显著提升工程效率。"
-      ],
-      "tag": "#官方首发",
-      "importance": 3
-    },
-    {
-      "id": "7a3eb0cfe5c8",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get/",
-      "published_at": "2026-11-09T06:42:07+00:00",
-      "title_en": "L11 N8147 is a neuron that will make Qwen-3.5-4B get things confidently wrong while being weirdly snarky... But also makes it write interesting poetry",
-      "title_zh": "发现 Qwen-3.5-4B 操控语调与诗歌创作的特定神经元 L11 N8147",
-      "tldr": [
-        "通过对 Qwen-3.5-4B 模型进行内部神经元分析，发现特定神经元 L11 N8147 充当了“唱反调 vs 赞同”的行为开关。",
-        "激活该神经元会使模型在输出错误事实时表现出独特的讽刺语调，但在特定设定下能够激发模型创作出极具特色的诗歌。",
-        "属于社区热议的 LLM 可解释性与内部神经元脑外科实验，为理解中小参数量基座模型的表征机制提供了趣味案例。"
-      ],
-      "tag": "#社区热议",
-      "importance": 3
     }
   ]
 }
