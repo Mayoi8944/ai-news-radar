@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-14T03:50:11.724212+00:00",
+  "last_updated": "2026-11-14T12:38:06.817562+00:00",
   "total_count": 80,
   "items": [
+    {
+      "id": "09653614a909",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/",
+      "published_at": "2026-11-14T03:40:06+00:00",
+      "title_en": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
+      "title_zh": "传闻前 NVIDIA CEO 黄仁勋未降价 GPU，而是资助 AI 初创公司以消化过剩硅片产能",
+      "tldr": [
+        "社群热议行业传闻：NVIDIA 采取资助下游 AI 初创公司消化过剩算力的方式，而非直接下调 GPU 硬件价格。",
+        "通过资本运作维持芯片高价策略，打破了市场此前关于算力短缺或硬件价格崩盘的普遍认知。",
+        "属于深度行业观察与社区热议话题，揭示了 AI 产业链背后的资本运作与算力供需博弈。"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
     {
       "id": "a5375b389dd5",
       "source_id": "hf_blog",
@@ -184,6 +203,25 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "b7c6e83556d8",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-12T21:47:45Z",
+      "title_en": "Graphify-Labs/graphify",
+      "title_zh": "Graphify：无需向量数据库的本地代码库知识图谱构建工具",
+      "tldr": [
+        "能够将任意代码库、文档、SQL 架构、配置及 PDF 转换为可查询知识图谱，并提供 Claude Code 与 Cursor 插件。",
+        "采用本地确定性 AST 解析技术，每条边均有明确解释，彻底摒弃了传统的向量数据库依赖。",
+        "基于 Python 开发，在 GitHub 获得超 14 万 Star，是增强大模型代码库理解能力的硬核开源利器。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "4a72e662d4f0",
@@ -1433,43 +1471,6 @@
         "大幅降低蒸馏训练时的显存占用与计算开销，支持极少步采样下的高质量实时推流"
       ],
       "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "736e5da3a176",
-      "source_id": "openai",
-      "source_name": "OpenAI Official",
-      "source_badge": "OpenAI 官方",
-      "source_icon": "openai",
-      "source_color": "#10a37f",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "published_at": "2026-11-09T19:00:00+00:00",
-      "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
-      "title_zh": "ChatGPT Enterprise 现已登录 AWS Marketplace 平台",
-      "tldr": [
-        "企业级 ChatGPT 现已正式上架 AWS Marketplace，支持通过现有的 AWS 采购与账单关系简化采购流程。",
-        "该分发渠道的打通极大便利了企业客户的财务结算与集成管理，免去了繁琐的独立合同签署。"
-      ],
-      "tag": "#官方首发",
-      "importance": 3
-    },
-    {
-      "id": "2e6c763eea8d",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrydgx/more_interesting_and_unusual_qwen354b_neurons/",
-      "published_at": "2026-11-09T17:46:55+00:00",
-      "title_en": "More interesting and unusual Qwen3.5-4B neurons",
-      "title_zh": "More interesting and unusual Qwen3.5-4B neurons",
-      "tldr": [
-        "一手首发源自 Reddit r/LocalLLaMA",
-        "You guys seemed to like my last post about the 'redditor neuron' so I'm listing ...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#社区热议",
       "importance": 3
     }
   ]
