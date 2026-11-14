@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T21:03:58.435120+00:00",
+  "last_updated": "2026-11-14T03:50:11.724212+00:00",
   "total_count": 80,
   "items": [
     {
@@ -110,6 +110,25 @@
       ],
       "tag": "#开源神器",
       "importance": 5
+    },
+    {
+      "id": "220df3355a42",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "published_at": "2026-11-13T08:00:00+00:00",
+      "title_en": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "title_zh": "Shield 利用 OpenAI 帮助技术人员交接旧版门户系统工作",
+      "tldr": [
+        "Shield 引入 Forge Agent 自动化导航旧版系统，替代技术人员处理繁琐的日常门户操作。",
+        "核心旨在将技术人员的精力解放出来，专注于需要人类逻辑判断和决策的高价值复杂故障。",
+        "采用 OpenAI 大模型底座驱动，具体开源状态及商业许可证官方暂未披露。"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
     },
     {
       "id": "17b5d8a4bf3d",
@@ -508,6 +527,44 @@
         "提供 /graphify 技能深度集成至 Claude Code、Cursor、Gemini CLI 等生态，实现全边长解释且完全不依赖向量数据库。"
       ],
       "tag": "#开源神器",
+      "importance": 4
+    },
+    {
+      "id": "e696c2971554",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.16728",
+      "published_at": "2026-11-11T19:00:00.000Z",
+      "title_en": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming",
+      "title_zh": "EgoX：基于具身梦想的以自我为中心的跨具身操作框架",
+      "tldr": [
+        "针对人类、真实机器人及仿真 Agent 之间形态、传感和控制接口差异大的痛点，提出 EgoX 跨具身学习框架。",
+        "通过语义对应的观察和动作模态组织异构演示数据，实现多源经验的高效融合与迁移。",
+        "预训练引入带有 Embodiment Dreaming 的模块化跨具身 Transformer (MXT+)，大幅提升通用操作策略性能。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "b80ef162463c",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.17336",
+      "published_at": "2026-11-11T19:00:00.000Z",
+      "title_en": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
+      "title_zh": "回归像素：将潜在视频扩散模型提升至像素空间",
+      "tldr": [
+        "指出 VAE 潜在空间压缩限制了前沿视频生成模型在高分辨率、可控及交互生成方面的上限。",
+        "提出 PixVid 方法，将预训练的潜在视频模型直接提升至像素空间进行逐帧生成，避免 Token 数量激增。",
+        "摆脱了多帧块响应的延迟限制，实现了更细腻的像素级控制，适用于高实时与高分辨率视频生成场景。"
+      ],
+      "tag": "#前沿论文",
       "importance": 4
     },
     {
@@ -1414,61 +1471,6 @@
       ],
       "tag": "#社区热议",
       "importance": 3
-    },
-    {
-      "id": "e2cd0f8406ba",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-09T17:04:04Z",
-      "title_en": "Graphify-Labs/graphify (145585 Stars, Python)",
-      "title_zh": "Graphify-Labs/graphify (145585 Stars, Python)",
-      "tldr": [
-        "一手首发源自 GitHub Trending AI",
-        "GitHub AI Repository. Stars: 145585. Language: Python. Description: Turn any cod...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "a85f422c8aba",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-09T17:04:04Z",
-      "title_en": "Graphify-Labs/graphify",
-      "title_zh": "Graphify：将任意代码库及文档零向量库转化为本地确定性知识图谱的开源利器",
-      "tldr": [
-        "采用 Python 开发的开源项目，支持将代码库、文档、SQL Schema、配置及 PDF 直接解析为可查询的知识图谱。",
-        "基于本地确定性 AST 解析架构，确保每条边均可解释，完全不依赖传统的向量数据库（Vector Store）。"
-      ],
-      "tag": "#开源神器",
-      "importance": 5
-    },
-    {
-      "id": "4f79bf6ea6dc",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-09T17:04:04Z",
-      "title_en": "Graphify-Labs/graphify",
-      "title_zh": "Graphify：将任意代码库转化为可查询知识图谱的开源工具",
-      "tldr": [
-        "支持将代码库、文档、SQL 架构及 PDF 一键转化为可查询的知识图谱，完全摒弃向量数据库。",
-        "采用本地确定性 AST 解析，提供细粒度边解释，并作为技能深度集成至 Claude Code 与 Cursor 等 CLI。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
     }
   ]
 }
