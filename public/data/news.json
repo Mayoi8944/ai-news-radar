@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-15T00:28:36.803553+00:00",
+  "last_updated": "2026-11-15T10:03:00.380296+00:00",
   "total_count": 80,
   "items": [
+    {
+      "id": "c72d15524178",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwr917/europa_the_eus_open_ai_model_is_aiming_for_nearly/",
+      "published_at": "2026-11-15T09:24:57+00:00",
+      "title_en": "EUROPA, the EU's open AI model, is aiming for nearly 1 trillion parameters",
+      "title_zh": "EUROPA, the EU's open AI model, is aiming for nearly 1 trillion parameters",
+      "tldr": [
+        "一手首发源自 Reddit r/LocalLLaMA",
+        "One can hope &#32; submitted by &#32; /u/mawcopolow [link] &#32; [comments]...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "e52742a8f3e2",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-15T06:48:46Z",
+      "title_en": "affaan-m/ECC (303430 Stars, JavaScript)",
+      "title_zh": "affaan-m/ECC (303430 Stars, JavaScript)",
+      "tldr": [
+        "一手首发源自 GitHub Trending AI",
+        "GitHub AI Repository. Stars: 303430. Language: JavaScript. Description: The agen...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
     {
       "id": "edb5f1cc2ee8",
       "source_id": "localllama",
@@ -19,6 +57,25 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "151921052e4a",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-14T21:28:08Z",
+      "title_en": "Graphify-Labs/graphify (148004 Stars, Python)",
+      "title_zh": "Graphify-Labs/graphify (148004 Stars, Python)",
+      "tldr": [
+        "一手首发源自 GitHub Trending AI",
+        "GitHub AI Repository. Stars: 148004. Language: Python. Description: Turn any cod...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "75cde4ab9dd1",
@@ -1416,61 +1473,6 @@
         "点击可直接跳转源地址查看完整发布"
       ],
       "tag": "#社区热议",
-      "importance": 3
-    },
-    {
-      "id": "3d5b85adc3be",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.14256",
-      "published_at": "2026-11-09T19:00:00.000Z",
-      "title_en": "A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents",
-      "title_zh": "A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents",
-      "tldr": [
-        "一手首发源自 Hugging Face Daily Papers",
-        "HF Community Upvotes: 1. Summary: Recent work shows that multimodal agents incre...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "3c39960c7285",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.14815",
-      "published_at": "2026-11-09T19:00:00.000Z",
-      "title_en": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
-      "title_zh": "BirdDreams：联合透视与 BEV 视频生成的逼真响应式驾驶世界模型",
-      "tldr": [
-        "提出 BirdDreams 自回归驾驶世界模型，解决了传统透视视频中车辆运动与外观耦合以及遮挡导致的控制难题。",
-        "实现透视视角与鸟瞰视角（BEV）的联合视频生成，在无需显式未来轨迹输入的情况下提供精准的自车控制与反应能力。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 4
-    },
-    {
-      "id": "1f1ffe885f22",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.11306",
-      "published_at": "2026-11-09T19:00:00.000Z",
-      "title_en": "ScrapeBench: Evaluating Legal Compliance of AI Agents in Website Scraping",
-      "title_zh": "ScrapeBench：评估 AI Agent 在网页抓取中法律合规性的基准测试",
-      "tldr": [
-        "推出了首个针对网站抓取法律合规性的 agentic benchmark，用于实证评估 AI Agent 遵守 ToS 及 robots.txt 的能力。",
-        "在包含 1626 个热门网站的样本测试中发现，无论是闭源还是开源 AI Agent，其合规率普遍低于 5%。"
-      ],
-      "tag": "#前沿论文",
       "importance": 3
     }
   ]
