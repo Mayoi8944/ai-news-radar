@@ -1,7 +1,134 @@
 {
-  "last_updated": "2026-11-16T10:17:12.182255+00:00",
+  "last_updated": "2026-11-16T21:21:42.877145+00:00",
   "total_count": 80,
   "items": [
+    {
+      "id": "c35ec42b1545",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-16T21:16:59Z",
+      "title_en": "affaan-m/ECC",
+      "title_zh": "ECC：面向 Claude Code 等多款主流 AI 编码工具的 Agent 性能优化系统",
+      "tldr": [
+        "基于 JavaScript 开发的 Agent  harness 性能优化系统，为 Claude Code、Codex、Cursor 等编程工具提供技能、直觉与安全增强。",
+        "引入研发第一的发展范式与长期记忆机制，显著提升大模型软件工程 Agent 的复杂任务执行成功率。"
+      ],
+      "tag": "#开源神器",
+      "importance": 3
+    },
+    {
+      "id": "34b445756c7b",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-16T17:34:46Z",
+      "title_en": "Graphify-Labs/graphify",
+      "title_zh": "Graphify：将任意代码库及文档一键转化为可查询知识图谱的本地引擎",
+      "tldr": [
+        "采用 Python 开发的本地确定性 AST 解析工具，无需向量数据库，即可将代码库、PDF、SQL 架构及文档转为知识图谱。",
+        "作为 /graphify 技能无缝集成至 Claude Code、Cursor、Gemini CLI 等开发生态，实现全链路精准的代码上下文检索。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
+    {
+      "id": "eb9b45984c0f",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "published_at": "2026-11-16T17:00:00+00:00",
+      "title_en": "Broadening access to AI for scientists",
+      "title_zh": "OpenAI 扩大学术研究人员的顶尖模型免费访问权限",
+      "tldr": [
+        "OpenAI 正在扩展 ChatGPT 学术研究员计划，向全球多达 20 万名研究人员提供其前沿模型的免费访问权限。",
+        "此举旨在降低科研门槛，加速科学界对大语言模型在学术研究、数据分析和日常工作流中的应用。"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
+    },
+    {
+      "id": "4087d0214f78",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "published_at": "2026-11-16T17:00:00+00:00",
+      "title_en": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "title_zh": "OpenAI 推出全新工具与支持以打击在线儿童性虐待",
+      "tldr": [
+        "OpenAI 引入全新的技术工具、实用指南以及跨机构合作伙伴关系，以加强对在线儿童性剥削和虐待的预防、检测与响应。",
+        "通过升级内容安全防护策略，进一步提升平台在拦截和处理违规高危内容方面的系统安全性。"
+      ],
+      "tag": "#官方首发",
+      "importance": 2
+    },
+    {
+      "id": "d97e47208c3b",
+      "source_id": "google_ai",
+      "source_name": "Google AI & DeepMind",
+      "source_badge": "Google 官方",
+      "source_icon": "google",
+      "source_color": "#4285f4",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "published_at": "2026-11-16T14:00:00+00:00",
+      "title_en": "New Ask Maps features to help with holiday travel and prep",
+      "title_zh": "Google Maps 推出全新 Ask Maps 假日出行与筹备功能",
+      "tldr": [
+        "Google 地图引入全新 AI 问答交互功能 Ask Maps，旨在优化用户的假日出行规划、路线导航及行程准备体验。",
+        "通过整合大语言模型交互能力，为用户提供更加直观、动态的路线定制与出行建议服务。"
+      ],
+      "tag": "#官方首发",
+      "importance": 2
+    },
+    {
+      "id": "df0d41bcd09f",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxpxvi/best_audio_models_nov_2026/",
+      "published_at": "2026-11-16T13:55:16+00:00",
+      "title_en": "Best Audio Models - Nov 2026",
+      "title_zh": "最佳音频模型盘点（2026年11月）：ASR、TTS与文本转音乐技术选型",
+      "tldr": [
+        "社区联合发起最新音频模型评测，重点聚焦ASR、TTS、STT及文本转音乐等前沿方向的技术表现。",
+        "强调真实生产环境中的长音频稳定性与长文本推理表现，区别于仅展示短片段的 cherry-picked 演示。",
+        "未发布具体开源权重或API，属于Reddit社区用户围绕当前主流音频AI工具链的使用经验与评测聚合。"
+      ],
+      "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "15ab402d1ac7",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "published_at": "2026-11-16T12:00:00+00:00",
+      "title_en": "Science at the Frontier: How scientists use ChatGPT",
+      "title_zh": "前沿科学研究：科学家如何实际应用 ChatGPT",
+      "tldr": [
+        "调研展示了超过 1800 名科学家在学术研究中日常使用 ChatGPT 的具体工作流、生产力提升数据及对未来科学发现的预期。",
+        "报告量化了模型在文献综述、数据处理等环节的提效表现，为未来科研 Agent 的垂直领域优化提供了重要参考。"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
+    },
     {
       "id": "87291c2cf411",
       "source_id": "localllama",
@@ -75,6 +202,24 @@
       ],
       "tag": "#社区热议",
       "importance": 4
+    },
+    {
+      "id": "773156bb1425",
+      "source_id": "hf_blog",
+      "source_name": "Hugging Face Blog",
+      "source_badge": "开源生态",
+      "source_icon": "huggingface",
+      "source_color": "#ff9d00",
+      "url": "https://huggingface.co/blog/openrouter",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "title_en": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "title_zh": "Hugging Face 携手 OpenRouter 简化开源权重模型的运行部署",
+      "tldr": [
+        "Hugging Face 与 OpenRouter 达成合作，旨在为开发者提供开箱即用的开源权重模型运行与调用体验。",
+        "大幅降低了用户在云端部署和调用各类开源大模型的门槛，加速开放 AI 模型的生态普及。"
+      ],
+      "tag": "#开发生态",
+      "importance": 3
     },
     {
       "id": "8c291b12c4a9",
@@ -721,6 +866,24 @@
       "importance": 4
     },
     {
+      "id": "56514d86f2ee",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.17780",
+      "published_at": "2026-11-12T19:00:00.000Z",
+      "title_en": "LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent",
+      "title_zh": "LuporSQL：作为慢速 LLM Agent 系统 1 的单通 Text-to-SQL 模型",
+      "tldr": [
+        "提出 LuthorSQL，一个非自回归的 7B 参数 Text-to-SQL 模型，用作复杂云端大模型 Agent 的高速本地 System 1 门控机制。",
+        "在本地组织硬件上低成本运行，大幅削减高昂的托管 API 调用延迟与费用，同时避免敏感业务查询外泄至外部服务。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 4
+    },
+    {
       "id": "d7a4852350bd",
       "source_id": "hf_papers",
       "source_name": "Hugging Face Daily Papers",
@@ -994,6 +1157,60 @@
       "importance": 4
     },
     {
+      "id": "98ea187e2bf8",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.05843",
+      "published_at": "2026-11-11T19:00:00.000Z",
+      "title_en": "Dual Flow: Joint Image-Measurement Interpolation for Inverse Problems",
+      "title_zh": "Dual Flow：面向逆问题的联合图像与测量插值生成模型",
+      "tldr": [
+        "提出 Dual Flow 创新双流模型，通过在图像域和测量域使用耦合流，联合估计干净图像与无噪声测量值来解决线性逆问题。",
+        "将图像重建与测量去噪统一为耦合估计问题，有效提升了含噪观测数据下生成式模型求解逆问题的精度。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "d70ff1ce03cb",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.16500",
+      "published_at": "2026-11-11T19:00:00.000Z",
+      "title_en": "EvenVLM: A Text and Multimodal Dataset for the Even Language with Vision-Language Fine-Tuning",
+      "title_zh": "EvenVLM：面向濒危通古斯语 Even 的文本与多模态数据集及微调",
+      "tldr": [
+        "构建了首个针对濒危语言 Even（约 6800 人使用）的文本与 VQA 多模态数据集，包含基于 GPT-4o Mini 解析及合成的超 10 万条训练样本。",
+        "针对该语言高度黏着形态的 Tokenizer 低效问题，提出了创新的三步 Tokenization 优化方案并完成视觉语言微调验证。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "f0cc0a0b3acf",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.16312",
+      "published_at": "2026-11-11T19:00:00.000Z",
+      "title_en": "Alloy: A Multi-Material Physics Engine for Robot Learning",
+      "title_zh": "Alloy：面向机器人学习的多材质开源物理引擎",
+      "tldr": [
+        "推出 Alloy 开源物理引擎，支持在同一场景中无缝模拟刚性机器人、织物、电缆、液体、颗粒物及软体等多种材质。",
+        "通过在每个控制步长内耦合不同求解器，在单一仿真框架下统一处理复杂的多材质交互，大幅提升机器人大规模具身学习效率。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
+    {
       "id": "e696c2971554",
       "source_id": "hf_papers",
       "source_name": "Hugging Face Daily Papers",
@@ -1248,230 +1465,6 @@
       ],
       "tag": "#官方首发",
       "importance": 3
-    },
-    {
-      "id": "d8abf7ad0fe1",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt6du9/qwen4_is_coming/",
-      "published_at": "2026-11-11T02:44:38+00:00",
-      "title_en": "Qwen4 Release Timeline Delayed for Ambassador Program Adjustments",
-      "title_zh": "Qwen4 确认发布在即：因大使项目深度微调导致短期延期",
-      "tldr": [
-        "多方信源证实通义千问下一代旗舰模型 Qwen4 即将面世，目前正进行最后一轮模型收敛调优",
-        "推迟原因为消化社区大使内测反馈，针对编码、复杂推理和长上下文鲁棒性做最终对齐",
-        "Reddit r/LocalLLaMA 社区引发极高讨论度，开源基座权重与 MoE 架构版本备受期待"
-      ],
-      "tag": "#社区热议",
-      "importance": 3
-    },
-    {
-      "id": "76b6c3d01d3a",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt5q27/qwen4_is_coming_preview_now_live_on_alibaba_token/",
-      "published_at": "2026-11-11T02:13:09+00:00",
-      "title_en": "Qwen4-Max Preview Launches on Alibaba Token Plan with Deep Agentic Upgrades",
-      "title_zh": "Qwen4-Max Preview 抢先上线阿里百炼平台与 Qwen 官方生态",
-      "tldr": [
-        "Qwen4-Max Preview 版本正式上线阿里 Token Plan，并向 Qoder 与 Qwen App 全面开放",
-        "重点突破复杂世界理解、深度代码生成与自主 Agent 工具链协同任务能力",
-        "平台限时提供低至 1 折的 API 调用折扣，面向开发者开启大规模高并发真实环境公测"
-      ],
-      "tag": "#官方首发",
-      "importance": 5
-    },
-    {
-      "id": "382656aa9da9",
-      "source_id": "openai",
-      "source_name": "OpenAI Official",
-      "source_badge": "OpenAI 官方",
-      "source_icon": "openai",
-      "source_color": "#10a37f",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "published_at": "2026-11-11T00:00:00+00:00",
-      "title_en": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "title_zh": "JioStar 首席架构师谈 5 亿用户规模下的 AI 发现系统落地实践",
-      "tldr": [
-        "深入剖析了面向 5 亿级海量用户的 AI 发现系统架构设计，重点分享了生产环境中的评估体系与安全护栏搭建经验。",
-        "聚焦真实业务场景下大模型落地生产的工程化挑战，提供了一套从评测、过滤到稳定上线的核心技术演进方法论。"
-      ],
-      "tag": "#社区热议",
-      "importance": 3
-    },
-    {
-      "id": "68b29291fc48",
-      "source_id": "hf_blog",
-      "source_name": "Hugging Face Blog",
-      "source_badge": "开源生态",
-      "source_icon": "huggingface",
-      "source_color": "#ff9d00",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "published_at": "2026-11-11T00:00:00+00:00",
-      "title_en": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "title_zh": "面向多向量嵌入模型的感知 Token 池化训练方法",
-      "tldr": [
-        "深入探讨了多向量嵌入模型（Multi-Vector Embedding Models）在训练过程中如何感知并优化 Token 池化策略。",
-        "有效提升了长文本检索与稠密向量表征的精度，为多向量模型的架构设计与表征对齐提供了新的工程优化方案。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "0c5a95fd5b80",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-10T21:53:12Z",
-      "title_en": "Graphify-Labs/graphify",
-      "title_zh": "Graphify 代码库转可查询知识图谱工具",
-      "tldr": [
-        "能够将任意代码库及其文档、SQL 架构、配置文件和 PDF 一键转化为可查询的知识图谱。",
-        "针对主流 AI 编程助手提供本地确定性 AST 解析，所有图边均可解释，且完全不依赖向量数据库。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "b1615420cc3b",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-10T21:53:12Z",
-      "title_en": "graphify: Zero-Vector Codebase Knowledge Graph Builder",
-      "title_zh": "graphify：无需向量库、基于确定性 AST 的代码库知识图谱构建工具",
-      "tldr": [
-        "放弃向量数据库方案，完全基于本地确定性 AST 解析代码、SQL 与文档并建立显式图谱",
-        "原生支持 Claude Code、Cursor、Gemini CLI 的 /graphify 技能调用，精准索引跨文件引用",
-        "开源 Python 库，显存开销极小且无语义检索漂移，提供 100% 具备可解释性的边关系"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "1c60a1db8c3c",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/",
-      "published_at": "2026-11-10T21:30:36+00:00",
-      "title_en": "Apple Developing Native Mac App for Local AI Model Execution",
-      "title_zh": "苹果被曝正开发全新 Mac 原生应用，大幅降低本地 LLM 运行门槛",
-      "tldr": [
-        "社区曝光苹果内部正在打造一款类似 Ollama / LM Studio 的 macOS 官方原生应用",
-        "预计将深度绑定 Apple Silicon 统一内存架构与 Metal / CoreML 底层推理加速管线",
-        "旨在向普通 Mac 用户提供开箱即用的离线大模型下载、加载与量化推理工作流"
-      ],
-      "tag": "#社区热议",
-      "importance": 4
-    },
-    {
-      "id": "e5cbd846f880",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/",
-      "published_at": "2026-11-10T19:44:57+00:00",
-      "title_en": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
-      "title_zh": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
-      "tldr": [
-        "一手首发源自 Reddit r/LocalLLaMA",
-        "How little of a pretrained large language model (LLM) has to change for it to ac...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#社区热议",
-      "importance": 3
-    },
-    {
-      "id": "e49cfeef0029",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.16009",
-      "published_at": "2026-11-10T19:00:00.000Z",
-      "title_en": "JustRUA: A Controlled Study of GPT-6 Robot-Use Agents",
-      "title_zh": "JustRUA: A Controlled Study of GPT-6 Robot-Use Agents",
-      "tldr": [
-        "一手首发源自 Hugging Face Daily Papers",
-        "HF Community Upvotes: 1. Summary: GPT-6 Astra can drive a robot arm directly thr...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "957ac931fca0",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.15844",
-      "published_at": "2026-11-10T19:00:00.000Z",
-      "title_en": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
-      "title_zh": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
-      "tldr": [
-        "一手首发源自 Hugging Face Daily Papers",
-        "HF Community Upvotes: 17. Summary: Recent work suggests that pretrained image ge...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "fd4db6f4f49f",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.15131",
-      "published_at": "2026-11-10T19:00:00.000Z",
-      "title_en": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
-      "title_zh": "Duo：面向全双工交互的互惠世界模型",
-      "tldr": [
-        "提出互惠世界模型（RWM）并推出 Duo v1，支持持续感知多模态视听输入并与用户进行实时全双工交互。",
-        "将意图认知与物理现实作为世界的同等基础，把推理和决策内化为世界模型本身，而非作为外部控制手段。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 4
-    },
-    {
-      "id": "27ebe62df149",
-      "source_id": "google_ai",
-      "source_name": "Google AI & DeepMind",
-      "source_badge": "Google 官方",
-      "source_icon": "google",
-      "source_color": "#4285f4",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "published_at": "2026-11-10T19:00:00+00:00",
-      "title_en": "Gemini Intelligence: New features, on more devices",
-      "title_zh": "Gemini Intelligence: New features, on more devices",
-      "tldr": [
-        "一手首发源自 Google AI & DeepMind",
-        "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#官方首发",
-      "importance": 4
     }
   ]
 }
