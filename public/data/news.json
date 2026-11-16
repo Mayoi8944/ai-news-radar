@@ -1,7 +1,81 @@
 {
-  "last_updated": "2026-11-16T00:30:15.374992+00:00",
+  "last_updated": "2026-11-16T10:17:12.182255+00:00",
   "total_count": 80,
   "items": [
+    {
+      "id": "87291c2cf411",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxlich/the_beginning_of_the_becoming_of_the_beginning/",
+      "published_at": "2026-11-16T09:55:51+00:00",
+      "title_en": "The beginning of the becoming of the beginning begins",
+      "title_zh": "万物伊始的开端之始",
+      "tldr": [
+        "Reddit r/LocalLLaMA 社区发布的哲学/闲聊向空白灌水讨论帖。",
+        "不包含具体的基座模型跑分、架构创新或任何可执行的硬核技术情报。"
+      ],
+      "tag": "#社区热议",
+      "importance": 1
+    },
+    {
+      "id": "86044ad68491",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "title_zh": "LVMH 传媒部门宣布与 OpenAI 达成战略合作",
+      "tldr": [
+        "LVMH 传媒部门与 OpenAI 建立战略合作伙伴关系，旨在利用 AI 技术赋能新闻业。",
+        "双方合作将提升旗下出版物在 ChatGPT 中的可访问性，拓展 AI 内容分发渠道。"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
+    },
+    {
+      "id": "820f00add75e",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-16T04:55:46Z",
+      "title_en": "affaan-m/ECC",
+      "title_zh": "affaan-m/ECC 开源 Agent 性能优化系统",
+      "tldr": [
+        "专为 Claude Code、Codex、Cursor 等主流 AI 编码工具打造的 Agent 性能优化框架。",
+        "集成技能、直觉、记忆、安全机制及研究优先的开发范式，全面提升大模型编码效率。",
+        "采用 JavaScript 开发，在 GitHub 获得超 30 万 Star 的极高社区关注度。"
+      ],
+      "tag": "#开源神器",
+      "importance": 5
+    },
+    {
+      "id": "c10f68de06b9",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxfv69/im_starting_to_think_a_specialized_4b_is_enough/",
+      "published_at": "2026-11-16T04:13:31+00:00",
+      "title_en": "I'm starting to think a specialized 4B is enough for most of the tasks I'd use an LLM for",
+      "title_zh": "实测表明：针对特定任务优化的 4B 专用模型足以应付绝大多数日常 LLM 需求",
+      "tldr": [
+        "开发者分享在训练 Qwen3.5-4B-3D-Coder 及 GLB 资产版本过程中的突破性实践体验。",
+        "经过精细化专项训练的 4B 模型能够胜任 3D 资产生成、复杂场景编排、全栈开发及逆向工程。",
+        "社区热议证明小参数模型在特定垂直领域通过固定 harness 训练展现出远超预期的实用价值。"
+      ],
+      "tag": "#社区热议",
+      "importance": 4
+    },
     {
       "id": "8c291b12c4a9",
       "source_id": "localllama",
@@ -55,6 +129,25 @@
       ],
       "tag": "#官方首发",
       "importance": 3
+    },
+    {
+      "id": "38e9f59b1693",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-15T20:17:32Z",
+      "title_en": "Graphify-Labs/graphify",
+      "title_zh": "Graphify-Labs/graphify 代码库知识图谱转换工具",
+      "tldr": [
+        "可将任意代码库及其文档、SQL 架构、配置和 PDF 转换为可查询的知识图谱。",
+        "作为 Claude Code、Cursor 和 Gemini CLI 的 /graphify 技能深度集成。",
+        "采用纯本地确定性 AST 解析，确保每个节点和边均可解释，且完全无需向量数据库。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "45d8e9492a5b",
@@ -626,6 +719,44 @@
       ],
       "tag": "#开源神器",
       "importance": 4
+    },
+    {
+      "id": "d7a4852350bd",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.17831",
+      "published_at": "2026-11-12T19:00:00.000Z",
+      "title_en": "V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations",
+      "title_zh": "V-JEPA-LM：超越静态文本对齐表征、可读懂动态的视听语言模型",
+      "tldr": [
+        "指出传统 VLM 仅检索文本匹配属性而未利用 V-JEPA 编码器学到的物理动态特征。",
+        "通过线性探测发现冻结的 V-JEPA 特征能以 87% 的准确率读出速度等动态信息。",
+        "深入解析了动态信息在多模态大模型中的表征位置，推动视频世界模型与语言模型的深度融合。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 4
+    },
+    {
+      "id": "13379af193eb",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.18429",
+      "published_at": "2026-11-12T19:00:00.000Z",
+      "title_en": "Do Underwater Image Quality Metrics Agree with Human Perception? A Benchmark with Human Choices, Simple Edits and Generative Drift",
+      "title_zh": "水下图像质量指标是否符合人类感知？包含人类选择、简单编辑与生成漂移的基准测试",
+      "tldr": [
+        "针对水下图像增强缺乏清晰参考图像的问题，评估了 73 种无参考图像质量评估 (NR-IQA) 指标。",
+        "基于 4 个已发布意见评分集和全新配对比较研究，对人工偏好与各类指标进行全面对齐测试。",
+        "量化分析了传统 handcrafted、VLM 及通用指标在选择契合人类视觉结果时的实际一致性表现。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
     },
     {
       "id": "33af89b6f7b6",
@@ -1341,136 +1472,6 @@
       ],
       "tag": "#官方首发",
       "importance": 4
-    },
-    {
-      "id": "a79739748475",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/",
-      "published_at": "2026-11-10T14:18:08+00:00",
-      "title_en": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3",
-      "title_zh": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3",
-      "tldr": [
-        "一手首发源自 Reddit r/LocalLLaMA",
-        "&#32; submitted by &#32; /u/MagicZhang [link] &#32; [comments]...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#社区热议",
-      "importance": 3
-    },
-    {
-      "id": "b568a6718666",
-      "source_id": "google_ai",
-      "source_name": "Google AI & DeepMind",
-      "source_badge": "Google 官方",
-      "source_icon": "google",
-      "source_color": "#4285f4",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "published_at": "2026-11-10T14:00:00+00:00",
-      "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "title_zh": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "tldr": [
-        "一手首发源自 Google AI & DeepMind",
-        "Google and Adobe are integrating creative and productivity tools. Edit PDFs in D...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#官方首发",
-      "importance": 4
-    },
-    {
-      "id": "e23b64a407ca",
-      "source_id": "google_ai",
-      "source_name": "Google AI & DeepMind",
-      "source_badge": "Google 官方",
-      "source_icon": "google",
-      "source_color": "#4285f4",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "published_at": "2026-11-10T13:00:00+00:00",
-      "title_en": "Google Cloud launches Gemini for healthcare.",
-      "title_zh": "谷歌云正式发布面向医疗健康领域的 Gemini 行业解决方案",
-      "tldr": [
-        "谷歌云推出面向医疗的 Gemini，旨在统一临床数据并实现工作流程自动化，降低医务人员管理疲劳。",
-        "通过多模态 AI 能力无缝整合多源临床异构数据，大幅提升医疗机构的整体运营效率。"
-      ],
-      "tag": "#官方首发",
-      "importance": 4
-    },
-    {
-      "id": "65dbd9d4d245",
-      "source_id": "openai",
-      "source_name": "OpenAI Official",
-      "source_badge": "OpenAI 官方",
-      "source_icon": "openai",
-      "source_color": "#10a37f",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "published_at": "2026-11-10T12:00:00+00:00",
-      "title_en": "Helping caregivers use AI in everyday life",
-      "title_zh": "OpenAI Academy 推出面向全美五大城市照料者的免费 ChatGPT 实践工作坊",
-      "tldr": [
-        "OpenAI Academy 在美国五个城市为照料者开展免费的 ChatGPT 动手实践工作坊。",
-        "旨在帮助照料者构建实用的 AI 技能，以应对日常生活中的各种实际场景与挑战。"
-      ],
-      "tag": "#官方首发",
-      "importance": 3
-    },
-    {
-      "id": "0c946490c7a9",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d/",
-      "published_at": "2026-11-10T11:41:51+00:00",
-      "title_en": "xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D",
-      "title_zh": "xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D",
-      "tldr": [
-        "一手首发源自 Reddit r/LocalLLaMA",
-        "Image-conditioned 64³ voxel structure generator of JoVox: Joint Hierarchical Flo...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#社区热议",
-      "importance": 3
-    },
-    {
-      "id": "01ffefadad24",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no/",
-      "published_at": "2026-11-10T11:27:44+00:00",
-      "title_en": "Decision model to edit LLM weight directly - No training",
-      "title_zh": "Decision model to edit LLM weight directly - No training",
-      "tldr": [
-        "一手首发源自 Reddit r/LocalLLaMA",
-        "On September 18, I launched Laya at you guys request, the first system 1 open-so...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#社区热议",
-      "importance": 3
-    },
-    {
-      "id": "095aaac8cc1f",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai/",
-      "published_at": "2026-11-10T10:23:52+00:00",
-      "title_en": "Fable 5.2 not only has guardrails against AI acceleration, its capabilities were capped in training too",
-      "title_zh": "社区热议：Fable 5.2 不仅内置防 AI 加速安全护栏，其模型能力在训练阶段已被刻意阉割",
-      "tldr": [
-        "社区讨论指出私有模型 Fable 5.2 在训练阶段和推理护栏中双重限制了模型潜力，引发对商业闭源模型透明度的担忧。",
-        "开发者与用户普遍认为此类过度安全的限制进一步凸显了拥抱开源权重大模型（Open Weight LLMs）的必要性。"
-      ],
-      "tag": "#社区热议",
-      "importance": 3
     }
   ]
 }
