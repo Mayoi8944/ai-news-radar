@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-11-17T05:29:01.940238+00:00",
+  "last_updated": "2026-11-17T15:02:33.754670+00:00",
   "total_count": 80,
   "items": [
+    {
+      "id": "0b4712f6503b",
+      "source_id": "localllama",
+      "source_name": "Reddit r/LocalLLaMA",
+      "source_badge": "社区实测",
+      "source_icon": "reddit",
+      "source_color": "#ff4500",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyioi8/intel_shares_first_benchmarks_of_its_nextgen/",
+      "published_at": "2026-11-17T12:02:09+00:00",
+      "title_en": "Intel Shares First Benchmarks of Its Next-Gen Crescent Island \"D270\" GPU",
+      "title_zh": "英特尔发布新一代 Crescent Island D270 GPU 基准测试数据",
+      "tldr": [
+        "在 AI 推理基准测试中，英特尔 D270 GPU 相比 RTX PRO 6000 Blackwell 实现了 29% 更低的延迟。",
+        "在吞吐量方面达到 RTX PRO 6000 的 1.12 倍，同时 Xe3P 架构对 FP64 双精度计算进行了重大增强。"
+      ],
+      "tag": "#社区热议",
+      "importance": 4
+    },
+    {
+      "id": "0c26afb54232",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-17T06:41:46Z",
+      "title_en": "affaan-m/ECC",
+      "title_zh": "ECC：面向现代 AI 编码工具的 Agent 性能优化与记忆增强系统",
+      "tldr": [
+        "采用 JavaScript 开发的 Agent 性能优化系统，为 Claude Code、Cursor、Codex 等主流工具提供深度支持。",
+        "集成技能、直觉、内存管理、安全审计及研究优先开发机制，全方位提升编程 Agent 的实战效能。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
     {
       "id": "9eb77b6748bd",
       "source_id": "github_ai",
@@ -22,6 +58,42 @@
       "importance": 4
     },
     {
+      "id": "72e216f3376a",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "title_en": "Strengthening NATO and allied cyber defenses with AI",
+      "title_zh": "OpenAI 宣布利用人工智能技术增强北约及盟友的网络防御能力",
+      "tldr": [
+        "OpenAI 与北约及盟友的网络安全机构合作，协助可信防御者主动发现系统漏洞并测试修复方案。",
+        "聚焦于保护关键基础设施和核心系统，通过 AI 技术提升网络空间的安全防御与响应能力。"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
+    },
+    {
+      "id": "6e66e787597d",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "title_en": "Introducing OpenAI for Chile",
+      "title_zh": "OpenAI 推出智利国家合作计划以推动人工智能普及",
+      "tldr": [
+        "OpenAI 与智利政府达成战略合作，旨在支持负责任的 AI 技术采用并构建公共部门技能。",
+        "重点帮助当地初创企业开发创新的人工智能应用程序，促进拉丁美洲地区的 AI 生态发展。"
+      ],
+      "tag": "#官方首发",
+      "importance": 2
+    },
+    {
       "id": "c35ec42b1545",
       "source_id": "github_ai",
       "source_name": "GitHub Trending AI",
@@ -38,6 +110,24 @@
       ],
       "tag": "#开源神器",
       "importance": 3
+    },
+    {
+      "id": "bc5714ea98b5",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-16T17:34:46Z",
+      "title_en": "Graphify-Labs/graphify",
+      "title_zh": "Graphify：无向量数据库支持的本地确定性 AST 知识图谱生成工具",
+      "tldr": [
+        "使用 Python 开发，支持将任意代码库、文档、SQL 架构及 PDF 转化为可查询的知识图谱结构。",
+        "深度适配 Claude Code、Cursor 等开发生态，采用本地确定性 AST 解析，无需依赖向量数据库。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "ffbe3ab80455",
@@ -351,6 +441,24 @@
       "importance": 4
     },
     {
+      "id": "fa600f4868a6",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.21479",
+      "published_at": "2026-11-15T19:00:00.000Z",
+      "title_en": "LynnReal-Hand: Unlocking World Interaction with Hand Control",
+      "title_zh": "LynnReal-Hand：基于手势控制解锁真实世界交互的视频生成模型",
+      "tldr": [
+        "针对传统视频世界模型缺乏精细化物理交互的痛点，引入连续手势控制以实现复杂的手物动态建模。",
+        "构建了包含 100K 交互剪辑的数据集，成功将精确的交互建模与高效的流式视频生成统一起来。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 4
+    },
+    {
       "id": "3d6d553b8513",
       "source_id": "localllama",
       "source_name": "Reddit r/LocalLLaMA",
@@ -535,6 +643,24 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "10d96220408b",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.19771",
+      "published_at": "2026-11-14T19:00:00.000Z",
+      "title_en": "JEPA4R: Embodied JEPA World Models with 4D Point Planning",
+      "title_zh": "JEPA4R：基于 4D 点云规划的具身联合嵌入预测架构世界模型",
+      "tldr": [
+        "提出 JEPA4R 世界模型，直接观测单深度相机点云数据，并在其潜在空间中进行特征预测与规划。",
+        "通过冻结的潜在空间策略头执行动作，有效解决了传统 2D 图像世界模型中几何结构与外观耦合的问题。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 4
     },
     {
       "id": "af7b0c72fb19",
@@ -1342,134 +1468,6 @@
       ],
       "tag": "#前沿论文",
       "importance": 4
-    },
-    {
-      "id": "4815716c1cae",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.17190",
-      "published_at": "2026-11-11T19:00:00.000Z",
-      "title_en": "Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes",
-      "title_zh": "基于参考帧的无人机视频稳像共识捕获：动态城市场景基准测试",
-      "tldr": [
-        "针对无人机悬停稳像中运动车辆导致的单应性估计偏移问题，提出了共识捕获现象及两部分测试基准。",
-        "引入了专门的对象掩码策略来防止动态城市场景中的特征匹配漂移，提升稳像算法鲁棒性。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "0f25cb7de253",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.16961",
-      "published_at": "2026-11-11T19:00:00.000Z",
-      "title_en": "The Value of Thinking: Learning When to Reason in Hybrid Decision Models",
-      "title_zh": "思考的价值：在混合决策模型中学习何时进行推理",
-      "tldr": [
-        "提出 zero-or-T 思维范式，使模型可在单次前向传递中隐式回答，或在必要时执行完整的自回归推理。",
-        "通过共享冻结骨干网的混合决策模型（HDM），兼顾了零显式 Token 开销与复杂长文本推理能力。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 4
-    },
-    {
-      "id": "4203871dbc76",
-      "source_id": "google_ai",
-      "source_name": "Google AI & DeepMind",
-      "source_badge": "Google 官方",
-      "source_icon": "google",
-      "source_color": "#4285f4",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "published_at": "2026-11-11T18:00:00+00:00",
-      "title_en": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "title_zh": "谷歌发布 Gemini Decisions API：提供低延迟、高校准的多模态决策能力",
-      "tldr": [
-        "基于最新的 Gemini Decision SOTA 模型构建，专门面向复杂多模态场景提供高速且经过概率校准的决策输出。",
-        "显著优化了多模态推理的响应延迟与置信度校准机制，目前已通过官方 API 接口正式向开发者全面开放。"
-      ],
-      "tag": "#官方首发",
-      "importance": 4
-    },
-    {
-      "id": "7919d7023193",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmeif/open_source_self_driving_is_here/",
-      "published_at": "2026-11-11T16:34:38+00:00",
-      "title_en": "Open source self driving is here!",
-      "title_zh": "NVIDIA 发布开源端到端自动驾驶模型 Alpamayo 2 Edge",
-      "tldr": [
-        "模型基于 RL 强化学习循环训练，输入源整合了 6 路环视相机画面与车辆近期运动轨迹数据",
-        "Embedl 推出针对 AGX Thor 等边缘硬件优化的版本，推理速度比原生 PyTorch 提升超过 10 倍",
-        "项目已在特定平台上开放在线运行测试与优化权重的下载，大幅推进开源自动驾驶落地"
-      ],
-      "tag": "#官方首发",
-      "importance": 5
-    },
-    {
-      "id": "79a62bbeff86",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs/",
-      "published_at": "2026-11-11T16:17:55+00:00",
-      "title_en": "New Qwen3.8-27B Unsloth Dynamic V3.1 GGUFs",
-      "title_zh": "Qwen3.8-27B 推出 Unsloth Dynamic V3.1 GGUF 量化版本",
-      "tldr": [
-        "相比前代 UD3 及其他量化方案，在 DeepSWE 和 Terminal Bench 等基准测试中准确率提升 5% 至 10%",
-        "全面更新 2-bit 到 6-bit 的量化权重（3-bit 除外），支持 128K 至 256K 的长上下文 Agent 任务",
-        "算法团队正持续优化量化流程，并已着手为后续 Qwen4 架构提供高效且高精度的量化支持"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "f35a31f1ced4",
-      "source_id": "google_ai",
-      "source_name": "Google AI & DeepMind",
-      "source_badge": "Google 官方",
-      "source_icon": "google",
-      "source_color": "#4285f4",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "published_at": "2026-11-11T16:00:00+00:00",
-      "title_en": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "title_zh": "Google Labs 推出 Tabletop：支持群组协同规划与互动的定制化 AI 空间",
-      "tldr": [
-        "作为 Google Labs 的全新实验性项目，专注于为多人群组协作提供可定制的交互式行程规划和投票功能。",
-        "目前暂未开源，采用申请制（Join the waitlist）灰度测试，主要面向协同办公与团队效率场景。"
-      ],
-      "tag": "#官方首发",
-      "importance": 3
-    },
-    {
-      "id": "165153fcece4",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase/",
-      "published_at": "2026-11-11T15:02:21+00:00",
-      "title_en": "[Bi-Weekly Megathread] Project Showcase",
-      "title_zh": "[双周超级置顶帖] 本地大模型开源项目展示与社区作品秀专栏",
-      "tldr": [
-        "聚焦开源权重、本地可部署的开源软件生态，为开发者提供一个展示自研 AI 项目、比较同类方案性能的集中交流阵地。",
-        "严格强调项目需具备清晰的英文描述、严谨的验证测试及对抗盲目“Vibe Coding”的硬核证据，属于 LocalLLaMA 社区的核心精选内容。"
-      ],
-      "tag": "#社区热议",
-      "importance": 3
     }
   ]
 }
