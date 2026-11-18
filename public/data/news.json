@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-11-18T00:08:00.151658+00:00",
+  "last_updated": "2026-11-18T10:49:57.671533+00:00",
   "total_count": 80,
   "items": [
+    {
+      "id": "9e2db015390c",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "title_en": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "title_zh": "OpenAI 与法国费加罗报达成合作，将新闻内容引入 ChatGPT",
+      "tldr": [
+        "OpenAI 与法国媒体 Le Groupe Figaro 达成战略合作，通过摘要与引用链接形式将新闻内容引入 ChatGPT。",
+        "暂未公布具体的开源状态或 API 商业化细节，属于内容生态与数据授权合作。"
+      ],
+      "tag": "#社区热议",
+      "importance": 2
+    },
+    {
+      "id": "c3b06f56e6f2",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-17T21:21:11Z",
+      "title_en": "Graphify-Labs/graphify",
+      "title_zh": "Graphify-Labs/graphify：将任意代码库一键转为可查询知识图谱的开源工具",
+      "tldr": [
+        "采用 Python 开发，支持将代码库、文档、SQL 架构和 PDF 转换为可查询的知识图谱，完全不依赖向量数据库。",
+        "作为 Claude Code、Cursor 和 Gemini CLI 的本地工具，采用确定性 AST 解析并清晰解释所有节点边关系。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
     {
       "id": "963cd8873e25",
       "source_id": "github_ai",
@@ -95,6 +131,24 @@
       ],
       "tag": "#官方首发",
       "importance": 4
+    },
+    {
+      "id": "058f2718f525",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-17T06:41:46Z",
+      "title_en": "affaan-m/ECC",
+      "title_zh": "affaan-m/ECC：面向主流编码助手的智能体性能优化系统",
+      "tldr": [
+        "基于 JavaScript 开发的 AI 智能体性能优化系统，为 Claude Code、Cursor 等工具提供技能、直觉与内存管理。",
+        "聚焦研发优先的架构设计，具体开源许可证未在元数据中明确指定。"
+      ],
+      "tag": "#开源神器",
+      "importance": 3
     },
     {
       "id": "80e4299d6d9d",
@@ -555,6 +609,24 @@
       "importance": 4
     },
     {
+      "id": "19950d9b0ae8",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.21392",
+      "published_at": "2026-11-15T19:00:00.000Z",
+      "title_en": "VideoNexus: Video Perception Beyond the Reasoning Context",
+      "title_zh": "VideoNexus：突破推理上下文限制的长视频感知架构",
+      "tldr": [
+        "针对长视频理解中密集视觉序列加重感知与推理负担的问题，引入视频智能体进行选择性检查与感知委托。",
+        "有效避免了稀疏采样丢失关键细节以及逐帧描述导致上下文无限膨胀的痛点。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
       "id": "16704831e1eb",
       "source_id": "hf_papers",
       "source_name": "Hugging Face Daily Papers",
@@ -776,6 +848,42 @@
       ],
       "tag": "#社区热议",
       "importance": 3
+    },
+    {
+      "id": "1c10bff39b50",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.19857",
+      "published_at": "2026-11-14T19:00:00.000Z",
+      "title_en": "PanDWM: Panoramic 4D Driving World Models",
+      "title_zh": "PanDWM：全景 4D 自动驾驶世界模型",
+      "tldr": [
+        "提出 PanDWM 模型，将六个针孔相机的视频无缝拼接为 360 度全景带，从根本上解决多视角一致性难题。",
+        "采用因果学生模型在四步内通过窗口生成全景带，由因果教师模型蒸馏并在自身推理轨迹上进行训练。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "2ad632ea8a6e",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.17048",
+      "published_at": "2026-11-14T19:00:00.000Z",
+      "title_en": "Beyond Answering: Learning to Speak First and Act in Streaming Video",
+      "title_zh": "超越被动问答：流式视频中的主动发言与动作执行模型 AURA 2.0",
+      "tldr": [
+        "推出 AURA 2.0 视频大语言模型，核心引入模型主动发起对话（MIC）机制，可在动态视觉流中自主寻找时机发言。",
+        "集成流感知工具调用（SATC）功能，突破传统 AI 仅限用户提示后才响应的被动交互模式。"
+      ],
+      "tag": "#前沿论文",
+      "importance": 4
     },
     {
       "id": "10d96220408b",
@@ -1363,115 +1471,6 @@
       ],
       "tag": "#社区热议",
       "importance": 4
-    },
-    {
-      "id": "cb2cf69f50c0",
-      "source_id": "openai",
-      "source_name": "OpenAI Official",
-      "source_badge": "OpenAI 官方",
-      "source_icon": "openai",
-      "source_color": "#10a37f",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "published_at": "2026-11-12T09:30:00+00:00",
-      "title_en": "Holiday Extras is rethinking what it can build with Codex",
-      "title_zh": "Holiday Extras 探讨利用 Codex 重塑应用开发与提升预定转化率",
-      "tldr": [
-        "Holiday Extras 深度集成 Codex，将客户业务经验转化为更高效的应用程序开发能力。",
-        "通过 Codex 辅助开发实现更高的业务预定转化率，并为平台创造全新的规模化增长空间。"
-      ],
-      "tag": "#官方首发",
-      "importance": 2
-    },
-    {
-      "id": "d0deb3988181",
-      "source_id": "hf_blog",
-      "source_name": "Hugging Face Blog",
-      "source_badge": "开源生态",
-      "source_icon": "huggingface",
-      "source_color": "#ff9d00",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "published_at": "2026-11-12T00:00:00+00:00",
-      "title_en": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "title_zh": "3D 生成模型微调终极指南",
-      "tldr": [
-        "系统梳理并总结了当前主流 3D 生成模型的微调方法、超参数配置策略以及常见陷阱规避方案。",
-        "为开发者在三维资产重建、NeRF 以及 3D Gaussian Splatting 领域的模型定制提供全流程实战参考。"
-      ],
-      "tag": "#开发生态",
-      "importance": 3
-    },
-    {
-      "id": "10e98016d2e7",
-      "source_id": "openai",
-      "source_name": "OpenAI Official",
-      "source_badge": "OpenAI 官方",
-      "source_icon": "openai",
-      "source_color": "#10a37f",
-      "url": "https://openai.com/index/children-first-declaration",
-      "published_at": "2026-11-12T00:00:00+00:00",
-      "title_en": "Supporting research on AI and children’s safety",
-      "title_zh": "OpenAI 投入 200 万美元资助儿童人工智能安全性研究",
-      "tldr": [
-        "OpenAI 官方宣布投入 200 万美元专项资金，用于支持人工智能与儿童安全相关的学术研究。",
-        "研究重点是构建共享评估工具，用以准确衡量年轻群体在使用 AI 时的潜在风险与机遇。"
-      ],
-      "tag": "#官方首发",
-      "importance": 3
-    },
-    {
-      "id": "20665e6478e1",
-      "source_id": "openai",
-      "source_name": "OpenAI Official",
-      "source_badge": "OpenAI 官方",
-      "source_icon": "openai",
-      "source_color": "#10a37f",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "published_at": "2026-11-12T00:00:00+00:00",
-      "title_en": "Gilbert + Tobin Rethinks the Business of Law with AI",
-      "title_zh": "澳大利亚顶尖律所 Gilbert + Tobin 借力 OpenAI 重塑法律业务流",
-      "tldr": [
-        "OpenAI 发布对律所 G+T 负责人的深度访谈，展示生成式模型在法律文书和分析中的商业化落地",
-        "以企业级 API 与 ChatGPT Enterprise 深度重构法律尽调与合同起草，大幅降低人工审查耗时",
-        "未公开新模型或技术权重，定位为法律垂直行业商业落地案例展示"
-      ],
-      "tag": "#官方首发",
-      "importance": 1
-    },
-    {
-      "id": "fb86e55ebeac",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-11T23:25:36Z",
-      "title_en": "Graphify-Labs/graphify (146513 Stars, Python)",
-      "title_zh": "Graphify：支持多格式源码及文档的本地化知识图谱构建工具",
-      "tldr": [
-        "开源代码库转知识图谱工具，支持将代码、文档、SQL 架构和 PDF 转换为可查询的知识图谱。",
-        "基于本地确定性 AST 解析，对每条关联边进行精准解析，运行过程无需依赖外部向量数据库。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "847906ff98aa",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/",
-      "published_at": "2026-11-11T22:31:56+00:00",
-      "title_en": "Nvidia is Preparing to Oust Nvidia CEO Jensen Huang",
-      "title_zh": "传Nvidia正准备罢免Nvidia CEO黄仁勋",
-      "tldr": [
-        "Reddit社区热议帖，标题称英伟达正准备罢免公司首席执行官黄仁勋。",
-        "原文内容缺失，仅包含提交元数据与评论链接，属于典型的社区无实质内容传闻。"
-      ],
-      "tag": "#社区热议",
-      "importance": 1
     }
   ]
 }
