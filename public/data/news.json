@@ -1,7 +1,140 @@
 {
-  "last_updated": "2026-11-18T10:49:57.671533+00:00",
+  "last_updated": "2026-11-18T19:42:30.884437+00:00",
   "total_count": 80,
   "items": [
+    {
+      "id": "caca4592d3f5",
+      "source_id": "hf_blog",
+      "source_name": "Hugging Face Blog",
+      "source_badge": "开源生态",
+      "source_icon": "huggingface",
+      "source_color": "#ff9d00",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "published_at": "2026-11-18T18:53:43+00:00",
+      "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
+      "title_zh": "Why your fine-tuning job takes longer than the FLOPs say",
+      "tldr": [
+        "一手首发源自 Hugging Face Blog",
+        "包含一手关键技术细节与更新说明",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
+    },
+    {
+      "id": "f8a900f201ec",
+      "source_id": "google_ai",
+      "source_name": "Google AI & DeepMind",
+      "source_badge": "Google 官方",
+      "source_icon": "google",
+      "source_color": "#4285f4",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "published_at": "2026-11-18T17:00:00+00:00",
+      "title_en": "The Gemini app is now available on lower-memory Android devices.",
+      "title_zh": "The Gemini app is now available on lower-memory Android devices.",
+      "tldr": [
+        "一手首发源自 Google AI & DeepMind",
+        "The Google Gemini app now supports lower-memory Android devices. Access Gemini L...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
+      "importance": 4
+    },
+    {
+      "id": "8151ae89e92a",
+      "source_id": "hf_blog",
+      "source_name": "Hugging Face Blog",
+      "source_badge": "开源生态",
+      "source_icon": "huggingface",
+      "source_color": "#ff9d00",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "published_at": "2026-11-18T15:00:23+00:00",
+      "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "title_zh": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "tldr": [
+        "一手首发源自 Hugging Face Blog",
+        "包含一手关键技术细节与更新说明",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
+    },
+    {
+      "id": "15e4a28045fb",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "title_en": "Inside the Codex sandbox",
+      "title_zh": "Inside the Codex sandbox",
+      "tldr": [
+        "一手首发源自 OpenAI Official",
+        "See how Codex runs commands on your machine while enforcing the filesystem and n...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
+      "importance": 4
+    },
+    {
+      "id": "1077e44916e0",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "title_en": "The Silent Consensus",
+      "title_zh": "The Silent Consensus",
+      "tldr": [
+        "一手首发源自 OpenAI Official",
+        "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI cou...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
+      "importance": 4
+    },
+    {
+      "id": "d0af559e9b88",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "title_en": "Advancing chip design with OpenAI models",
+      "title_zh": "Advancing chip design with OpenAI models",
+      "tldr": [
+        "一手首发源自 OpenAI Official",
+        "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V co...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
+      "importance": 4
+    },
+    {
+      "id": "46eeff02a5ec",
+      "source_id": "hf_blog",
+      "source_name": "Hugging Face Blog",
+      "source_badge": "开源生态",
+      "source_icon": "huggingface",
+      "source_color": "#ff9d00",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "title_en": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "title_zh": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "tldr": [
+        "一手首发源自 Hugging Face Blog",
+        "包含一手关键技术细节与更新说明",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
+    },
     {
       "id": "9e2db015390c",
       "source_id": "openai",
@@ -19,6 +152,25 @@
       ],
       "tag": "#社区热议",
       "importance": 2
+    },
+    {
+      "id": "fe5d3c35e669",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-17T21:21:11Z",
+      "title_en": "Graphify-Labs/graphify",
+      "title_zh": "Graphify：基于本地确定性 AST 解析的零向量数据库知识图谱构建工具",
+      "tldr": [
+        "使用 Python 开发，支持将任意代码库、文档、SQL 架构及 PDF 转化为可查询的知识图谱。",
+        "采用本地确定性 AST（抽象语法树）解析方案，无需向量数据库即可实现高精度的边关系解释。",
+        "原生集成 Claude Code、Cursor、Codex 及 Gemini CLI 等主流开发工具的 /graphify 技能。"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "c3b06f56e6f2",
@@ -130,6 +282,25 @@
         "点击可直接跳转源地址查看完整发布"
       ],
       "tag": "#官方首发",
+      "importance": 4
+    },
+    {
+      "id": "1bd557bc7de8",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-17T06:41:46Z",
+      "title_en": "affaan-m/ECC (306353 Stars, JavaScript)",
+      "title_zh": "affaan-m/ECC (306353 Stars, JavaScript)",
+      "tldr": [
+        "一手首发源自 GitHub Trending AI",
+        "GitHub AI Repository. Stars: 306353. Language: JavaScript. Description: The agen...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#开源神器",
       "importance": 4
     },
     {
@@ -277,6 +448,25 @@
         "引入研发第一的发展范式与长期记忆机制，显著提升大模型软件工程 Agent 的复杂任务执行成功率。"
       ],
       "tag": "#开源神器",
+      "importance": 3
+    },
+    {
+      "id": "64d75a7007d3",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.23140",
+      "published_at": "2026-11-16T19:00:00.000Z",
+      "title_en": "GameRealm: Grounding Visual Learning in Interactive Games",
+      "title_zh": "GameRealm: Grounding Visual Learning in Interactive Games",
+      "tldr": [
+        "一手首发源自 Hugging Face Daily Papers",
+        "HF Community Upvotes: 1. Summary: Visual foundation models are central to physic...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#前沿论文",
       "importance": 3
     },
     {
@@ -609,6 +799,44 @@
       "importance": 4
     },
     {
+      "id": "e58e9f638ae3",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.21925",
+      "published_at": "2026-11-15T19:00:00.000Z",
+      "title_en": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+      "title_zh": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+      "tldr": [
+        "一手首发源自 Hugging Face Daily Papers",
+        "HF Community Upvotes: 2. Summary: Speculative-diffusion decoding uses a small pa...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
+      "id": "4fe65077f14e",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.21938",
+      "published_at": "2026-11-15T19:00:00.000Z",
+      "title_en": "HubEgo-100K: In-the-Wild Egocentric Video of Skilled Work for Robot Learning",
+      "title_zh": "HubEgo-100K: In-the-Wild Egocentric Video of Skilled Work for Robot Learning",
+      "tldr": [
+        "一手首发源自 Hugging Face Daily Papers",
+        "HF Community Upvotes: 3. Summary: Robot policies trained by imitation generalize...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
       "id": "19950d9b0ae8",
       "source_id": "hf_papers",
       "source_name": "Hugging Face Daily Papers",
@@ -847,6 +1075,25 @@
         "针对极度密集的空间布局采用定制水冷散热方案，配合 Corsair AX1600i 与 HX1500i 双电源保障满载稳定性。"
       ],
       "tag": "#社区热议",
+      "importance": 3
+    },
+    {
+      "id": "75e3cf0a4442",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.20321",
+      "published_at": "2026-11-14T19:00:00.000Z",
+      "title_en": "Unreasonable Confidence from Simulator Misspecification: Directional Robustness on the SPEED+ Sim-to-Real Benchmark",
+      "title_zh": "Unreasonable Confidence from Simulator Misspecification: Directional Robustness on the SPEED+ Sim-to-Real Benchmark",
+      "tldr": [
+        "一手首发源自 Hugging Face Daily Papers",
+        "HF Community Upvotes: 1. Summary: Vision-based navigation systems for orbit must...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#前沿论文",
       "importance": 3
     },
     {
@@ -1233,244 +1480,6 @@
       ],
       "tag": "#官方首发",
       "importance": 3
-    },
-    {
-      "id": "8fb8b27422e3",
-      "source_id": "openai",
-      "source_name": "OpenAI Official",
-      "source_badge": "OpenAI 官方",
-      "source_icon": "openai",
-      "source_color": "#10a37f",
-      "url": "https://openai.com/index/amplitude",
-      "published_at": "2026-11-12T20:00:00+00:00",
-      "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "title_zh": "Amplitude 如何借助 OpenAI 模型实现 1 至 2 天内快速迭代产品",
-      "tldr": [
-        "Amplitude 构建了基于 OpenAI 模型的主动式产品 Agent（Wave），用于自动化识别需求、辅助团队进行代码编写并衡量业务影响。",
-        "该方案通过集成 coding agent 显著缩短了开发周期，将产品改进和功能上线的耗时压缩至 1 到 2 天内完成。"
-      ],
-      "tag": "#官方首发",
-      "importance": 3
-    },
-    {
-      "id": "6899dfc55bad",
-      "source_id": "hf_blog",
-      "source_name": "Hugging Face Blog",
-      "source_badge": "开源生态",
-      "source_icon": "huggingface",
-      "source_color": "#ff9d00",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "published_at": "2026-11-12T19:07:35+00:00",
-      "title_en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "title_zh": "LLMON：原生于 LLM 的标记语言现已登陆 Granite 4.1 3B 与 8B 模型",
-      "tldr": [
-        "推出了专为大语言模型原生设计的标记语言 LLMON，旨在优化模型对结构化数据的理解与生成效率。",
-        "该特性现已集成并支持 Granite 4.1 系列的 3B 和 8B 两种规模的开源模型权重。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "5b19e6c8d7c3",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.17610",
-      "published_at": "2026-11-12T19:00:00.000Z",
-      "title_en": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
-      "title_zh": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
-      "tldr": [
-        "一手首发源自 Hugging Face Daily Papers",
-        "HF Community Upvotes: 3. Summary: Evaluations of multi-agent language models oft...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "ed990e1c20bc",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.18550",
-      "published_at": "2026-11-12T19:00:00.000Z",
-      "title_en": "Restoring Diversity in Distilled Image and Video Generators by Probing Activations",
-      "title_zh": "Restoring Diversity in Distilled Image and Video Generators by Probing Activations",
-      "tldr": [
-        "一手首发源自 Hugging Face Daily Papers",
-        "HF Community Upvotes: 3. Summary: Distilling diffusion models into few-step stud...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "56514d86f2ee",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.17780",
-      "published_at": "2026-11-12T19:00:00.000Z",
-      "title_en": "LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent",
-      "title_zh": "LuporSQL：作为慢速 LLM Agent 系统 1 的单通 Text-to-SQL 模型",
-      "tldr": [
-        "提出 LuthorSQL，一个非自回归的 7B 参数 Text-to-SQL 模型，用作复杂云端大模型 Agent 的高速本地 System 1 门控机制。",
-        "在本地组织硬件上低成本运行，大幅削减高昂的托管 API 调用延迟与费用，同时避免敏感业务查询外泄至外部服务。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 4
-    },
-    {
-      "id": "d7a4852350bd",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.17831",
-      "published_at": "2026-11-12T19:00:00.000Z",
-      "title_en": "V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations",
-      "title_zh": "V-JEPA-LM：超越静态文本对齐表征、可读懂动态的视听语言模型",
-      "tldr": [
-        "指出传统 VLM 仅检索文本匹配属性而未利用 V-JEPA 编码器学到的物理动态特征。",
-        "通过线性探测发现冻结的 V-JEPA 特征能以 87% 的准确率读出速度等动态信息。",
-        "深入解析了动态信息在多模态大模型中的表征位置，推动视频世界模型与语言模型的深度融合。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 4
-    },
-    {
-      "id": "13379af193eb",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.18429",
-      "published_at": "2026-11-12T19:00:00.000Z",
-      "title_en": "Do Underwater Image Quality Metrics Agree with Human Perception? A Benchmark with Human Choices, Simple Edits and Generative Drift",
-      "title_zh": "水下图像质量指标是否符合人类感知？包含人类选择、简单编辑与生成漂移的基准测试",
-      "tldr": [
-        "针对水下图像增强缺乏清晰参考图像的问题，评估了 73 种无参考图像质量评估 (NR-IQA) 指标。",
-        "基于 4 个已发布意见评分集和全新配对比较研究，对人工偏好与各类指标进行全面对齐测试。",
-        "量化分析了传统 handcrafted、VLM 及通用指标在选择契合人类视觉结果时的实际一致性表现。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "33af89b6f7b6",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/",
-      "published_at": "2026-11-12T18:38:17+00:00",
-      "title_en": "So this will be true in couple of years?",
-      "title_zh": "社区讨论：AI 硬件计算中心在未来数年内是否会成为绝对重心",
-      "tldr": [
-        "Reddit 社区用户探讨了未来几年内算力基础设施的发展趋势，聚焦于数据中心对 AI 计算资源的极高需求。",
-        "引发了开发者和硬件爱好者对于半导体产能分配以及下一代 AI 算力架构演进方向的热烈讨论。"
-      ],
-      "tag": "#社区热议",
-      "importance": 2
-    },
-    {
-      "id": "ada2db53bdf5",
-      "source_id": "google_ai",
-      "source_name": "Google AI & DeepMind",
-      "source_badge": "Google 官方",
-      "source_icon": "google",
-      "source_color": "#4285f4",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "published_at": "2026-11-12T18:00:00+00:00",
-      "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "title_zh": "谷歌搜索迎来重大升级：正式集成 Gemini 4 Hydrogen 模型",
-      "tldr": [
-        "谷歌搜索界面引入全新 Gemini 4 Hydrogen 模型，通过卡片式轮播交互提供更强大的生成式搜索与推理能力。",
-        "该功能已正式上线 Google Search，显著提升了复杂信息检索的智能化水平与用户端交互体验。"
-      ],
-      "tag": "#官方首发",
-      "importance": 4
-    },
-    {
-      "id": "df3649c3e84b",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/",
-      "published_at": "2026-11-12T13:56:51+00:00",
-      "title_en": "Nvidia's Jensen Huang Resigns as CEO, Colette Kress Named Interim",
-      "title_zh": "网传英伟达 CEO 黄仁勋卸任，CFO Colette Kress 被任命为临时 CEO",
-      "tldr": [
-        "Reddit 社区流传关于英伟达高层变动的不实或玩笑传闻，称黄仁勋辞去 CEO 职务并由财务长临时接任。",
-        "该内容属于社区非严肃讨论或恶搞贴，缺乏主流官方信源证实，不作为真实人事变动处理。"
-      ],
-      "tag": "#社区热议",
-      "importance": 1
-    },
-    {
-      "id": "f663f7501fea",
-      "source_id": "openai",
-      "source_name": "OpenAI Official",
-      "source_badge": "OpenAI 官方",
-      "source_icon": "openai",
-      "source_color": "#10a37f",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "published_at": "2026-11-12T12:00:00+00:00",
-      "title_en": "Gondola doubles revenue as its team builds more with Codex",
-      "title_zh": "Gondola 借助 Codex 提升研发效能并实现营收翻倍",
-      "tldr": [
-        "创意服务平台 Gondola 通过引入 Codex，使其首席工程师的代码产出效率大幅提升了 50%。",
-        "团队结合 Codex 与 ChatGPT 简化日常开发流，有效加速了产品迭代并最终推动业务营收实现翻倍增长。"
-      ],
-      "tag": "#官方首发",
-      "importance": 3
-    },
-    {
-      "id": "e7f9e5a09d2f",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuad5c/meet_the_people_behind_mossimage_plus_a_few/",
-      "published_at": "2026-11-12T11:27:07+00:00",
-      "title_en": "Meet the people behind MOSS-Image, plus a few answers from their AMA here",
-      "title_zh": "MOSS-Image 团队透露动漫模型及开源许可证等最新开发规划",
-      "tldr": [
-        "MOSS-Image 团队透露正在开发支持 Alpha 通道与多角色参考的动漫生成模型及图像编辑模型。",
-        "开发团队计划在后续模型发布中继续采用 Apache 2.0 开源许可证，保持技术的开放共享。"
-      ],
-      "tag": "#社区热议",
-      "importance": 3
-    },
-    {
-      "id": "0be27e2a660b",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu9onk/kquant_new_quantization_technique_37_better/",
-      "published_at": "2026-11-12T10:47:24+00:00",
-      "title_en": "KQuant - new quantization technique, 3.7× better quants for Qwen Flash Next 180B, Qwen 27B, 35B, 9B (measured in KL-divergence reduction) (MLX)",
-      "title_zh": "KQuant：全新模型量化技术，实现 Qwen 系列模型 3.7 倍 KL 散度降低",
-      "tldr": [
-        "推出全新量化技术 KQuant，以 KL 散度减小衡量，在 Qwen 系列大模型上实现 3.7 倍的量化效果提升。",
-        "已率先开源 MLX 格式的优化版本（GGUF 格式次日推出），提供在 Mac 设备上运行大模型的高效推理方案。"
-      ],
-      "tag": "#社区热议",
-      "importance": 4
     }
   ]
 }
