@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-17T15:02:33.754670+00:00",
+  "last_updated": "2026-11-18T00:08:00.151658+00:00",
   "total_count": 80,
   "items": [
+    {
+      "id": "963cd8873e25",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-17T21:21:11Z",
+      "title_en": "Graphify-Labs/graphify (149654 Stars, Python)",
+      "title_zh": "Graphify-Labs/graphify (149654 Stars, Python)",
+      "tldr": [
+        "一手首发源自 GitHub Trending AI",
+        "GitHub AI Repository. Stars: 149654. Language: Python. Description: Turn any cod...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
+    },
+    {
+      "id": "86697601020f",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "published_at": "2026-11-17T17:45:00+00:00",
+      "title_en": "Introducing GPT-6.2 Astra and Sol",
+      "title_zh": "Introducing GPT-6.2 Astra and Sol",
+      "tldr": [
+        "一手首发源自 OpenAI Official",
+        "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, com...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
+      "importance": 4
+    },
+    {
+      "id": "a0dcd5c78e04",
+      "source_id": "google_ai",
+      "source_name": "Google AI & DeepMind",
+      "source_badge": "Google 官方",
+      "source_icon": "google",
+      "source_color": "#4285f4",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "published_at": "2026-11-17T17:00:00+00:00",
+      "title_en": "Put Gemini to work for you",
+      "title_zh": "Put Gemini to work for you",
+      "tldr": [
+        "一手首发源自 Google AI & DeepMind",
+        "A user interface displaying the prompt \"What can I get done for you?\" above an i...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
+      "importance": 4
+    },
     {
       "id": "0b4712f6503b",
       "source_id": "localllama",
@@ -18,6 +75,44 @@
         "在吞吐量方面达到 RTX PRO 6000 的 1.12 倍，同时 Xe3P 架构对 FP64 双精度计算进行了重大增强。"
       ],
       "tag": "#社区热议",
+      "importance": 4
+    },
+    {
+      "id": "b4f820711f6e",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "published_at": "2026-11-17T08:00:00+00:00",
+      "title_en": "Introducing ChatGPT for Sales",
+      "title_zh": "Introducing ChatGPT for Sales",
+      "tldr": [
+        "一手首发源自 OpenAI Official",
+        "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
+      "importance": 4
+    },
+    {
+      "id": "80e4299d6d9d",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-17T06:41:46Z",
+      "title_en": "affaan-m/ECC (305484 Stars, JavaScript)",
+      "title_zh": "affaan-m/ECC (305484 Stars, JavaScript)",
+      "tldr": [
+        "一手首发源自 GitHub Trending AI",
+        "GitHub AI Repository. Stars: 305484. Language: JavaScript. Description: The agen...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#开源神器",
       "importance": 4
     },
     {
@@ -55,6 +150,25 @@
         "点击可直接跳转源地址查看完整发布"
       ],
       "tag": "#开源神器",
+      "importance": 4
+    },
+    {
+      "id": "055908e23b04",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "title_en": "Astra for Law leads in legal intelligence",
+      "title_zh": "Astra for Law leads in legal intelligence",
+      "tldr": [
+        "一手首发源自 OpenAI Official",
+        "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Ever...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
       "importance": 4
     },
     {
@@ -439,6 +553,25 @@
       ],
       "tag": "#开源神器",
       "importance": 4
+    },
+    {
+      "id": "16704831e1eb",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.21412",
+      "published_at": "2026-11-15T19:00:00.000Z",
+      "title_en": "Flexible Multi-Stack Super-Resolution of Clinical Brain MRI Using Hetero-Orientation Variational Encoding: Expert Reader Evaluation in a Nigerian Cohort",
+      "title_zh": "Flexible Multi-Stack Super-Resolution of Clinical Brain MRI Using Hetero-Orientation Variational Encoding: Expert Reader Evaluation in a Nigerian Cohort",
+      "tldr": [
+        "一手首发源自 Hugging Face Daily Papers",
+        "HF Community Upvotes: 0. Summary: High-resolution brain MRI is important for neu...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
     },
     {
       "id": "fa600f4868a6",
@@ -1030,6 +1163,25 @@
       "importance": 4
     },
     {
+      "id": "5b19e6c8d7c3",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.17610",
+      "published_at": "2026-11-12T19:00:00.000Z",
+      "title_en": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+      "title_zh": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+      "tldr": [
+        "一手首发源自 Hugging Face Daily Papers",
+        "HF Community Upvotes: 3. Summary: Evaluations of multi-agent language models oft...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
       "id": "ed990e1c20bc",
       "source_id": "hf_papers",
       "source_name": "Hugging Face Daily Papers",
@@ -1320,154 +1472,6 @@
       ],
       "tag": "#社区热议",
       "importance": 1
-    },
-    {
-      "id": "3e75d42b62aa",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-11T20:54:10Z",
-      "title_en": "Graphify-Labs/graphify (146116 Stars, Python)",
-      "title_zh": "Graphify-Labs/graphify：将任意代码库与文档一键转化为可查询知识图谱的开源工具",
-      "tldr": [
-        "采用纯 Python 开发，支持将代码库、SQL Schema、配置文件及 PDF 文档直接解析为确定性的本地知识图谱。",
-        "提供 /graphify 技能深度集成至 Claude Code、Cursor、Gemini CLI 等生态，实现全边长解释且完全不依赖向量数据库。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "d1f0b10cb3a2",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.16661",
-      "published_at": "2026-11-11T19:00:00.000Z",
-      "title_en": "Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination",
-      "title_zh": "Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination",
-      "tldr": [
-        "一手首发源自 Hugging Face Daily Papers",
-        "HF Community Upvotes: 2. Summary: Efficient batch execution of agent tasks is cr...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "099997e81a94",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.17321",
-      "published_at": "2026-11-11T19:00:00.000Z",
-      "title_en": "BrickFlow: Connectivity-Guided Brick Reconstruction",
-      "title_zh": "BrickFlow: Connectivity-Guided Brick Reconstruction",
-      "tldr": [
-        "一手首发源自 Hugging Face Daily Papers",
-        "HF Community Upvotes: 2. Summary: Given a set of LEGO parts and an image of an a...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "98ea187e2bf8",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.05843",
-      "published_at": "2026-11-11T19:00:00.000Z",
-      "title_en": "Dual Flow: Joint Image-Measurement Interpolation for Inverse Problems",
-      "title_zh": "Dual Flow：面向逆问题的联合图像与测量插值生成模型",
-      "tldr": [
-        "提出 Dual Flow 创新双流模型，通过在图像域和测量域使用耦合流，联合估计干净图像与无噪声测量值来解决线性逆问题。",
-        "将图像重建与测量去噪统一为耦合估计问题，有效提升了含噪观测数据下生成式模型求解逆问题的精度。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "d70ff1ce03cb",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.16500",
-      "published_at": "2026-11-11T19:00:00.000Z",
-      "title_en": "EvenVLM: A Text and Multimodal Dataset for the Even Language with Vision-Language Fine-Tuning",
-      "title_zh": "EvenVLM：面向濒危通古斯语 Even 的文本与多模态数据集及微调",
-      "tldr": [
-        "构建了首个针对濒危语言 Even（约 6800 人使用）的文本与 VQA 多模态数据集，包含基于 GPT-4o Mini 解析及合成的超 10 万条训练样本。",
-        "针对该语言高度黏着形态的 Tokenizer 低效问题，提出了创新的三步 Tokenization 优化方案并完成视觉语言微调验证。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "f0cc0a0b3acf",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.16312",
-      "published_at": "2026-11-11T19:00:00.000Z",
-      "title_en": "Alloy: A Multi-Material Physics Engine for Robot Learning",
-      "title_zh": "Alloy：面向机器人学习的多材质开源物理引擎",
-      "tldr": [
-        "推出 Alloy 开源物理引擎，支持在同一场景中无缝模拟刚性机器人、织物、电缆、液体、颗粒物及软体等多种材质。",
-        "通过在每个控制步长内耦合不同求解器，在单一仿真框架下统一处理复杂的多材质交互，大幅提升机器人大规模具身学习效率。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "e696c2971554",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.16728",
-      "published_at": "2026-11-11T19:00:00.000Z",
-      "title_en": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming",
-      "title_zh": "EgoX：基于具身梦想的以自我为中心的跨具身操作框架",
-      "tldr": [
-        "针对人类、真实机器人及仿真 Agent 之间形态、传感和控制接口差异大的痛点，提出 EgoX 跨具身学习框架。",
-        "通过语义对应的观察和动作模态组织异构演示数据，实现多源经验的高效融合与迁移。",
-        "预训练引入带有 Embodiment Dreaming 的模块化跨具身 Transformer (MXT+)，大幅提升通用操作策略性能。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 3
-    },
-    {
-      "id": "b80ef162463c",
-      "source_id": "hf_papers",
-      "source_name": "Hugging Face Daily Papers",
-      "source_badge": "HF 顶尖论文",
-      "source_icon": "huggingface",
-      "source_color": "#ffd21e",
-      "url": "https://huggingface.co/papers/2611.17336",
-      "published_at": "2026-11-11T19:00:00.000Z",
-      "title_en": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
-      "title_zh": "回归像素：将潜在视频扩散模型提升至像素空间",
-      "tldr": [
-        "指出 VAE 潜在空间压缩限制了前沿视频生成模型在高分辨率、可控及交互生成方面的上限。",
-        "提出 PixVid 方法，将预训练的潜在视频模型直接提升至像素空间进行逐帧生成，避免 Token 数量激增。",
-        "摆脱了多帧块响应的延迟限制，实现了更细腻的像素级控制，适用于高实时与高分辨率视频生成场景。"
-      ],
-      "tag": "#前沿论文",
-      "importance": 4
     }
   ]
 }
