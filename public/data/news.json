@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-18T19:42:30.884437+00:00",
+  "last_updated": "2026-11-19T02:07:19.645222+00:00",
   "total_count": 80,
   "items": [
+    {
+      "id": "7fd3797ccc55",
+      "source_id": "hf_blog",
+      "source_name": "Hugging Face Blog",
+      "source_badge": "开源生态",
+      "source_icon": "huggingface",
+      "source_color": "#ff9d00",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "published_at": "2026-11-18T19:54:56+00:00",
+      "title_en": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "title_zh": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "tldr": [
+        "一手首发源自 Hugging Face Blog",
+        "包含一手关键技术细节与更新说明",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
+      "importance": 3
+    },
     {
       "id": "caca4592d3f5",
       "source_id": "hf_blog",
@@ -58,6 +77,44 @@
       ],
       "tag": "#官方首发",
       "importance": 3
+    },
+    {
+      "id": "1438408a7c1a",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "title_en": "Research acceleration: The jagged frontier",
+      "title_zh": "Research acceleration: The jagged frontier",
+      "tldr": [
+        "一手首发源自 OpenAI Official",
+        "OpenAI measures how coding agents are accelerating AI research, where their perf...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
+      "importance": 4
+    },
+    {
+      "id": "25b65e4e8346",
+      "source_id": "openai",
+      "source_name": "OpenAI Official",
+      "source_badge": "OpenAI 官方",
+      "source_icon": "openai",
+      "source_color": "#10a37f",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "title_en": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "title_zh": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "tldr": [
+        "一手首发源自 OpenAI Official",
+        "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, a...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#官方首发",
+      "importance": 4
     },
     {
       "id": "15e4a28045fb",
@@ -152,6 +209,25 @@
       ],
       "tag": "#社区热议",
       "importance": 2
+    },
+    {
+      "id": "ae9ca7ceb271",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "published_at": "2026-11-17T21:21:11Z",
+      "title_en": "Graphify-Labs/graphify (150194 Stars, Python)",
+      "title_zh": "Graphify-Labs/graphify (150194 Stars, Python)",
+      "tldr": [
+        "一手首发源自 GitHub Trending AI",
+        "GitHub AI Repository. Stars: 150194. Language: Python. Description: Turn any cod...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#开源神器",
+      "importance": 4
     },
     {
       "id": "fe5d3c35e669",
@@ -282,6 +358,25 @@
         "点击可直接跳转源地址查看完整发布"
       ],
       "tag": "#官方首发",
+      "importance": 4
+    },
+    {
+      "id": "efceed754a8d",
+      "source_id": "github_ai",
+      "source_name": "GitHub Trending AI",
+      "source_badge": "GitHub 热门开源",
+      "source_icon": "github",
+      "source_color": "#f0f6fc",
+      "url": "https://github.com/affaan-m/ECC",
+      "published_at": "2026-11-17T06:41:46Z",
+      "title_en": "affaan-m/ECC (306560 Stars, JavaScript)",
+      "title_zh": "affaan-m/ECC (306560 Stars, JavaScript)",
+      "tldr": [
+        "一手首发源自 GitHub Trending AI",
+        "GitHub AI Repository. Stars: 306560. Language: JavaScript. Description: The agen...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#开源神器",
       "importance": 4
     },
     {
@@ -448,6 +543,25 @@
         "引入研发第一的发展范式与长期记忆机制，显著提升大模型软件工程 Agent 的复杂任务执行成功率。"
       ],
       "tag": "#开源神器",
+      "importance": 3
+    },
+    {
+      "id": "0a118836279f",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.11937",
+      "published_at": "2026-11-16T19:00:00.000Z",
+      "title_en": "Attention at Absolute Zero",
+      "title_zh": "Attention at Absolute Zero",
+      "tldr": [
+        "一手首发源自 Hugging Face Daily Papers",
+        "HF Community Upvotes: 3. Summary: Attention scores candidate supports of an answ...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#前沿论文",
       "importance": 3
     },
     {
@@ -799,6 +913,25 @@
       "importance": 4
     },
     {
+      "id": "904735255061",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.20995",
+      "published_at": "2026-11-15T19:00:00.000Z",
+      "title_en": "CONGA: Compiling Gaussian Fiber Geometry for Structured Bayesian Inference",
+      "title_zh": "CONGA: Compiling Gaussian Fiber Geometry for Structured Bayesian Inference",
+      "tldr": [
+        "一手首发源自 Hugging Face Daily Papers",
+        "HF Community Upvotes: 1. Summary: In structured Bayesian models, a large latent ...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
       "id": "e58e9f638ae3",
       "source_id": "hf_papers",
       "source_name": "Hugging Face Daily Papers",
@@ -1078,6 +1211,25 @@
       "importance": 3
     },
     {
+      "id": "e1050d79c7d9",
+      "source_id": "hf_papers",
+      "source_name": "Hugging Face Daily Papers",
+      "source_badge": "HF 顶尖论文",
+      "source_icon": "huggingface",
+      "source_color": "#ffd21e",
+      "url": "https://huggingface.co/papers/2611.20003",
+      "published_at": "2026-11-14T19:00:00.000Z",
+      "title_en": "The novelty exposed: ablation, reproducibility and transparency in 40 technical reports of open-weight large language models (LLMs)",
+      "title_zh": "The novelty exposed: ablation, reproducibility and transparency in 40 technical reports of open-weight large language models (LLMs)",
+      "tldr": [
+        "一手首发源自 Hugging Face Daily Papers",
+        "HF Community Upvotes: 2. Summary: In 2025 alone, 48 new large language model (LL...",
+        "点击可直接跳转源地址查看完整发布"
+      ],
+      "tag": "#前沿论文",
+      "importance": 3
+    },
+    {
       "id": "75e3cf0a4442",
       "source_id": "hf_papers",
       "source_name": "Hugging Face Daily Papers",
@@ -1332,153 +1484,6 @@
         "点击可直接跳转源地址查看完整发布"
       ],
       "tag": "#社区热议",
-      "importance": 3
-    },
-    {
-      "id": "8fbc4315516c",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/",
-      "published_at": "2026-11-13T01:58:53+00:00",
-      "title_en": "Stories coming out about Jensen",
-      "title_zh": "关于黄仁勋的相关行业动态与传闻引发社区热议",
-      "tldr": [
-        "Reddit 本地大模型社区开始流传并讨论关于黄仁勋及相关科技巨头战略动向的最新行业内幕故事。",
-        "反映了开发者群体对当前算力巨头、开源生态格局演变以及顶级高管动态的高度敏感与密切关注。"
-      ],
-      "tag": "#社区热议",
-      "importance": 2
-    },
-    {
-      "id": "dfe971fd6ed3",
-      "source_id": "localllama",
-      "source_name": "Reddit r/LocalLLaMA",
-      "source_badge": "社区实测",
-      "source_icon": "reddit",
-      "source_color": "#ff4500",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open/",
-      "published_at": "2026-11-13T00:11:18+00:00",
-      "title_en": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
-      "title_zh": "Hugging Face CEO 在黄仁勋卸任后发声誓将继续捍卫开源 AI",
-      "tldr": [
-        "围绕 NVIDIA 收购传闻及 Hugging Face 在新领导层下的未来不确定性，社区引发对开源生态走向的担忧与讨论。",
-        "社区呼吁开发者对喜爱的开源数据集与模型进行本地备份，以防未来开源权限及许可政策发生潜在变动。"
-      ],
-      "tag": "#社区热议",
-      "importance": 3
-    },
-    {
-      "id": "3ba01dbcff60",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-12T21:47:45Z",
-      "title_en": "Graphify-Labs/graphify",
-      "title_zh": "Graphify-Labs/graphify：零向量数据库的代码知识图谱构建工具",
-      "tldr": [
-        "支持将任意代码库、文档、SQL架构、配置文件及PDF一键转换为可查询的结构化知识图谱。",
-        "采用本地确定性 AST 解析技术，每条边均可解释，且完全抛弃了传统的向量数据库依赖。",
-        "提供 /graphify 技能深度集成至 Claude Code、Cursor、Codex 与 Gemini CLI 等开发生态中。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "b7c6e83556d8",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-12T21:47:45Z",
-      "title_en": "Graphify-Labs/graphify",
-      "title_zh": "Graphify：无需向量数据库的本地代码库知识图谱构建工具",
-      "tldr": [
-        "能够将任意代码库、文档、SQL 架构、配置及 PDF 转换为可查询知识图谱，并提供 Claude Code 与 Cursor 插件。",
-        "采用本地确定性 AST 解析技术，每条边均有明确解释，彻底摒弃了传统的向量数据库依赖。",
-        "基于 Python 开发，在 GitHub 获得超 14 万 Star，是增强大模型代码库理解能力的硬核开源利器。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "4a72e662d4f0",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-12T21:47:45Z",
-      "title_en": "Graphify-Labs/graphify",
-      "title_zh": "Graphify-Labs/graphify：基于本地 AST 解析的代码知识图谱生成工具",
-      "tldr": [
-        "支持将任意代码库、文档、SQL Schema、配置及 PDF 转换为可查询知识图谱，无需向量数据库。",
-        "作为 Claude Code、Cursor 和 Gemini CLI 的 /graphify 技能插件，实现本地确定性 AST 解析。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "60bac84bd44d",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-12T21:47:45Z",
-      "title_en": "Graphify-Labs/graphify (147039 Stars, Python)",
-      "title_zh": "Graphify-Labs/graphify (147039 Stars, Python)",
-      "tldr": [
-        "一手首发源自 GitHub Trending AI",
-        "GitHub AI Repository. Stars: 147039. Language: Python. Description: Turn any cod...",
-        "点击可直接跳转源地址查看完整发布"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "f9be8c5d3f6a",
-      "source_id": "github_ai",
-      "source_name": "GitHub Trending AI",
-      "source_badge": "GitHub 热门开源",
-      "source_icon": "github",
-      "source_color": "#f0f6fc",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "published_at": "2026-11-12T21:47:45Z",
-      "title_en": "Graphify-Labs/graphify (146825 Stars, Python)",
-      "title_zh": "Graphify：将任意代码库零向量数据库转换为可查询知识图谱的开源工具",
-      "tldr": [
-        "支持将代码库、文档、SQL Schema、配置及 PDF 一键转换为可查询知识图谱，完全采用本地确定性 AST 解析。",
-        "完美适配 Claude Code、Cursor、Codex 及 Gemini CLI 等主流 Agent 界面，实现每条边均可解释且无需依赖向量数据库。"
-      ],
-      "tag": "#开源神器",
-      "importance": 4
-    },
-    {
-      "id": "f8c0c0d3aa2f",
-      "source_id": "openai",
-      "source_name": "OpenAI Official",
-      "source_badge": "OpenAI 官方",
-      "source_icon": "openai",
-      "source_color": "#10a37f",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "published_at": "2026-11-12T20:00:00+00:00",
-      "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "title_zh": "Amplitude 如何借助 OpenAI 在 1-2 天内实现产品功能迭代",
-      "tldr": [
-        "Amplitude 构建了名为 Wave 的主动式产品 Agent，能够自主识别需求并辅助团队在 1-2 天内完成代码交付与影响评估。",
-        "底层全面基于 OpenAI 模型驱动，通过集成编码 Agent 显著缩短了从需求发现到落地交付的研发周期。"
-      ],
-      "tag": "#官方首发",
       "importance": 3
     }
   ]
